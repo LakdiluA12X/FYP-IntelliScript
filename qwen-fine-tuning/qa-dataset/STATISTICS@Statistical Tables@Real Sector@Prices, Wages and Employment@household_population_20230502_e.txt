@@ -1,0 +1,326 @@
+Question: What was the household population in 2014?
+Answer: The household population in 2014 was 15134.484 thousand persons.
+
+Question: What was the unemployment rate in 2013?
+Answer: The unemployment rate in 2013 was 4.4%.
+
+Question: What was the labor force participation rate in 2021 Q4?
+Answer: The labor force participation rate in 2021 Q4 was 49.5%.
+
+Question: How many persons were employed in 2018 Q2?
+Answer: There were 7970 thousand persons employed in 2018 Q2.
+
+Question: What was the unemployment rate in 2016 Q2?
+Answer: The unemployment rate in 2016 Q2 was 4.6%.
+
+Question: How many persons were employed in 2022 Q3?
+Answer: There were 8010 thousand persons employed in 2022 Q3.
+
+Question: What was the labor force participation rate in 2019 Q4?
+Answer: The labor force participation rate in 2019 Q4 was 51.9%.
+
+Question: What was the unemployment rate in 2015?
+Answer: The unemployment rate in 2015 was 4.7%.
+
+Question: How many persons were unemployed in 2019 Q3?
+Answer: There were 438 thousand persons unemployed in 2019 Q3.
+
+Question: What was the labor force participation rate in 2020 Q4?
+Answer: The labor force participation rate in 2020 Q4 was 50.1%.
+
+Question: How many persons were employed in 2020 Annual?
+Answer: There were 7999 thousand persons employed in 2020 Annual.
+
+Question: What was the unemployment rate in 2021 Q3?
+Answer: The unemployment rate in 2021 Q3 was 5.2%.
+
+Question: How many persons were unemployed in 2017 Q1?
+Answer: There were 353 thousand persons unemployed in 2017 Q1.
+
+Question: What was the labor force participation rate in 2017 Q2?
+Answer: The labor force participation rate in 2017 Q2 was 53.9%.
+
+Question: How many persons were employed in 2016 Annual?
+Answer: There were 7948 thousand persons employed in 2016 Annual.
+
+Question: What was the unemployment rate in 2018 Q3?
+Answer: The unemployment rate in 2018 Q3 was 4.1%.
+
+Question: How many persons were unemployed in 2021 Q1?
+Answer: There were 492 thousand persons unemployed in 2021 Q1.
+
+Question: What was the labor force participation rate in 2018 Q4?
+Answer: The labor force participation rate in 2018 Q4 was 52.2%.
+
+Question: How many persons were employed in 2021 Q2?
+Answer: There were 8082 thousand persons employed in 2021 Q2.
+
+Question: What was the unemployment rate in 2016 Q1?
+Answer: The unemployment rate in 2016 Q1 was 4.2%.
+
+Question: How many persons were employed in 2015?
+Answer: There were 7830.976 thousand persons employed in 2015.
+
+Question: What was the labor force participation rate in 2021 Q1?
+Answer: The labor force participation rate in 2021 Q1 was 50.9%.
+
+Question: How many persons were unemployed in 2014?
+Answer: There were 348.395 thousand persons unemployed in 2014.
+
+Question: What was the labor force participation rate in 2015 Q2?
+Answer: The labor force participation rate in 2015 Q2 was 54.208945933882305%.
+
+Question: How many persons were employed in 2017 Annual?
+Answer: There were 8208 thousand persons employed in 2017 Annual.
+
+Question: What was the unemployment rate in 2020 Q1?
+Answer: The unemployment rate in 2020 Q1 was 5.7%.
+
+Question: How many persons were unemployed in 2016 Q4?
+Answer: There were 348 thousand persons unemployed in 2016 Q4.
+
+Question: What was the labor force participation rate in 2020 Q2?
+Answer: The labor force participation rate in 2020 Q2 was 50.2%.
+
+Question: How many persons were employed in 2021 Annual?
+Answer: There were 8114 thousand persons employed in 2021 Annual.
+
+Question: What was the unemployment rate in 2013?
+Answer: The unemployment rate in 2013 was 4.4%.
+
+Question: How many persons were employed in 2022 Q2?
+Answer: There were 8177 thousand persons employed in 2022 Q2.
+
+Question: What was the labor force participation rate in 2019 Q2?
+Answer: The labor force participation rate in 2019 Q2 was 52.6%.
+
+Question: How many persons were employed in 2019 Annual?
+Answer: There were 8181 thousand persons employed in 2019 Annual.
+
+Question: What was the unemployment rate in 2020 Q3?
+Answer: The unemployment rate in 2020 Q3 was 5.8%.
+
+Question: How many persons were employed in 2018 Annual?
+Answer: There were 8015 thousand persons employed in 2018 Annual.
+
+Question: What was the labor force participation rate in 2022 Q1?
+Answer: The labor force participation rate in 2022 Q1 was 51.2%.
+
+Question: How many persons were employed in 2015 Q4?
+Answer: There were 7828.639 thousand persons employed in 2015 Q4.
+
+Question: What was the unemployment rate in 2022 Q4 (b)?
+Answer: The unemployment rate in 2022 Q4 (b) was 4.8%.
+
+Question: What was the labor force participation rate in 2015 Q3?
+Answer: The labor force participation rate in 2015 Q3 was 53.78463410141093%.
+
+Question: How many persons were employed in 2016 Q3?
+Answer: There were 8000 thousand persons employed in 2016 Q3.
+
+Question: What was the unemployment rate in 2017 Q1?
+Answer: The unemployment rate in 2017 Q1 was 4.1%.
+
+Question: How many persons were unemployed in 2021 Q4?
+Answer: There were 392 thousand persons unemployed in 2021 Q4.
+
+Question: What was the labor force participation rate in 2018 Q3?
+Answer: The labor force participation rate in 2018 Q3 was 51.8%.
+
+Question: How many persons were employed in 2017 Q2?
+Answer: There were 8139 thousand persons employed in 2017 Q2.
+
+Question: What was the unemployment rate in 2019 Q1?
+Answer: The unemployment rate in 2019 Q1 was 4.7%.
+
+Question: How many persons were employed in 2020 Q4?
+Answer: There were 8031 thousand persons employed in 2020 Q4.
+
+Question: What was the labor force participation rate in 2016 Q4?
+Answer: The labor force participation rate in 2016 Q4 was 54.0%.
+
+Question: How many persons were employed in 2017 Q4?
+Answer: There were 8300 thousand persons employed in 2017 Q4.
+
+Question: What was the unemployment rate in 2020 Q1?
+Answer: The unemployment rate in 2020 Q1 was 5.7%.
+
+Question: How many persons were employed in 2018 Q2?
+Answer: There were 7970 thousand persons employed in 2018 Q2.
+
+Question: What was the labor force participation rate in 2015 Q2?
+Answer: The labor force participation rate in 2015 Q2 was 54.208945933882305%.
+
+Question: How many persons were employed in 2018 Annual?
+Answer: There were 8015 thousand persons employed in 2018 Annual.
+
+Question: What was the unemployment rate in 2016 Q2?
+Answer: The unemployment rate in 2016 Q2 was 4.6%.
+
+Question: How many persons were employed in 2022 Q1 (b)?
+Answer: There were 8389 thousand persons employed in 2022 Q1 (b).
+
+Question: What was the labor force participation rate in 2021 Q1?
+Answer: The labor force participation rate in 2021 Q1 was 50.9%.
+
+Question: How many persons were employed in 2015 Q1?
+Answer: There were 7800.07 thousand persons employed in 2015 Q1.
+
+Question: What was the unemployment rate in 2019 Q3?
+Answer: The unemployment rate in 2019 Q3 was 5.1%.
+
+Question: How many persons were employed in 2016 Annual?
+Answer: There were 7948 thousand persons employed in 2016 Annual.
+
+Question: What was the labor force participation rate in 2013?
+Answer: The labor force participation rate in 2013 was 53.70525497415781%.
+
+Question: How many persons were employed in 2021 Annual?
+Answer: There were 8114 thousand persons employed in 2021 Annual.
+
+Question: What was the unemployment rate in 2016 Q3?
+Answer: The unemployment rate in 2016 Q3 was 4.5%.
+
+Question: How many persons were employed in 2016 Q4?
+Answer: There were 8007 thousand persons employed in 2016 Q4.
+
+Question: What was the labor force participation rate in 2022 Q3 (b)?
+Answer: The labor force participation rate in 2022 Q3 (b) was 49.0%.
+
+Question: How many persons were employed in 2020 Annual?
+Answer: There were 7999 thousand persons employed in 2020 Annual.
+
+Question: What was the unemployment rate in 2014?
+Answer: The unemployment rate in 2014 was 4.3%.
+
+Question: How many persons were employed in 2018 Q4?
+Answer: There were 8088 thousand persons employed in 2018 Q4.
+
+Question: What was the labor force participation rate in 2017 Annual?
+Answer: The labor force participation rate in 2017 Annual was 54.1%.
+
+Question: How many persons were employed in 2019 Q2?
+Answer: There were 8203 thousand persons employed in 2019 Q2.
+
+Question: What was the unemployment rate in 2015 Q1?
+Answer: The unemployment rate in 2015 Q1 was 4.7%.
+
+Question: How many persons were employed in 2021 Q4?
+Answer: There were 8146 thousand persons employed in 2021 Q4.
+
+Question: What was the labor force participation rate in 2017 Q3?
+Answer: The labor force participation rate in 2017 Q3 was 53.6%.
+
+Question: How many persons were employed in 2015 Q4?
+Answer: There were 7828.639 thousand persons employed in 2015 Q4.
+
+Question: What was the unemployment rate in 2018 Q1?
+Answer: The unemployment rate in 2018 Q1 was 4.5%.
+
+Question: How many persons were employed in 2022 Q4 (b)?
+Answer: There were 8015 thousand persons employed in 2022 Q4 (b).
+
+Question: What was the labor force participation rate in 2021 Q2?
+Answer: The labor force participation rate in 2021 Q2 was 49.8%.
+
+Question: How many persons were employed in 2015 Q3?
+Answer: There were 7807.346 thousand persons employed in 2015 Q3.
+
+Question: What was the unemployment rate in 2017 Q4?
+Answer: The unemployment rate in 2017 Q4 was 4.0%.
+
+Question: How many persons were employed in 2016 Q1?
+Answer: There were 7969 thousand persons employed in 2016 Q1.
+
+Question: What was the labor force participation rate in 2019 Q4?
+Answer: The labor force participation rate in 2019 Q4 was 51.9%.
+
+Question: How many persons were unemployed in 2022 Q2 (b)?
+Answer: There were 399 thousand persons unemployed in 2022 Q2 (b).
+
+Question: What was the labor force participation rate in 2020 Q3?
+Answer: The labor force participation rate in 2020 Q3 was 51.0%.
+
+Question: How many persons were employed in 2019 Annual?
+Answer: There were 8181 thousand persons employed in 2019 Annual.
+
+Question: What was the unemployment rate in 2021 Q3?
+Answer: The unemployment rate in 2021 Q3 was 5.2%.
+
+Question: How many persons were employed in 2022 Q3 (b)?
+Answer: There were 8010 thousand persons employed in 2022 Q3 (b).
+
+Question: What was the labor force participation rate in 2018 Q1?
+Answer: The labor force participation rate in 2018 Q1 was 52.0%.
+
+Question: How many persons were unemployed in 2018 Q2?
+Answer: There were 382 thousand persons unemployed in 2018 Q2.
+
+Question: What was the labor force participation rate in 2013?
+Answer: The labor force participation rate in 2013 was 53.7%.
+
+Question: How many persons were employed in 2020 Q4?
+Answer: There were 8031 thousand persons employed in 2020 Q4.
+
+Question: What was the unemployment rate in 2014?
+Answer: The unemployment rate in 2014 was 4.3%.
+
+Question: How many persons were unemployed in 2017 Q1?
+Answer: There were 353 thousand persons unemployed in 2017 Q1.
+
+Question: What was the labor force participation rate in 2016 Q4?
+Answer: The labor force participation rate in 2016 Q4 was 54.0%.
+
+Question: How many persons were employed in 2021 Q4?
+Answer: There were 8146 thousand persons employed in 2021 Q4.
+
+Question: What was the labor force participation rate in 2015 Q2?
+Answer: The labor force participation rate in 2015 Q2 was 54.2%.
+
+Question: How many persons were employed in 2018 Annual?
+Answer: There were 8015 thousand persons employed in 2018 Annual.
+
+Question: What was the unemployment rate in 2015 Q1?
+Answer: The unemployment rate in 2015 Q1 was 4.7%.
+
+Question: How many persons were employed in 2019 Q2?
+Answer: There were 8203 thousand persons employed in 2019 Q2.
+
+Question: What was the labor force participation rate in 2021 Q1?
+Answer: The labor force participation rate in 2021 Q1 was 50.9%.
+
+Question: How many persons were unemployed in 2016 Q3?
+Answer: There were 376 thousand persons unemployed in 2016 Q3.
+
+Question: What was the labor force participation rate in 2017 Q4?
+Answer: The labor force participation rate in 2017 Q4 was 54.1%.
+
+Question: How many persons were employed in 2015 Q4?
+Answer: There were 7828.639 thousand persons employed in 2015 Q4.
+
+Question: What was the unemployment rate in 2018 Q3?
+Answer: The unemployment rate in 2018 Q3 was 4.1%.
+
+Question: How many persons were employed in 2022 Q4 (b)?
+Answer: There were 8015 thousand persons employed in 2022 Q4 (b).
+
+Question: What was the labor force participation rate in 2021 Q2?
+Answer: The labor force participation rate in 2021 Q2 was 49.8%.
+
+Question: How many persons were employed in 2015 Q3?
+Answer: There were 7807.346 thousand persons employed in 2015 Q3.
+
+Question: What was the unemployment rate in 2017 Q4?
+Answer: The unemployment rate in 2017 Q4 was 4.0%.
+
+Question: How many persons were employed in 2016 Q1?
+Answer: There were 7969 thousand persons employed in 2016 Q1.
+
+Question: What was the labor force participation rate in 2019 Q4?
+Answer: The labor force participation rate in 2019 Q4 was 51.9%.
+
+Question: How many persons were unemployed in 2019 Q3?
+Answer: There were 438 thousand persons unemployed in 2019 Q3.
+
+Question: What was the labor force participation rate in 2022 Q1 (b)?
+Answer: The labor force participation rate in 2022 Q1 (b) was 51.2%.

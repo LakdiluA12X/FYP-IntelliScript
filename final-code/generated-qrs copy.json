@@ -1,0 +1,272 @@
+{
+  "short": [
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\ABOUT\\About the Bank\\Vision, Mission & Values\\Vision, Mission & Values.txt",
+      "query": "What is the vision of the Central Bank of Sri Lanka?",
+      "response": "Our Vision: 'A credible and dynamic central bank contributing to the prosperity of Sri Lanka.'",
+      "id": 0
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\ABOUT\\About the Bank\\History\\History.txt",
+      "query": "When was the Central Bank of Ceylon established?",
+      "response": "The Central Bank of Ceylon was established by the Monetary Law Act (MLA) No.58 of 1949 and commenced operations on August 28, 1950.",
+      "id": 1
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\ABOUT\\About the Bank\\History\\History.txt",
+      "query": "What were the objectives of the Central Bank as specified in the MLA in 1949?",
+      "response": "The objectives of the Central Bank as specified in the MLA in 1949 included:\n(a) The stabilisation of domestic monetary values (maintenance of price stability).\n(b) The preservation of the par value or the stability of the exchange rate of the Sri Lankan Rupee (maintenance of exchange rate stability).\n(c) The promotion and maintenance of a high level of production, employment and real income in Sri Lanka.\n(d) The encouragement and promotion of the full development of the productive resources of Sri Lanka.",
+      "id": 2
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\ABOUT\\About the Bank\\History\\History.txt",
+      "query": "What were the core objectives of the Central Bank as amended in 2002?",
+      "response": "The core objectives of the Central Bank as amended in 2002 were:\n(1) The maintaining of economic and price stability\n(2) The maintaining of financial system stability",
+      "id": 3
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\ABOUT\\About the Bank\\History\\History.txt",
+      "query": "What is the purpose of the Central Bank Amendment Act (CBA) enacted in 2023?",
+      "response": "The Central Bank Amendment Act (CBA) enacted in 2023 aimed to review a number of provisions in the Monetary Law Act (MLA) in line with global best practices, as a result of economic developments and the evolution of central banking. CBA has special provisions to improve the central bank's independence, to increase its openness and accountability, and to reinforce the monetary policy framework to maintain continued price stability in Sri Lanka.",
+      "id": 4
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\ABOUT\\Organisational Structure\\Departments\\Departments.txt",
+      "query": "What are the activities relating to international reserve management carried out by the International Operations Department?",
+      "response": "Activities relating to international reserve management carried out by the International Operations Department mainly comprise of:\n- Investments in foreign money market instruments, investments and trading in foreign fixed income instruments and currency and investments in gold\n- Securities lending, repurchase and reverse repurchase transactions, FX swap and forward transactions\n- Maintenance of liquidity in terms of liquid foreign currency assets to meet all known and prospective foreign currency obligations, and\n- Manage funds in the Deputy Secretary to the Treasury account on behalf of the Government.",
+      "id": 5
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\ABOUT\\Organisational Structure\\Departments\\Departments.txt",
+      "query": "What are the activities of the Statistics Department?",
+      "response": "Activities of the Statistics Department include:\n- Compiling and publishing the Sri Lanka Prosperity Index (SLPI) to assess the overall prosperity of the country and provinces\n- Issuing press releases on Inflation, PMI, PGDP, SLPI, Publications of Statistics Department and any other matters\n- Publishing Daily Price Report and disseminating official statistics through Daily, Weekly and Monthly Economic Indicators on a regular basis; and Data Library\n- Engaging in the preparation of statutory reports, including Annual Report, Recent Economic Developments report, and confidential report (referred to as the September 15 Report) to the government\n- Preparing “Economic and Social Statistics of Sri Lanka” and “Sri Lanka Socio-Economic Data” publications on an annual basis.",
+      "id": 6
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\ABOUT\\Organisational Structure\\Departments\\Departments.txt",
+      "query": "What is the purpose of the Financial Consumer Relations Department (FCRD)?",
+      "response": "The purpose of the Financial Consumer Relations Department (FCRD) is:\n- In the short term, serving as a single point of contact for receipt and dissemination of all external complaints\n- In the medium term, focusing on supervising standards of market conduct of financial institutions, reviewing financial consumer protection policies in line with the local and international market developments and best practices, taking proactive and reactive measures with respect to malpractices, misconducts whilst identifying and monitoring emerging vulnerabilities in the financial consumer protection related issues.",
+      "id": 7
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\ABOUT\\Organisational Structure\\Departments\\Departments.txt",
+      "query": "What are the responsibilities of the Regional Development Department?",
+      "response": "Responsibilities of the Regional Development Department include:\n- Promoting regional development by coordinating, facilitating, and implementing concessionary credit schemes and delivering credit supplementary services for Micro, Small and Medium Scale Enterprises (MSMEs) for production of economic activities through the formal financial sector and generating more employment opportunities in the rural communities while reducing regional income disparity\n- Encouraging Participating Financial Institutions (PFIs) to provide credit facilities to vulnerable segments in the country for self-employment by providing interest subsidiaries and credit guarantees for the loans provided by PFIs\n- Monitoring, coordinating, and evaluating the activities of the National Financial Inclusion Strategy (NFIS) of Sri Lanka to increase the country’s financial inclusion\n- Conducting awareness and capacity building programs to enhance financial literacy, entrepreneurship development, and project management skills of MSMEs and the general public mainly targeting underserved segments of the country with the objectives of NFIS\n- Promoting an eco-friendly village environment by transforming selected villages as green villages to improve healthy living standards and best practices among the community while focusing on uplifting the livelihood of the underserved and promoting agricultural exports and market linkage with value chain while enhancing quality food products for sustainable development\n- Delivering the services offered by the CBSL to the regional level through Regional Offices while strengthening the regional development activities through regional forums and conducting field visits to identify regional issues and new business opportunities.",
+      "id": 8
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\FINANCIAL SYSTEM\\Financial System Stability\\Major Functions\\Major Functions.txt",
+      "query": "What is the purpose of the Sri Lanka Deposit Insurance and Support Scheme (SLDILSS)?",
+      "response": "The purpose of establishing the Sri Lanka Deposit Insurance and Support Scheme (SLDILSS) is to create a mechanism to protect depositors from the failure of financial institutions and thereby promote the stability of financial institutions and the financial system of the country as a whole by maintaining depositor confidence.",
+      "id": 9
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\FINANCIAL SYSTEM\\Financial System Stability\\Major Functions\\Major Functions.txt",
+      "query": "What is the role of the Central Bank in resolution of failing financial institutions?",
+      "response": "The Central Bank intervenes to resolve failing financial institutions safely, minimizing the impact of possible adverse consequences of such institution failure on the broader economy. It aims to change the burden of possible institutional failures from taxpayers to shareholders and unsecured creditors of the failing institution.",
+      "id": 10
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\FINANCIAL SYSTEM\\Financial System Stability\\Major Functions\\Major Functions.txt",
+      "query": "What are the main types of financial market infrastructure?",
+      "response": "The main types of financial market infrastructure include:\n- Payment systems involving financial institutions\n- Securities settlement systems\n- Others such as central counterparties (currently there is no such entity falling under the purview of the Central Bank)",
+      "id": 11
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\FINANCIAL SYSTEM\\Financial System Stability\\Major Functions\\20230613_environmental_and_social_commitment_plan_e.txt",
+      "query": "How often are monitoring reports on environmental, social, health, and safety performance submitted to the Association?",
+      "response": "Monitoring reports on environmental, social, health, and safety (ESHS) performance of the Sri Lanka Financial Sector Safety Net Strengthening Project are submitted to the Association every six months, in conjunction with the project's progress reports, throughout project implementation. Reports are submitted no later than 45 days after the end of each reporting period.",
+      "id": 12
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\FINANCIAL SYSTEM\\Financial System Stability\\Major Functions\\20230613_environmental_and_social_commitment_plan_e.txt",
+      "query": "What measures are taken to manage incidents and accidents related to the Sri Lanka Financial Sector Safety Net Strengthening Project?",
+      "response": "The Resolution and Enforcement Department (RED) of the Central Bank of Sri Lanka (CBSL) promptly notifies the World Bank of any incidents or accidents related to the project with significant adverse effects. The RED provides detailed information on the scope, severity, and possible causes of the incident or accident, along with immediate or planned measures to address it. CBSL also implements an Incident handling and Management framework via a reporting system under the Risk Management Policy statement.",
+      "id": 13
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\FINANCIAL SYSTEM\\Financial System Stability\\Major Functions\\20230613_environmental_and_social_commitment_plan_e.txt",
+      "query": "What actions are taken to manage waste under the Sri Lanka Financial Sector Safety Net Strengthening Project?",
+      "response": "Under the Sri Lanka Financial Sector Safety Net Strengthening Project, the Resolution and Enforcement Department (RED) of the Central Bank of Sri Lanka (CBSL) adopts and implements e-waste management procedures in accordance with national E-waste Guidelines. Expired or damaged IT equipment is disposed of through certified e-waste collectors, ensuring compliance with Environmental and Social Standards (ESS3) and the Project Operations Manual (POM).",
+      "id": 14
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\FINANCIAL SYSTEM\\Instruments & Implementation\\Financial Instuments Overview\\Financial Instuments Overview.txt",
+      "query": "What services are provided to demand deposit holders by banks?",
+      "response": "Banks provide a number of services to demand deposit holders such as cheque facilities, standing orders, Automated Teller Machine (ATM) access, and debit cards to facilitate withdrawals and payments.",
+      "id": 15
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\FINANCIAL SYSTEM\\Instruments & Implementation\\Financial Instuments Overview\\Financial Instuments Overview.txt",
+      "query": "How are savings deposits different from demand deposits?",
+      "response": "Savings deposits earn interest, which may be calculated on a daily, weekly, monthly, or annual basis, unlike demand deposits which generally do not earn interest. Additionally, savings deposit holders receive pass-books or statements detailing transactions and may have access to services such as ATM and debit cards.",
+      "id": 16
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\FINANCIAL SYSTEM\\Instruments & Implementation\\Financial Instuments Overview\\Financial Instuments Overview.txt",
+      "query": "What are repurchase agreements (Repo)?",
+      "response": "Repurchase agreements (Repo) involve the sale for cash of securities (usually government securities) at a specified price with a commitment to repurchase the same or similar securities at a fixed price on a specified future date. The difference between the sale price and the repurchase price represents the interest income. Most repos are very short-term money market instruments.",
+      "id": 17
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\FINANCIAL SYSTEM\\Instruments & Implementation\\Financial Instuments Overview\\Financial Instuments Overview.txt",
+      "query": "What are commercial papers and how are they issued?",
+      "response": "Commercial papers are short-term, unsecured debt securities issued by private sector companies to raise funds. They are generally issued by creditworthy institutions in large denominations and may have additional bank guarantees of payment. CPs are usually sold at a discount, although some are interest-bearing.",
+      "id": 18
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\LAWS\\Directions, Circulars and Guidelines\\Financial Consumer Protection\\fcrd_regulations_no_01_of_2023_e.txt",
+      "query": "What is the purpose of the Financial Consumer Protection Regulations No. 01 of 2023?",
+      "response": "The purpose of the Financial Consumer Protection Regulations No. 01 of 2023 is to ensure that financial institutions operate in compliance with all legal and regulatory requirements, thereby enabling financial consumers to receive competitive service in a just and equitable manner.",
+      "id": 19
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\LAWS\\Directions, Circulars and Guidelines\\Financial Consumer Protection\\fcrd_regulations_no_01_of_2023_e.txt",
+      "query": "What authority does the Central Bank have under these regulations?",
+      "response": "Under these regulations, the Central Bank has the power to monitor, evaluate, and examine financial service providers on the implementation of the regulations. It can also issue circulars, guidelines, and codes of conduct to ensure compliance by financial service providers.",
+      "id": 20
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\LAWS\\Directions, Circulars and Guidelines\\Financial Consumer Protection\\fcrd_regulations_no_01_of_2023_e.txt",
+      "query": "What responsibilities does the Board of Directors of financial service providers have under these regulations?",
+      "response": "The Board of Directors of financial service providers is responsible for strengthening the financial consumer protection framework. They must approve and adopt policies and procedures, ensure appropriate structures are in place for implementation, appoint an officer for oversight, and monitor compliance by employees and agents.",
+      "id": 21
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\LAWS\\Directions, Circulars and Guidelines\\Payments and Settlements\\Cheque Imaging and Truncation System (CITS).txt",
+      "query": "What is the purpose of the Cheque Imaging and Truncation System (CITS)?",
+      "response": "The purpose of the Cheque Imaging and Truncation System (CITS) is to provide image-based cheque clearing facilities by capturing the image of physical cheques, converting them to digital form, and presenting them to the Main Processing Centre of LankaClear for clearing.",
+      "id": 22
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\LAWS\\Directions, Circulars and Guidelines\\Payments and Settlements\\Cheque Imaging and Truncation System (CITS).txt",
+      "query": "What essential particulars must an Image Return Document or a Cheque Return Notification contain?",
+      "response": "An Image Return Document or a Cheque Return Notification must contain the following essential particulars: Presenting Bank’s name, image of the dishonoured cheque, essential electronic payment information of the dishonoured cheque, reasons for the dishonour, history of dishonour, conditions for subsequent presentment specified by LankaClear, and signature of the authorized signatory of the Presenting Bank.",
+      "id": 23
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\LAWS\\Directions, Circulars and Guidelines\\Payments and Settlements\\Cheque Imaging and Truncation System (CITS).txt",
+      "query": "What is the significance of the General Direction No. 01/2006 issued by the Monetary Board of the Central Bank of Sri Lanka?",
+      "response": "General Direction No. 01/2006 issued by the Monetary Board of the Central Bank of Sri Lanka under Section 44(g) of the Payment and Settlement Systems Act No. 28 of 2005 provides directions for the proper implementation, administration, and enforcement of the provisions of the Act, specifically regarding the Cheque Imaging and Truncation System (CITS). It applies to LankaClear (Pvt) Ltd. and participants of the CITS System.",
+      "id": 24
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\LAWS\\Acts\\Central Bank of Sri Lanka Act\\Central Bank of Sri Lanka Act.txt",
+      "query": "What is the objective of the Banking (Special Provisions) Act, No. 17 of 2023?",
+      "response": "The objective of the Banking (Special Provisions) Act, No. 17 of 2023, is to provide for the resolution authority of the Central Bank and the resolution measures that can be implemented by the Central Bank and the government of Sri Lanka to resolve licensed banks in a timely manner, revive such banks as going concerns, ensure the interests of depositors and creditors, ensure financial system stability, provide for a deposit insurance scheme, winding-up process for licensed banks, and provide for matters connected therewith or incidental thereto.",
+      "id": 25
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\LAWS\\Acts\\Central Bank of Sri Lanka Act\\Central Bank of Sri Lanka Act.txt",
+      "query": "What is the purpose of the Foreign Exchange Act No. 12 of 2017?",
+      "response": "The purpose of the Foreign Exchange Act No. 12 of 2017, is to provide for the promotion and regulation of foreign exchange, vest the responsibility for promoting and regulating foreign exchange in the Central Bank as the Agent of the Government, repeal the Exchange Control Act (chapter 423), and provide for matters connected therewith or incidental thereto.",
+      "id": 26
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\LAWS\\Consultation Papers\\Consultation Papers for Public Comments\\consultation_paper_20230811_proposed_amendments_to_fla_no_56_of_2000_e.txt",
+      "query": "What is the proposed provision in Section 13A regarding the acceptance of equipment under a finance lease?",
+      "response": "The proposed provision in Section 13A states that a lessee is deemed to have accepted an equipment under a finance lease if the lessee has, by a statement in writing directed to the lessor, indicated that the equipment complies with the lease agreement requirements or that the lessee will accept the property notwithstanding any non-compliance with such requirements.",
+      "id": 27
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\LAWS\\Consultation Papers\\Consultation Papers for Public Comments\\consultation_paper_20230811_proposed_amendments_to_fla_no_56_of_2000_e.txt",
+      "query": "What are the proposed changes in Section 15 regarding the return of equipment at the expiration of a finance lease?",
+      "response": "The proposed changes in Section 15 include:\n1. Specifying that the lessee, unless exercising the right to purchase or retain the equipment, shall return the equipment to the lessor in the condition specified in paragraph (c) of Section 12.\n2. Granting the lessor the right to be notified by the lessee of the whereabouts of the equipment and recover possession of the same upon expiration of the lease.",
+      "id": 28
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\MONETARY POLICY\\About Monetary Policy\\Economic and Price Stability\\Economic and Price Stability.txt",
+      "query": "What is the current monetary policy framework followed by the Central Bank of Sri Lanka?",
+      "response": {
+        "type": "Explanatory",
+        "answer": "The current monetary policy framework followed by the Central Bank of Sri Lanka is a flexible inflation targeting (FIT) framework. It aims to stabilize inflation at mid-single-digit levels over the medium term while supporting economic growth."
+      },
+      "id": 29
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\MONETARY POLICY\\About Monetary Policy\\Economic and Price Stability\\Economic and Price Stability.txt",
+      "query": "How does the Central Bank conduct its Open Market Operations (OMO)?",
+      "response": {
+        "type": "Procedural",
+        "answer": "The Central Bank conducts its Open Market Operations (OMO) within the corridor of interest rates formed by its policy rates, namely the standing deposit facility rate (formerly the repurchase rate) and the standing lending facility rate (formerly the reverse repurchase rate). OMO aims to achieve the intended inflation path by periodically reviewing and adjusting the policy rates, if necessary, to guide the interest rate structure of the economy."
+      },
+      "id": 30
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\MONETARY POLICY\\Instruments & Implementation\\Policy Rates and Open Market Operations\\Policy Rates and Open Market Operations.txt",
+      "query": "What is the purpose of Standing Deposit Facility Rate (SDFR) and Standing Lending Facility Rate (SLFR)?",
+      "response": {
+        "type": "Explanatory",
+        "answer": "The Standing Deposit Facility Rate (SDFR) and Standing Lending Facility Rate (SLFR) serve as the lower and upper bounds for the overnight interest rates in money markets, respectively. They are the Central Bank's main signaling mechanism on its monetary policy stance and are reviewed regularly, usually eight times per year, and revised if necessary."
+      },
+      "id": 31
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\MONETARY POLICY\\Instruments & Implementation\\Policy Rates and Open Market Operations\\Policy Rates and Open Market Operations.txt",
+      "query": "How does the Central Bank utilize Standing facilities in monetary policy implementation?",
+      "response": {
+        "type": "Procedural",
+        "answer": "Standing facilities are available for participating financial institutions to deposit excess funds or borrow funds on a reverse repurchase basis under the Standing Deposit Facility Rate (SDFR) and Standing Lending Facility Rate (SLFR), respectively. These facilities help prevent wide fluctuations in overnight interest rates."
+      },
+      "id": 32
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\MONETARY POLICY\\Monetary Policy Communication\\Monetary Policy Reports\\monetary_policy_report_2023_july_e.txt",
+      "query": "What are the risks to inflation projections mentioned in the July 2023 Monetary Policy Report?",
+      "response": {
+        "type": "Explanatory",
+        "answer": "The risks to inflation projections in the July 2023 Monetary Policy Report include potential passthrough of exchange rate appreciation to domestic price levels, faster recovery of supply conditions due to further extensions to fertiliser distribution, sustained impact of diminished purchasing power, quicker-than-anticipated easing of world commodity prices, and fuel price reductions due to favorable movements of global oil prices and the exchange rate."
+      },
+      "id": 33
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\MONETARY POLICY\\Monetary Policy Communication\\Monetary Policy Reports\\monetary_policy_report_2023_july_e.txt",
+      "query": "What is mentioned about inflation in the July 2023 Monetary Policy Report?",
+      "response": {
+        "type": "Informational",
+        "answer": "In the July 2023 Monetary Policy Report, it is mentioned that inflation continued to decelerate faster than projected and is expected to reach a single-digit level in July 2023."
+      },
+      "id": 34
+    }
+  ],
+  "long": [
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\ABOUT\\About the Bank\\History\\History.txt",
+      "query": "Could you provide a list of notable individuals who have served as Governors of the Central Bank in Sri Lanka over the years? Additionally, it would be helpful to include information about their respective tenures and any significant contributions they made during their time in office",
+      "response": "Past Governors:\n- Ajith Nivard Cabraal (2021 - 2022)\n- Deshamanya Prof. W D Lakshman (2019 - 2021)\n- Dr. Indrajith Coomaraswamy (2016 - 2019)\n- Arjuna Mahendran (2015 - 2016)\n- Ajith Nivard Cabraal (2006 - 2015)\n- Deshamanya Sunil Mendis (2004 - 2006)\n- A S Jayawardena (1995 - 2004)\n- H B Dissanayaka (1992 - 1995)\n- Dr. H N S Karunatillake (1988 - 1992)\n- Dr. W Rasaputram (1979 - 1988)\n- H E Tennekoon (1971 - 1979)\n- W Tennekoon (1967 - 1971)\n- D. W. Rajapathirana (1959 - 1967)\n- Sir Arthur Ranasinghe (1954 - 1959)\n- N U Jayawardena (1953 - 1954)\n- John Exter (1950 - 1953) (Founder Governor)",
+      "id": 35
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\FINANCIAL SYSTEM\\Financial System Stability\\Major Functions\\20230613_environmental_and_social_commitment_plan_e.txt",
+      "query": "In the context of the Sri Lanka Financial Sector Safety Net Strengthening Project, what specific role does the Project Implementation Unit (PIU) play, and how does it contribute to the objectives and implementation of the project aimed at enhancing the safety net within the financial sector of Sri Lanka?",
+      "response": "The Project Implementation Unit (PIU) at the Central Bank of Sri Lanka (CBSL) is responsible for establishing and maintaining organizational structures, adopting and implementing environmental and social guidelines, providing technical assistance, and ensuring compliance with labor regulations. Additionally, the PIU oversees regular reporting on environmental, social, health, and safety performance, incident notification to the World Bank, and engagement with stakeholders including indigenous communities.",
+      "id": 36
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\FINANCIAL SYSTEM\\Instruments & Implementation\\Financial Instuments Overview\\Financial Instuments Overview.txt",
+      "query": "Could you please elaborate on the maturity period associated with Treasury bills in Sri Lanka? It would be beneficial to understand the range of maturity periods available for Treasury bills, as well as any specific factors that may influence the duration of these securities. Additionally, information regarding the significance of Treasury bill maturity periods within the broader context of the financial market would be appreciated.",
+      "response": "Treasury bills have a maturity period of up to one year and are issued in maturities of 91 days, 182 days, and 364 days.",
+      "id": 37
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\LAWS\\Directions, Circulars and Guidelines\\Payments and Settlements\\Cheque Imaging and Truncation System (CITS).txt",
+      "query": "What offences are specified under the Payment and Settlement Systems Act No. 28 of 2005 related to non-compliance with the Cheque Imaging and Truncation System (CITS)?",
+      "response": "Under the Payment and Settlement Systems Act No. 28 of 2005, failure to comply with the direction or any directive, instruction, or rule related to the Cheque Imaging and Truncation System (CITS) is considered an offence.",
+      "id": 38
+    }
+  ],
+  "mix": [
+    {
+      "path": "PUBLICATIONS, STATISTICS",
+      "query": "What is SLIP and how does SLIPS compare to the Cheque Clearing system in terms of transaction volumes and values?",
+      "response": "SLIPS, which stands for Sri Lanka Interbank Payment System, is operated by LPPL and facilitates same-day settlements for payment instructions submitted before specified cut-off times. It processes low-value transactions such as customer transfers, standing orders, and bulk payments, with a maximum transaction limit of Rs. 5 million. As of Q3 2022, SLIPS had 46 participants, including CBSL, licensed commercial banks, specialized banks, finance companies, and a cooperative rural bank.\n\nComparing SLIPS to the Cheque Clearing system in terms of transaction volumes and values, SLIPS has shown a steady increase in transactions from 2018 to 2022, while Cheque Clearing experienced fluctuations. In Q3 2021, SLIPS processed 41,867.7 thousand transactions valued at Rs. 2,862.2 billion, whereas Cheque Clearing handled 33,021.2 thousand transactions worth Rs. 2,862.2 billion. SLIPS transactions increased further in Q3 2022, surpassing Cheque Clearing volumes and values.",
+      "id": 39
+    },
+    {
+      "path": "D:\\python-projects\\llama-2\\cbsl-data-collector\\Extracted-text-data-v3\\PUBLICATIONS\\Economic and Financial Reports\\Annual Report\\Annual Report 2021\\Full_Text_Volume_I.txt",
+      "query": "What was the average annual growth rate for the Sri Lankan economy between 2017 and 2021?",
+      "response": "The average annual growth rate for the Sri Lankan economy between 2017 and 2021 was approximately 1.26%.",
+      "id": 40
+    }
+  ]
+}

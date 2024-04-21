@@ -1,0 +1,239 @@
+Question: What was the total number of reported finance companies in 1995?
+Answer: In 1995, there were 24 reported finance companies.
+Keywords: Reported finance companies, 1995.
+
+Question: What was the total capital account of finance companies in 2008?
+Answer: The total capital account of finance companies in 2008 was approximately 25301.177.
+Keywords: Capital account, finance companies, 2008.
+
+Question: How many finance companies were reported in 2003?
+Answer: In 2003, there were 26 reported finance companies.
+Keywords: Reported finance companies, 2003.
+
+Question: What was the total amount of deposits in finance companies in 2000?
+Answer: The total amount of deposits in finance companies in 2000 was 20813.
+Keywords: Deposits, finance companies, 2000.
+
+Question: What was the total amount of borrowings in finance companies in 1994?
+Answer: The total amount of borrowings in finance companies in 1994 was 1335.1.
+Keywords: Borrowings, finance companies, 1994.
+
+Question: How many finance companies were reported in 2006?
+Answer: In 2006, there were 29 reported finance companies.
+Keywords: Reported finance companies, 2006.
+
+Question: What was the total investments in government securities in finance companies in 2010?
+Answer: The total investments in government securities in finance companies in 2010 was 12856.
+Keywords: Investments in government securities, finance companies, 2010.
+
+Question: What was the total liabilities of finance companies in 1999?
+Answer: The total liabilities of finance companies in 1999 was 30703.
+Keywords: Liabilities, finance companies, 1999.
+
+Question: What was the total other assets of finance companies in 2007?
+Answer: The total other assets of finance companies in 2007 was 24527.
+Keywords: Other assets, finance companies, 2007.
+
+Question: What was the total hire purchase in finance companies in 1990?
+Answer: The total hire purchase in finance companies in 1990 was 3342.4.
+Keywords: Hire purchase, finance companies, 1990.
+
+Question: How many finance companies were reported in 2009?
+Answer: In 2009, there were 35 reported finance companies.
+Keywords: Reported finance companies, 2009.
+
+Question: What was the total loans outstanding in finance companies in 1996?
+Answer: The total loans outstanding in finance companies in 1996 was 12086.
+Keywords: Loans outstanding, finance companies, 1996.
+
+Question: What was the total investments of finance companies in 2005?
+Answer: The total investments of finance companies in 2005 was 17188.
+Keywords: Investments, finance companies, 2005.
+
+Question: What was the total equity & debt investment in finance companies in 1996?
+Answer: The total equity & debt investment in finance companies in 1996 was 1036.
+Keywords: Equity & debt investment, finance companies, 1996.
+
+Question: What was the total assets of finance companies in 1992?
+Answer: The total assets of finance companies in 1992 was 10300.4.
+Keywords: Assets, finance companies, 1992.
+
+Question: What was the total other liabilities of finance companies in 1997?
+Answer: The total other liabilities of finance companies in 1997 was 4576.
+Keywords: Other liabilities, finance companies, 1997.
+
+Question: What was the total liabilities of finance companies in 2004?
+Answer: The total liabilities of finance companies in 2004 was 66231.
+Keywords: Liabilities, finance companies, 2004.
+
+Question: What was the total assets of finance companies in 2008?
+Answer: The total assets of finance companies in 2008 was 175634.824.
+Keywords: Assets, finance companies, 2008.
+
+Question: What was the total borrowings of finance companies in 1992?
+Answer: The total borrowings of finance companies in 1992 was 3273.8.
+Keywords: Borrowings, finance companies, 1992.
+
+Question: What was the total hire purchase in finance companies in 1991?
+Answer: The total hire purchase in finance companies in 1991 was 3440.8.
+Keywords: Hire purchase, finance companies, 1991.
+
+Question: How many finance companies were reported in 2001?
+Answer: In 2001, there were 25 reported finance companies.
+Keywords: Reported finance companies, 2001.
+
+Question: What was the total investments in finance companies in 1993?
+Answer: The total investments in finance companies in 1993 was 2358.2.
+Keywords: Investments, finance companies, 1993.
+
+Question: What was the total liabilities of finance companies in 2007?
+Answer: The total liabilities of finance companies in 2007 was 142518.
+Keywords: Liabilities, finance companies, 2007.
+
+Question: What was the total capital account of finance companies in 1990?
+Answer: The total capital account of finance companies in 1990 was 960.5.
+Keywords: Capital account, finance companies, 1990.
+
+Question: What was the total assets of finance companies in 2001?
+Answer: The total assets of finance companies in 2001 was 36944.
+Keywords: Assets, finance companies, 2001.
+
+Question: What was the total assets of finance companies in 1994?
+Answer: The total assets of finance companies in 1994 was 11873.5.
+Keywords: Assets, finance companies, 1994.
+
+Question: What was the total deposits in finance companies in 2002?
+Answer: The total deposits in finance companies in 2002 was 28627.
+Keywords: Deposits, finance companies, 2002.
+
+Question: What was the total assets of finance companies in 1997?
+Answer: The total assets of finance companies in 1997 was 22295.
+Keywords: Assets, finance companies, 1997.
+
+Question: What was the total investments in finance companies in 2006?
+Answer: The total investments in finance companies in 2006 was 23944.
+Keywords: Investments, finance companies, 2006.
+
+Question: How many finance companies were reported in 2005?
+Answer: In 2005, there were 28 reported finance companies.
+Keywords: Reported finance companies, 2005.
+
+Question: What was the total number of reported finance companies in 2010?
+Answer: In 2010, there were 36 reported finance companies.
+Keywords: Reported finance companies, 2010.
+
+Question: What was the total liabilities of finance companies in 2006?
+Answer: The total liabilities of finance companies in 2006 was 113099.
+Keywords: Liabilities, finance companies, 2006.
+
+Question: How many finance companies were reported in 1998?
+Answer: In 1998, there were 25 reported finance companies.
+Keywords: Reported finance companies, 1998.
+
+Question: What was the total other liabilities of finance companies in 2009?
+Answer: The total other liabilities of finance companies in 2009 was 25776.
+Keywords: Other liabilities, finance companies, 2009.
+
+Question: What was the total assets of finance companies in 2000?
+Answer: The total assets of finance companies in 2000 was 33566.
+Keywords: Assets, finance companies, 2000.
+
+Question: What was the total borrowings of finance companies in 2001?
+Answer: The total borrowings of finance companies in 2001 was 1258.
+Keywords: Borrowings, finance companies, 2001.
+
+Question: How many finance companies were reported in 2004?
+Answer: In 2004, there were 27 reported finance companies.
+Keywords: Reported finance companies, 2004.
+
+Question: What was the total investments in government securities in finance companies in 1997?
+Answer: The total investments in government securities in finance companies in 1997 was 1534.
+Keywords: Investments in government securities, finance companies, 1997.
+
+Question: What was the total assets of finance companies in 1991?
+Answer: The total assets of finance companies in 1991 was 9862.1.
+Keywords: Assets, finance companies, 1991.
+
+Question: What was the total investments of finance companies in 1999?
+Answer: The total investments of finance companies in 1999 was 6436.
+Keywords: Investments, finance companies, 1999.
+
+Question: What was the total capital account of finance companies in 2005?
+Answer: The total capital account of finance companies in 2005 was 12763.
+Keywords: Capital account, finance companies, 2005.
+
+Question: How many finance companies were reported in 1992?
+Answer: In 1992, there were 27 reported finance companies.
+Keywords: Reported finance companies, 1992.
+
+Question: What was the total hire purchase in finance companies in 2003?
+Answer: The total hire purchase in finance companies in 2003 was 37125.
+Keywords: Hire purchase, finance companies, 2003.
+
+Question: What was the total other assets of finance companies in 1996?
+Answer: The total other assets of finance companies in 1996 was 3737.
+Keywords: Other assets, finance companies, 1996.
+
+Question: What was the total loans outstanding in finance companies in 2007?
+Answer: The total loans outstanding in finance companies in 2007 was 106211.
+Keywords: Loans outstanding, finance companies, 2007.
+
+Question: What was the total deposits in finance companies in 1993?
+Answer: The total deposits in finance companies in 1993 was 5492.6.
+Keywords: Deposits, finance companies, 1993.
+
+Question: What was the total assets of finance companies in 2002?
+Answer: The total assets of finance companies in 2002 was 44910.
+Keywords: Assets, finance companies, 2002.
+
+Question: What was the total liabilities of finance companies in 1995?
+Answer: The total liabilities of finance companies in 1995 was 15085.
+Keywords: Liabilities, finance companies, 1995.
+
+Question: What was the total other assets of finance companies in 1994?
+Answer: The total other assets of finance companies in 1994 was 3516.8.
+Keywords: Other assets, finance companies, 1994.
+
+Question: What was the total borrowings of finance companies in 2008?
+Answer: The total borrowings of finance companies in 2008 was 26236.995.
+Keywords: Borrowings, finance companies, 2008.
+
+Question: What was the total investments in finance companies in 2009?
+Answer: The total investments in finance companies in 2009 was 36725.
+Keywords: Investments, finance companies, 2009.
+
+Question: How many finance companies were reported in 2000?
+Answer: In 2000, there were 25 reported finance companies.
+Keywords: Reported finance companies, 2000.
+
+Question: What was the total assets of finance companies in 1998?
+Answer: The total assets of finance companies in 1998 was 26089.
+Keywords: Assets, finance companies, 1998.
+
+Question: What was the total other liabilities of finance companies in 1990?
+Answer: The total other liabilities of finance companies in 1990 was 822.1.
+Keywords: Other liabilities, finance companies, 1990.
+
+Question: What was the total equity & debt investment in finance companies in 2004?
+Answer: The total equity & debt investment in finance companies in 2004 was 2160.
+Keywords: Equity & debt investment, finance companies, 2004.
+
+Question: What was the total capital account of finance companies in 1996?
+Answer: The total capital account of finance companies in 1996 was 2605.
+Keywords: Capital account, finance companies, 1996.
+
+Question: What was the total assets of finance companies in 2003?
+Answer: The total assets of finance companies in 2003 was 53980.
+Keywords: Assets, finance companies, 2003.
+
+Question: What was the total hire purchase in finance companies in 2010?
+Answer: The total hire purchase in finance companies in 2010 was 174120.
+Keywords: Hire purchase, finance companies, 2010.
+
+Question: What was the total deposits in finance companies in 2001?
+Answer: The total deposits in finance companies in 2001 was 24421.
+Keywords: Deposits, finance companies, 2001.
+
+Question: What was the total assets of finance companies in 2007?
+Answer: The total assets of finance companies in 2007 was 142518.
+Keywords: Assets, finance companies, 2007.

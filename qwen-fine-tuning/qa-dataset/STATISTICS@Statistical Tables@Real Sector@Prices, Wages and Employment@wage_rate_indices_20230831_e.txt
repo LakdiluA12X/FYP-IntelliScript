@@ -1,0 +1,520 @@
+Question: What is the base year for the Public Sector wage rate index?
+Answer: The base year for the Public Sector wage rate index is 2016.
+
+Question: Which sector's wage rate index was rebased to 2018 from 2012?
+Answer: The Informal Private Sector wage rate index was rebased to 2018 from 2012.
+
+Question: What is the reference index year for the Real Wage Rate Indices?
+Answer: The reference index year for the Real Wage Rate Indices is 2013.
+
+Question: According to the data, which sector's wage rate index experienced a decrease in August 2019 compared to the previous month?
+Answer: The Informal Private Sector wage rate index experienced a decrease in August 2019 compared to the previous month.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in December 2019?
+Answer: The Real Wage Rate Index for the Informal Private Sector in December 2019 was approximately 101.82.
+
+Question: In which month of 2020 did the Real Wage Rate Index for the Informal Private Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its highest value in April 2020.
+
+Question: What was the Real Wage Rate Index for the Public Sector in February 2021?
+Answer: The Real Wage Rate Index for the Public Sector in February 2021 was approximately 91.33.
+
+Question: Which year had the highest Real Wage Rate Index for the Public Sector?
+Answer: The year 2022 had the highest Real Wage Rate Index for the Public Sector.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in March 2023?
+Answer: The Real Wage Rate Index for the Informal Private Sector in March 2023 was approximately 80.3.
+
+Question: Which month in 2023 had the highest Real Wage Rate Index for the Informal Private Sector?
+Answer: The highest Real Wage Rate Index for the Informal Private Sector in 2023 was recorded in July.
+
+Question: What was the Real Wage Rate Index for the Public Sector in November 2022?
+Answer: The Real Wage Rate Index for the Public Sector in November 2022 was approximately 92.86.
+
+Question: Which sector's wage rate index increased consistently from January to March 2019?
+Answer: The Informal Private Sector wage rate index increased consistently from January to March 2019.
+
+Question: What was the Real Wage Rate Index for the Public Sector in May 2018?
+Answer: The Real Wage Rate Index for the Public Sector in May 2018 was approximately 91.74.
+
+Question: In which month of 2017 did the Real Wage Rate Index for the Public Sector drop to its lowest point?
+Answer: The Real Wage Rate Index for the Public Sector dropped to its lowest point in December 2017.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in September 2021?
+Answer: The Real Wage Rate Index for the Informal Private Sector in September 2021 was approximately 108.78.
+
+Question: Which sector's wage rate index experienced a decline from June to July 2018?
+Answer: The Public Sector wage rate index experienced a decline from June to July 2018.
+
+Question: What was the Real Wage Rate Index for the Public Sector in October 2020?
+Answer: The Real Wage Rate Index for the Public Sector in October 2020 was approximately 102.48.
+
+Question: In which month of 2021 did the Real Wage Rate Index for the Informal Private Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its highest value in October 2021.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in June 2019?
+Answer: The Real Wage Rate Index for the Informal Private Sector in June 2019 was approximately 101.80.
+
+Question: Which sector's wage rate index experienced a decrease from September to October 2018?
+Answer: The Informal Private Sector wage rate index experienced a decrease from September to October 2018.
+
+Question: What was the Real Wage Rate Index for the Public Sector in July 2019?
+Answer: The Real Wage Rate Index for the Public Sector in July 2019 was approximately 95.37.
+
+Question: In which month of 2022 did the Real Wage Rate Index for the Informal Private Sector drop significantly?
+Answer: The Real Wage Rate Index for the Informal Private Sector dropped significantly in April 2022.
+
+Question: What was the Real Wage Rate Index for the Public Sector in August 2023?
+Answer: The Real Wage Rate Index for the Public Sector in August 2023 was approximately 60.5.
+
+Question: Which sector's wage rate index experienced a continuous increase from January to February 2022?
+Answer: The Informal Private Sector wage rate index experienced a continuous increase from January to February 2022.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in December 2020?
+Answer: The Real Wage Rate Index for the Informal Private Sector in December 2020 was approximately 102.64.
+
+Question: In which month of 2018 did the Real Wage Rate Index for the Public Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Public Sector reached its lowest point in November 2018.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in August 2017?
+Answer: The Real Wage Rate Index for the Informal Private Sector in August 2017 was approximately 90.07.
+
+Question: In which month of 2019 did the Real Wage Rate Index for the Public Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Public Sector reached its highest value in January 2019.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in February 2019?
+Answer: The Real Wage Rate Index for the Informal Private Sector in February 2019 was approximately 101.07.
+
+Question: In which month of 2021 did the Real Wage Rate Index for the Public Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Public Sector reached its lowest point in January 2021.
+
+Question: What was the Real Wage Rate Index for the Public Sector in September 2018?
+Answer: The Real Wage Rate Index for the Public Sector in September 2018 was approximately 94.50.
+
+Question: Which sector's wage rate index experienced a decrease from April to May 2020?
+Answer: The Informal Private Sector wage rate index experienced a decrease from April to May 2020.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in October 2019?
+Answer: The Real Wage Rate Index for the Informal Private Sector in October 2019 was approximately 102.48.
+
+Question: In which month of 2018 did the Real Wage Rate Index for the Informal Private Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its highest value in July 2018.
+
+Question: What was the Real Wage Rate Index for the Public Sector in June 2021?
+Answer: The Real Wage Rate Index for the Public Sector in June 2021 was approximately 89.52.
+
+Question: Which sector's wage rate index experienced a decline from January to February 2020?
+Answer: The Public Sector wage rate index experienced a decline from January to February 2020.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in August 2022?
+Answer: The Real Wage Rate Index for the Informal Private Sector in August 2022 was approximately 80.14.
+
+Question: In which month of 2023 did the Real Wage Rate Index for the Public Sector drop significantly?
+Answer: The Real Wage Rate Index for the Public Sector dropped significantly in April 2023.
+
+Question: What was the Real Wage Rate Index for the Public Sector in March 2020?
+Answer: The Real Wage Rate Index for the Public Sector in March 2020 was approximately 103.04.
+
+Question: Which sector's wage rate index experienced a continuous decrease from March to May 2019?
+Answer: The Informal Private Sector wage rate index experienced a continuous decrease from March to May 2019.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in November 2021?
+Answer: The Real Wage Rate Index for the Informal Private Sector in November 2021 was approximately 80.48.
+
+Question: In which month of 2020 did the Real Wage Rate Index for the Public Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Public Sector reached its lowest point in June 2020.
+
+Question: What was the Real Wage Rate Index for the Public Sector in December 2021?
+Answer: The Real Wage Rate Index for the Public Sector in December 2021 was approximately 104.32.
+
+Question: Which sector's wage rate index experienced a decrease from November to December 2019?
+Answer: The Informal Private Sector wage rate index experienced a decrease from November to December 2019.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in January 2020?
+Answer: The Real Wage Rate Index for the Informal Private Sector in January 2020 was approximately 101.68.
+
+Question: In which month of 2022 did the Real Wage Rate Index for the Public Sector drop significantly?
+Answer: The Real Wage Rate Index for the Public Sector dropped significantly in April 2022.
+
+Question: What was the Real Wage Rate Index for the Public Sector in July 2022?
+Answer: The Real Wage Rate Index for the Public Sector in July 2022 was approximately 79.92.
+
+Question: Which sector's wage rate index experienced a continuous increase from January to February 2021?
+Answer: The Public Sector wage rate index experienced a continuous increase from January to February 2021.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in March 2021?
+Answer: The Real Wage Rate Index for the Informal Private Sector in March 2021 was approximately 103.39.
+
+Question: In which month of 2023 did the Real Wage Rate Index for the Informal Private Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its lowest point in May 2023.
+
+Question: What was the Real Wage Rate Index for the Public Sector in September 2020?
+Answer: The Real Wage Rate Index for the Public Sector in September 2020 was approximately 102.67.
+
+Question: Which sector's wage rate index experienced a decline from August to September 2022?
+Answer: The Informal Private Sector wage rate index experienced a decline from August to September 2022.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in April 2022?
+Answer: The Real Wage Rate Index for the Informal Private Sector in April 2022 was approximately 97.01.
+
+Question: In which month of 2023 did the Real Wage Rate Index for the Public Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Public Sector reached its highest value in January 2023.
+
+Question: What was the Real Wage Rate Index for the Public Sector in May 2021?
+Answer: The Real Wage Rate Index for the Public Sector in May 2021 was approximately 90.83.
+
+Question: Which sector's wage rate index experienced a continuous decrease from July to August 2017?
+Answer: The Informal Private Sector wage rate index experienced a continuous decrease from July to August 2017.
+
+Question: What was the Real Wage Rate Index for the Public Sector in October 2019?
+Answer: The Real Wage Rate Index for the Public Sector in October 2019 was approximately 91.30.
+
+Question: In which month of 2019 did the Real Wage Rate Index for the Informal Private Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its lowest point in May 2019.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in July 2021?
+Answer: The Real Wage Rate Index for the Informal Private Sector in July 2021 was approximately 102.93.
+
+Question: Which sector's wage rate index experienced a decrease from March to April 2022?
+Answer: The Public Sector wage rate index experienced a decrease from March to April 2022.
+
+Question: What was the Real Wage Rate Index for the Public Sector in June 2018?
+Answer: The Real Wage Rate Index for the Public Sector in June 2018 was approximately 90.15.
+
+Question: In which month of 2020 did the Real Wage Rate Index for the Informal Private Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its highest value in March 2020.
+
+Question: What was the Real Wage Rate Index for the Public Sector in December 2020?
+Answer: The Real Wage Rate Index for the Public Sector in December 2020 was approximately 102.64.
+
+Question: Which sector's wage rate index experienced a continuous increase from May to June 2018?
+Answer: The Public Sector wage rate index experienced a continuous increase from May to June 2018.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in November 2020?
+Answer: The Real Wage Rate Index for the Informal Private Sector in November 2020 was approximately 102.39.
+
+Question: In which month of 2021 did the Real Wage Rate Index for the Public Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Public Sector reached its highest value in December 2021.
+
+Question: What was the Real Wage Rate Index for the Public Sector in September 2021?
+Answer: The Real Wage Rate Index for the Public Sector in September 2021 was approximately 108.78.
+
+Question: Which sector's wage rate index experienced a decrease from October to November 2021?
+Answer: The Informal Private Sector wage rate index experienced a decrease from October to November 2021.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in August 2021?
+Answer: The Real Wage Rate Index for the Informal Private Sector in August 2021 was approximately 103.26.
+
+Question: In which month of 2022 did the Real Wage Rate Index for the Public Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Public Sector reached its lowest point in April 2022.
+
+Question: What was the Real Wage Rate Index for the Public Sector in February 2020?
+Answer: The Real Wage Rate Index for the Public Sector in February 2020 was approximately 95.20.
+
+Question: Which sector's wage rate index experienced a continuous decrease from June to July 2019?
+Answer: The Informal Private Sector wage rate index experienced a continuous decrease from June to July 2019.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in April 2019?
+Answer: The Real Wage Rate Index for the Informal Private Sector in April 2019 was approximately 101.93.
+
+Question: In which month of 2018 did the Real Wage Rate Index for the Public Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Public Sector reached its highest value in August 2018.
+
+Question: What was the Real Wage Rate Index for the Public Sector in January 2023?
+Answer: The Real Wage Rate Index for the Public Sector in January 2023 was approximately 133.12.
+
+Question: Which sector's wage rate index experienced a decrease from December 2018 to January 2019?
+Answer: The Informal Private Sector wage rate index experienced a decrease from December 2018 to January 2019.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in May 2022?
+Answer: The Real Wage Rate Index for the Informal Private Sector in May 2022 was approximately 82.00.
+
+Question: In which month of 2023 did the Real Wage Rate Index for the Public Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Public Sector reached its highest value in January 2023.
+
+Question: What was the Real Wage Rate Index for the Public Sector in November 2022?
+Answer: The Real Wage Rate Index for the Public Sector in November 2022 was approximately 102.41.
+
+Question: Which sector's wage rate index experienced a continuous increase from August to September 2023?
+Answer: The Informal Private Sector wage rate index experienced a continuous increase from August to September 2023.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in March 2022?
+Answer: The Real Wage Rate Index for the Informal Private Sector in March 2022 was approximately 104.03.
+
+Question: In which month of 2017 did the Real Wage Rate Index for the Public Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Public Sector reached its highest value in May 2017.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in September 2017?
+Answer: The Real Wage Rate Index for the Informal Private Sector in September 2017 was approximately 90.94.
+
+Question: Which sector's wage rate index experienced a decrease from August to September 2021?
+Answer: The Public Sector wage rate index experienced a decrease from August to September 2021.
+
+Question: What was the Real Wage Rate Index for the Public Sector in July 2020?
+Answer: The Real Wage Rate Index for the Public Sector in July 2020 was approximately 103.18.
+
+Question: In which month of 2018 did the Real Wage Rate Index for the Informal Private Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its lowest point in December 2018.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in October 2018?
+Answer: The Real Wage Rate Index for the Informal Private Sector in October 2018 was approximately 103.20.
+
+Question: In which month of 2019 did the Real Wage Rate Index for the Public Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Public Sector reached its lowest point in November 2019.
+
+Question: What was the Real Wage Rate Index for the Public Sector in December 2019?
+Answer: The Real Wage Rate Index for the Public Sector in December 2019 was approximately 101.82.
+
+Question: Which sector's wage rate index experienced a decrease from July to August 2020?
+Answer: The Public Sector wage rate index experienced a decrease from July to August 2020.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in March 2019?
+Answer: The Real Wage Rate Index for the Informal Private Sector in March 2019 was approximately 101.28.
+
+Question: In which month of 2020 did the Real Wage Rate Index for the Informal Private Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its lowest point in June 2020.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in April 2021?
+Answer: The Real Wage Rate Index for the Informal Private Sector in April 2021 was approximately 105.08.
+
+Question: Which sector's wage rate index experienced a continuous increase from December 2020 to January 2021?
+Answer: The Public Sector wage rate index experienced a continuous increase from December 2020 to January 2021.
+
+Question: What was the Real Wage Rate Index for the Public Sector in May 2022?
+Answer: The Real Wage Rate Index for the Public Sector in May 2022 was approximately 80.55.
+
+Question: In which month of 2018 did the Real Wage Rate Index for the Informal Private Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its highest value in July 2018.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in August 2023?
+Answer: The Real Wage Rate Index for the Informal Private Sector in August 2023 was approximately 78.65.
+
+Question: Which sector's wage rate index experienced a decrease from April to May 2019?
+Answer: The Informal Private Sector wage rate index experienced a decrease from April to May 2019.
+
+Question: What was the Real Wage Rate Index for the Public Sector in September 2023?
+Answer: The Real Wage Rate Index for the Public Sector in September 2023 was approximately 78.65.
+
+Question: In which month of 2021 did the Real Wage Rate Index for the Public Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Public Sector reached its highest value in December 2021.
+
+Question: What was the Real Wage Rate Index for the Public Sector in February 2018?
+Answer: The Real Wage Rate Index for the Public Sector in February 2018 was approximately 92.19.
+
+Question: Which sector's wage rate index experienced a continuous decrease from June to July 2018?
+Answer: The Public Sector wage rate index experienced a continuous decrease from June to July 2018.
+
+Question: What was the Real Wage Rate Index for the Public Sector in March 2021?
+Answer: The Real Wage Rate Index for the Public Sector in March 2021 was approximately 103.39.
+
+Question: In which month of 2017 did the Real Wage Rate Index for the Informal Private Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its highest value in August 2017.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in November 2018?
+Answer: The Real Wage Rate Index for the Informal Private Sector in November 2018 was approximately 102.41.
+
+Question: Which sector's wage rate index experienced a decrease from September to October 2020?
+Answer: The Public Sector wage rate index experienced a decrease from September to October 2020.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in July 2020?
+Answer: The Real Wage Rate Index for the Informal Private Sector in July 2020 was approximately 103.18.
+
+Question: In which month of 2018 did the Real Wage Rate Index for the Public Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Public Sector reached its lowest point in November 2018.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in June 2021?
+Answer: The Real Wage Rate Index for the Informal Private Sector in June 2021 was approximately 103.06.
+
+Question: Which sector's wage rate index experienced a continuous increase from September to October 2017?
+Answer: The Public Sector wage rate index experienced a continuous increase from September to October 2017.
+
+Question: What was the Real Wage Rate Index for the Public Sector in January 2019?
+Answer: The Real Wage Rate Index for the Public Sector in January 2019 was approximately 90.64.
+
+Question: In which month of 2023 did the Real Wage Rate Index for the Informal Private Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its highest value in January 2023.
+
+Question: What was the Real Wage Rate Index for the Public Sector in April 2021?
+Answer: The Real Wage Rate Index for the Public Sector in April 2021 was approximately 113.37.
+
+Question: Which sector's wage rate index experienced a decrease from November to December 2022?
+Answer: The Informal Private Sector wage rate index experienced a decrease from November to December 2022.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in October 2021?
+Answer: The Real Wage Rate Index for the Informal Private Sector in October 2021 was approximately 80.55.
+
+Question: What was the Real Wage Rate Index for the Public Sector in July 2019?
+Answer: The Real Wage Rate Index for the Public Sector in July 2019 was approximately 95.37.
+
+Question: In which month of 2022 did the Real Wage Rate Index for the Public Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Public Sector reached its highest value in January 2022.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in March 2023?
+Answer: The Real Wage Rate Index for the Informal Private Sector in March 2023 was approximately 80.3.
+
+Question: Which sector's wage rate index experienced a continuous decrease from August to September 2019?
+Answer: The Public Sector wage rate index experienced a continuous decrease from August to September 2019.
+
+Question: What was the Real Wage Rate Index for the Public Sector in April 2020?
+Answer: The Real Wage Rate Index for the Public Sector in April 2020 was approximately 103.58.
+
+Question: In which month of 2017 did the Real Wage Rate Index for the Public Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Public Sector reached its lowest point in December 2017.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in February 2022?
+Answer: The Real Wage Rate Index for the Informal Private Sector in February 2022 was approximately 102.10.
+
+Question: Which sector's wage rate index experienced a decrease from January to February 2018?
+Answer: The Informal Private Sector wage rate index experienced a decrease from January to February 2018.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in June 2023?
+Answer: The Real Wage Rate Index for the Informal Private Sector in June 2023 was approximately 82.1.
+
+Question: In which month of 2021 did the Real Wage Rate Index for the Informal Private Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its lowest point in June 2021.
+
+Question: What was the Real Wage Rate Index for the Public Sector in October 2017?
+Answer: The Real Wage Rate Index for the Public Sector in October 2017 was approximately 93.05.
+
+Question: Which sector's wage rate index experienced a continuous increase from March to April 2018?
+Answer: The Informal Private Sector wage rate index experienced a continuous increase from March to April 2018.
+
+Question: What was the Real Wage Rate Index for the Public Sector in December 2018?
+Answer: The Real Wage Rate Index for the Public Sector in December 2018 was approximately 89.72.
+
+Question: In which month of 2019 did the Real Wage Rate Index for the Public Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Public Sector reached its highest value in January 2019.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in August 2020?
+Answer: The Real Wage Rate Index for the Informal Private Sector in August 2020 was approximately 101.32.
+
+Question: Which sector's wage rate index experienced a decrease from April to May 2018?
+Answer: The Informal Private Sector wage rate index experienced a decrease from April to May 2018.
+
+Question: What was the Real Wage Rate Index for the Public Sector in March 2022?
+Answer: The Real Wage Rate Index for the Public Sector in March 2022 was approximately 87.72.
+
+Question: In which month of 2022 did the Real Wage Rate Index for the Informal Private Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its lowest point in June 2022.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in September 2021?
+Answer: The Real Wage Rate Index for the Informal Private Sector in September 2021 was approximately 108.78.
+
+Question: Which sector's wage rate index experienced a continuous increase from June to July 2017?
+Answer: The Public Sector wage rate index experienced a continuous increase from June to July 2017.
+
+Question: What was the Real Wage Rate Index for the Public Sector in February 2021?
+Answer: The Real Wage Rate Index for the Public Sector in February 2021 was approximately 91.33.
+
+Question: In which month of 2023 did the Real Wage Rate Index for the Informal Private Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its highest value in January 2023.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in November 2019?
+Answer: The Real Wage Rate Index for the Informal Private Sector in November 2019 was approximately 89.30.
+
+Question: Which sector's wage rate index experienced a decrease from March to April 2023?
+Answer: The Public Sector wage rate index experienced a decrease from March to April 2023.
+
+Question: What was the Real Wage Rate Index for the Public Sector in May 2018?
+Answer: The Real Wage Rate Index for the Public Sector in May 2018 was approximately 92.78.
+
+Question: In which month of 2020 did the Real Wage Rate Index for the Informal Private Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its highest value in May 2020.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in April 2018?
+Answer: The Real Wage Rate Index for the Informal Private Sector in April 2018 was approximately 101.93.
+
+Question: Which sector's wage rate index experienced a continuous decrease from September to October 2021?
+Answer: The Informal Private Sector wage rate index experienced a continuous decrease from September to October 2021.
+
+Question: What was the Real Wage Rate Index for the Public Sector in August 2021?
+Answer: The Real Wage Rate Index for the Public Sector in August 2021 was approximately 121.35.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in July 2022?
+Answer: The Real Wage Rate Index for the Informal Private Sector in July 2022 was approximately 79.92.
+
+Question: In which month of 2019 did the Real Wage Rate Index for the Public Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Public Sector reached its highest value in February 2019.
+
+Question: What was the Real Wage Rate Index for the Public Sector in October 2020?
+Answer: The Real Wage Rate Index for the Public Sector in October 2020 was approximately 102.48.
+
+Question: Which sector's wage rate index experienced a continuous decrease from July to August 2018?
+Answer: The Public Sector wage rate index experienced a continuous decrease from July to August 2018.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in May 2023?
+Answer: The Real Wage Rate Index for the Informal Private Sector in May 2023 was approximately 82.0.
+
+Question: In which month of 2017 did the Real Wage Rate Index for the Public Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Public Sector reached its lowest point in December 2017.
+
+Question: What was the Real Wage Rate Index for the Public Sector in November 2020?
+Answer: The Real Wage Rate Index for the Public Sector in November 2020 was approximately 102.39.
+
+Question: Which sector's wage rate index experienced a continuous increase from March to April 2018?
+Answer: The Informal Private Sector wage rate index experienced a continuous increase from March to April 2018.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in June 2021?
+Answer: The Real Wage Rate Index for the Informal Private Sector in June 2021 was approximately 103.06.
+
+Question: In which month of 2021 did the Real Wage Rate Index for the Informal Private Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its lowest point in June 2021.
+
+Question: What was the Real Wage Rate Index for the Public Sector in October 2017?
+Answer: The Real Wage Rate Index for the Public Sector in October 2017 was approximately 93.05.
+
+Question: Which sector's wage rate index experienced a continuous increase from September to October 2017?
+Answer: The Public Sector wage rate index experienced a continuous increase from September to October 2017.
+
+Question: What was the Real Wage Rate Index for the Public Sector in December 2018?
+Answer: The Real Wage Rate Index for the Public Sector in December 2018 was approximately 89.72.
+
+Question: In which month of 2019 did the Real Wage Rate Index for the Public Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Public Sector reached its highest value in January 2019.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in August 2020?
+Answer: The Real Wage Rate Index for the Informal Private Sector in August 2020 was approximately 101.32.
+
+Question: Which sector's wage rate index experienced a decrease from April to May 2018?
+Answer: The Informal Private Sector wage rate index experienced a decrease from April to May 2018.
+
+Question: What was the Real Wage Rate Index for the Public Sector in March 2022?
+Answer: The Real Wage Rate Index for the Public Sector in March 2022 was approximately 87.72.
+
+Question: In which month of 2022 did the Real Wage Rate Index for the Informal Private Sector reach its lowest point?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its lowest point in June 2022.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in September 2021?
+Answer: The Real Wage Rate Index for the Informal Private Sector in September 2021 was approximately 108.78.
+
+Question: Which sector's wage rate index experienced a continuous increase from June to July 2017?
+Answer: The Public Sector wage rate index experienced a continuous increase from June to July 2017.
+
+Question: What was the Real Wage Rate Index for the Public Sector in February 2021?
+Answer: The Real Wage Rate Index for the Public Sector in February 2021 was approximately 91.33.
+
+Question: In which month of 2023 did the Real Wage Rate Index for the Informal Private Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its highest value in January 2023.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in November 2019?
+Answer: The Real Wage Rate Index for the Informal Private Sector in November 2019 was approximately 89.30.
+
+Question: Which sector's wage rate index experienced a decrease from March to April 2023?
+Answer: The Public Sector wage rate index experienced a decrease from March to April 2023.
+
+Question: What was the Real Wage Rate Index for the Public Sector in May 2018?
+Answer: The Real Wage Rate Index for the Public Sector in May 2018 was approximately 92.78.
+
+Question: In which month of 2020 did the Real Wage Rate Index for the Informal Private Sector reach its highest value?
+Answer: The Real Wage Rate Index for the Informal Private Sector reached its highest value in May 2020.
+
+Question: What was the Real Wage Rate Index for the Informal Private Sector in April 2018?
+Answer: The Real Wage Rate Index for the Informal Private Sector in April 2018 was approximately 101.93.
+
+Question: Which sector's wage rate index experienced a continuous decrease from September to October 2021?
+Answer: The Informal Private Sector wage rate index experienced a continuous decrease from September to October 2021.
+
+Question: What was the Real Wage Rate Index for the Public Sector in August 2021?
+Answer: The Real Wage Rate Index for the Public Sector in August 2021 was approximately 121.35.
+
+======================================================================== 173 =============================================================================================

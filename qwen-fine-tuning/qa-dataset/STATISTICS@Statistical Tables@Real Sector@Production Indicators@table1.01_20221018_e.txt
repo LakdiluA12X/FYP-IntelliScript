@@ -1,0 +1,445 @@
+Question: What is the base period for the Agriculture Production Index?
+Answer: The base period for the Agriculture Production Index is 2007-2010, with a base value of 100.
+
+Question: What is the trend in the Agriculture and Fishing sector from 1997 to 2019?
+Answer: The Agriculture and Fishing sector experienced fluctuations but generally showed an increasing trend from 1997 to 2019.
+
+Question: Which subcategory of agriculture showed the highest index value in 2019?
+Answer: Livestock showed the highest index value within agriculture in 2019.
+
+Question: How did the index value for Tea compare between 2018 and 2019?
+Answer: The index value for Tea decreased slightly from 2018 to 2019.
+
+Question: Which crop category experienced the highest index value in 2008?
+Answer: Other crops category experienced the highest index value in 2008.
+
+Question: What is the trend in the index value for Rubber from 1997 to 2019?
+Answer: The index value for Rubber fluctuated over the years but showed a slight decreasing trend from 1997 to 2019.
+
+Question: What is the index value for Coconut in 2020?
+Answer: The index value for Coconut in 2020 is not available.
+
+Question: Which crop category experienced the highest index value in 2015?
+Answer: Other crops category experienced the highest index value in 2015.
+
+Question: What was the index value for Paddy in 2016?
+Answer: The index value for Paddy in 2016 was 128.87.
+
+Question: How did the index value for Livestock change from 2018 to 2019?
+Answer: The index value for Livestock decreased slightly from 2018 to 2019.
+
+Question: What is the index value for Fishing in 2018?
+Answer: The index value for Fishing in 2018 is 160.37.
+
+Question: Which crop category experienced the lowest index value in 2019?
+Answer: Tea category experienced the lowest index value in 2019.
+
+Question: What was the index value for Other crops in 2013?
+Answer: The index value for Other crops in 2013 was 150.22.
+
+Question: How did the index value for Coconut change from 2017 to 2018?
+Answer: The index value for Coconut increased from 2017 to 2018.
+
+Question: What was the index value for Livestock in 2005?
+Answer: The index value for Livestock in 2005 was 87.41.
+
+Question: What is the trend in the index value for Fishing from 2005 to 2019?
+Answer: The index value for Fishing showed an increasing trend from 2005 to 2019.
+
+Question: Which crop category experienced the highest index value in 2018?
+Answer: Other crops category experienced the highest index value in 2018.
+
+Question: What was the index value for Tea in 2003?
+Answer: The index value for Tea in 2003 was 97.83.
+
+Question: How did the index value for Paddy change from 2017 to 2018?
+Answer: The index value for Paddy decreased from 2017 to 2018.
+
+Question: What is the index value for Rubber in 2019?
+Answer: The index value for Rubber in 2019 is 58.3.
+
+Question: What was the index value for Coconut in 2019?
+Answer: The index value for Coconut in 2019 was 98.6.
+
+Question: How did the index value for Livestock change from 2016 to 2017?
+Answer: The index value for Livestock increased from 2016 to 2017.
+
+Question: What is the trend in the index value for Fishing from 1997 to 2019?
+Answer: The index value for Fishing showed fluctuations but generally increased from 1997 to 2019.
+
+Question: Which crop category experienced the lowest index value in 2017?
+Answer: Tea category experienced the lowest index value in 2017.
+
+Question: What was the index value for Other crops in 2019?
+Answer: The index value for Other crops in 2019 was 166.9.
+
+Question: How did the index value for Coconut change from 2018 to 2019?
+Answer: The index value for Coconut decreased slightly from 2018 to 2019.
+
+Question: What is the index value for Tea in 2019?
+Answer: The index value for Tea in 2019 is 96.1.
+
+Question: What was the index value for Paddy in 2019?
+Answer: The index value for Paddy in 2019 was 137.7.
+
+Question: How did the index value for Livestock change from 2019 to 2020?
+Answer: The index value for Livestock decreased slightly from 2019 to 2020.
+
+Question: What is the index value for Rubber in 2018?
+Answer: The index value for Rubber in 2018 is 61.94.
+
+Question: How did the index value for Other crops change from 2018 to 2019?
+Answer: The index value for Other crops increased from 2018 to 2019.
+
+Question: What was the index value for Tea in 2015?
+Answer: The index value for Tea in 2015 was 93.89.
+
+Question: Which crop category experienced the lowest index value in 2018?
+Answer: Paddy category experienced the lowest index value in 2018.
+
+Question: What is the index value for Fishing in 2017?
+Answer: The index value for Fishing in 2017 is 159.13.
+
+Question: How did the index value for Livestock change from 2015 to 2016?
+Answer: The index value for Livestock increased from 2015 to 2016.
+
+Question: What was the index value for Coconut in 2018?
+Answer: The index value for Coconut in 2018 was 110.1.
+
+Question: Which crop category experienced the highest index value in 2001?
+Answer: Livestock category experienced the highest index value in 2001.
+
+Question: What is the trend in the index value for Paddy from 1997 to 2019?
+Answer: The index value for Paddy showed fluctuations but generally increased from 1997 to 2019.
+
+Question: How did the index value for Tea change from 2016 to 2017?
+Answer: The index value for Tea decreased from 2016 to 2017.
+
+Question: What was the index value for Livestock in 2017?
+Answer: The index value for Livestock in 2017 was 166.68.
+
+Question: Which crop category experienced the highest index value in 2014?
+Answer: Other crops category experienced the highest index value in 2014.
+
+Question: What is the index value for Rubber in 2016?
+Answer: The index value for Rubber in 2016 is 58.96.
+
+Question: How did the index value for Other crops change from 2017 to 2018?
+Answer: The index value for Other crops decreased from 2017 to 2018.
+
+Question: What was the index value for Tea in 2017?
+Answer: The index value for Tea in 2017 was 105.51.
+
+Question: Which crop category experienced the lowest index value in 2016?
+Answer: Tea category experienced the lowest index value in 2016.
+
+Question: What is the trend in the index value for Coconut from 1997 to 2019?
+Answer: The index value for Coconut showed fluctuations but generally increased from 1997 to 2019.
+
+Question: How did the index value for Paddy change from 2016 to 2017?
+Answer: The index value for Paddy increased from 2016 to 2017.
+
+Question: What was the index value for Livestock in 2008?
+Answer: The index value for Livestock in 2008 was 100.20.
+
+Question: Which crop category experienced the highest index value in 2011?
+Answer: Other crops category experienced the highest index value in 2011.
+
+Question: What is the index value for Fishing in 2014?
+Answer: The index value for Fishing in 2014 is 101.82.
+
+Question: How did the index value for Tea change from 2019 to 2020?
+Answer: The index value for Tea increased from 2019 to 2020.
+
+Question: What was the index value for Other crops in 2011?
+Answer: The index value for Other crops in 2011 was 107.23.
+
+Question: Which crop category experienced the lowest index value in 2010?
+Answer: Other crops category experienced the lowest index value in 2010.
+
+Question: What is the trend in the index value for Rubber from 1997 to 2018?
+Answer: The index value for Rubber showed fluctuations but generally decreased from 1997 to 2018.
+
+Question: How did the index value for Livestock change from 2010 to 2011?
+Answer: The index value for Livestock increased from 2010 to 2011.
+
+Question: What was the index value for Tea in 2007?
+Answer: The index value for Tea in 2007 was 99.74.
+
+Question: Which crop category experienced the highest index value in 2006?
+Answer: Other crops category experienced the highest index value in 2006.
+
+Question: What is the index value for Fishing in 2015?
+Answer: The index value for Fishing in 2015 is 115.29.
+
+Question: What was the index value for Rubber in 2010?
+Answer: The index value for Rubber in 2010 was 66.01.
+
+Question: How did the index value for Other crops change from 2012 to 2013?
+Answer: The index value for Other crops increased from 2012 to 2013.
+
+Question: What was the index value for Tea in 2013?
+Answer: The index value for Tea in 2013 was 93.89.
+
+Question: Which crop category experienced the lowest index value in 2013?
+Answer: Rubber category experienced the lowest index value in 2013.
+
+Question: What is the index value for Fishing in 2013?
+Answer: The index value for Fishing in 2013 is 101.82.
+
+Question: How did the index value for Livestock change from 2012 to 2013?
+Answer: The index value for Livestock increased from 2012 to 2013.
+
+Question: What was the index value for Coconut in 2013?
+Answer: The index value for Coconut in 2013 was 106.30.
+
+Question: Which crop category experienced the highest index value in 2003?
+Answer: Tea category experienced the highest index value in 2003.
+
+Question: What is the trend in the index value for Paddy from 2000 to 2010?
+Answer: The index value for Paddy showed fluctuations but generally increased from 2000 to 2010.
+
+Question: How did the index value for Tea change from 2005 to 2006?
+Answer: The index value for Tea increased from 2005 to 2006.
+
+Question: What was the index value for Other crops in 2002?
+Answer: The index value for Other crops in 2002 was 81.81.
+
+Question: Which crop category experienced the lowest index value in 2007?
+Answer: Rubber category experienced the lowest index value in 2007.
+
+Question: What is the index value for Fishing in 2008?
+Answer: The index value for Fishing in 2008 is 87.23.
+
+Question: How did the index value for Livestock change from 2006 to 2007?
+Answer: The index value for Livestock increased from 2006 to 2007.
+
+Question: What was the index value for Coconut in 2006?
+Answer: The index value for Coconut in 2006 was 91.44.
+
+Question: Which crop category experienced the highest index value in 2009?
+Answer: Livestock category experienced the highest index value in 2009.
+
+Question: What is the trend in the index value for Rubber from 2000 to 2010?
+Answer: The index value for Rubber showed fluctuations but generally increased from 2000 to 2010.
+
+Question: How did the index value for Other crops change from 2008 to 2009?
+Answer: The index value for Other crops increased from 2008 to 2009.
+
+Question: What was the index value for Tea in 2010?
+Answer: The index value for Tea in 2010 was 99.06.
+
+Question: Which crop category experienced the lowest index value in 2004?
+Answer: Coconut category experienced the lowest index value in 2004.
+
+Question: What is the index value for Fishing in 2006?
+Answer: The index value for Fishing in 2006 is 85.41.
+
+Question: How did the index value for Livestock change from 2003 to 2004?
+Answer: The index value for Livestock increased from 2003 to 2004.
+
+Question: What was the index value for Coconut in 2004?
+Answer: The index value for Coconut in 2004 was 109.29.
+
+Question: Which crop category experienced the highest index value in 2005?
+Answer: Other crops category experienced the highest index value in 2005.
+
+Question: What is the trend in the index value for Paddy from 2005 to 2015?
+Answer: The index value for Paddy showed fluctuations but generally increased from 2005 to 2015.
+
+Question: How did the index value for Tea change from 2002 to 2003?
+Answer: The index value for Tea increased from 2002 to 2003.
+
+Question: What was the index value for Other crops in 2009?
+Answer: The index value for Other crops in 2009 was 107.23.
+
+Question: Which crop category experienced the lowest index value in 2000?
+Answer: Paddy category experienced the lowest index value in 2000.
+
+Question: What is the index value for Fishing in 2005?
+Answer: The index value for Fishing in 2005 is 90.78.
+
+Question: How did the index value for Livestock change from 2009 to 2010?
+Answer: The index value for Livestock increased from 2009 to 2010.
+
+Question: What was the index value for Rubber in 2003?
+Answer: The index value for Rubber in 2003 was 64.17.
+
+Question: How did the index value for Other crops change from 2003 to 2004?
+Answer: The index value for Other crops increased from 2003 to 2004.
+
+Question: What was the index value for Tea in 2009?
+Answer: The index value for Tea in 2009 was 106.35.
+
+Question: Which crop category experienced the lowest index value in 2008?
+Answer: Tea category experienced the lowest index value in 2008.
+
+Question: What is the index value for Fishing in 2004?
+Answer: The index value for Fishing in 2004 is 85.35.
+
+Question: How did the index value for Livestock change from 2004 to 2005?
+Answer: The index value for Livestock increased from 2004 to 2005.
+
+Question: What was the index value for Coconut in 2005?
+Answer: The index value for Coconut in 2005 was 97.75.
+
+Question: Which crop category experienced the highest index value in 2007?
+Answer: Other crops category experienced the highest index value in 2007.
+
+Question: What is the trend in the index value for Paddy from 2000 to 2019?
+Answer: The index value for Paddy showed fluctuations but generally increased from 2000 to 2019.
+
+Question: How did the index value for Tea change from 2010 to 2011?
+Answer: The index value for Tea increased from 2010 to 2011.
+
+Question: What was the index value for Other crops in 2006?
+Answer: The index value for Other crops in 2006 was 81.81.
+
+Question: Which crop category experienced the lowest index value in 2001?
+Answer: Rubber category experienced the lowest index value in 2001.
+
+Question: What is the index value for Fishing in 2009?
+Answer: The index value for Fishing in 2009 is 90.78.
+
+Question: How did the index value for Livestock change from 2006 to 2007?
+Answer: The index value for Livestock increased from 2006 to 2007.
+
+Question: What was the index value for Coconut in 2007?
+Answer: The index value for Coconut in 2007 was 84.44.
+
+Question: Which crop category experienced the highest index value in 2008?
+Answer: Other crops category experienced the highest index value in 2008.
+
+Question: What is the trend in the index value for Rubber from 2000 to 2019?
+Answer: The index value for Rubber showed fluctuations but generally increased from 2000 to 2019.
+
+Question: How did the index value for Other crops change from 2006 to 2007?
+Answer: The index value for Other crops increased from 2006 to 2007.
+
+Question: What was the index value for Tea in 2005?
+Answer: The index value for Tea in 2005 was 99.67.
+
+Question: Which crop category experienced the lowest index value in 2002?
+Answer: Rubber category experienced the lowest index value in 2002.
+
+Question: What is the index value for Fishing in 2006?
+Answer: The index value for Fishing in 2006 is 90.78.
+
+Question: How did the index value for Livestock change from 2000 to 2001?
+Answer: The index value for Livestock increased from 2000 to 2001.
+
+Question: What was the index value for Coconut in 2001?
+Answer: The index value for Coconut in 2001 was 92.88.
+
+Question: Which crop category experienced the highest index value in 2006?
+Answer: Other crops category experienced the highest index value in 2006.
+
+Question: What is the trend in the index value for Paddy from 2005 to 2010?
+Answer: The index value for Paddy showed fluctuations but generally increased from 2005 to 2010.
+
+Question: How did the index value for Tea change from 2002 to 2003?
+Answer: The index value for Tea increased from 2002 to 2003.
+
+Question: What was the index value for Other crops in 2005?
+Answer: The index value for Other crops in 2005 was 81.81.
+
+Question: Which crop category experienced the lowest index value in 2000?
+Answer: Paddy category experienced the lowest index value in 2000.
+
+Question: What is the index value for Fishing in 2005?
+Answer: The index value for Fishing in 2005 is 90.78.
+
+Question: How did the index value for Livestock change from 2008 to 2009?
+Answer: The index value for Livestock increased from 2008 to 2009.
+
+Question: What was the index value for Rubber in 2005?
+Answer: The index value for Rubber in 2005 was 71.34.
+
+Question: How did the index value for Other crops change from 2005 to 2006?
+Answer: The index value for Other crops increased from 2005 to 2006.
+
+Question: What was the index value for Tea in 2008?
+Answer: The index value for Tea in 2008 was 97.94.
+
+Question: Which crop category experienced the lowest index value in 2004?
+Answer: Coconut category experienced the lowest index value in 2004.
+
+Question: What is the index value for Fishing in 2003?
+Answer: The index value for Fishing in 2003 is 90.03.
+
+Question: How did the index value for Livestock change from 2003 to 2004?
+Answer: The index value for Livestock increased from 2003 to 2004.
+
+Question: What was the index value for Coconut in 2003?
+Answer: The index value for Coconut in 2003 was 109.29.
+
+Question: Which crop category experienced the highest index value in 2004?
+Answer: Other crops category experienced the highest index value in 2004.
+
+Question: What is the trend in the index value for Paddy from 2000 to 2009?
+Answer: The index value for Paddy showed fluctuations but generally increased from 2000 to 2009.
+
+Question: How did the index value for Tea change from 2009 to 2010?
+Answer: The index value for Tea decreased from 2009 to 2010.
+
+Question: What was the index value for Other crops in 2007?
+Answer: The index value for Other crops in 2007 was 81.81.
+
+Question: Which crop category experienced the lowest index value in 2003?
+Answer: Rubber category experienced the lowest index value in 2003.
+
+Question: What is the index value for Fishing in 2002?
+Answer: The index value for Fishing in 2002 is 83.89.
+
+Question: How did the index value for Livestock change from 2002 to 2003?
+Answer: The index value for Livestock increased from 2002 to 2003.
+
+Question: What was the index value for Coconut in 2002?
+Answer: The index value for Coconut in 2002 was 99.83.
+
+Question: Which crop category experienced the highest index value in 2003?
+Answer: Tea category experienced the highest index value in 2003.
+
+Question: What is the trend in the index value for Rubber from 2000 to 2009?
+Answer: The index value for Rubber showed fluctuations but generally increased from 2000 to 2009.
+
+Question: How did the index value for Other crops change from 2002 to 2003?
+Answer: The index value for Other crops increased from 2002 to 2003.
+
+Question: What was the index value for Tea in 2002?
+Answer: The index value for Tea in 2002 was 90.05.
+
+Question: Which crop category experienced the lowest index value in 2001?
+Answer: Rubber category experienced the lowest index value in 2001.
+
+Question: What is the index value for Fishing in 2001?
+Answer: The index value for Fishing in 2001 is 80.88.
+
+Question: How did the index value for Livestock change from 2001 to 2002?
+Answer: The index value for Livestock increased from 2001 to 2002.
+
+Question: What was the index value for Coconut in 2001?
+Answer: The index value for Coconut in 2001 was 92.88.
+
+Question: Which crop category experienced the highest index value in 2002?
+Answer: Other crops category experienced the highest index value in 2002.
+
+Question: What is the trend in the index value for Paddy from 2000 to 2008?
+Answer: The index value for Paddy showed fluctuations but generally increased from 2000 to 2008.
+
+Question: How did the index value for Tea change from 2001 to 2002?
+Answer: The index value for Tea increased from 2001 to 2002.
+
+Question: What was the index value for Other crops in 2000?
+Answer: The index value for Other crops in 2000 was 77.38.
+
+Question: Which crop category experienced the lowest index value in 2000?
+Answer: Paddy category experienced the lowest index value in 2000.
+
+Question: What is the index value for Fishing in 2000?
+Answer: The index value for Fishing in 2000 is 72.61.
+
+Question: How did the index value for Livestock change from 2000 to 2001?
+Answer: The index value for Livestock increased from 2000 to 2001.
+
+================================================================================== 148 =======================================================================================

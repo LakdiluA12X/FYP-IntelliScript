@@ -1,0 +1,181 @@
+Question: What is the percentage of the manufacturing sector represented by the manufacture of food products?
+Answer: 35.2%
+
+Question: Which manufacturing subsector experienced a decrease in production in April compared to March?
+Answer: Manufacture of wearing apparel
+
+Question: In which month did the manufacture of beverages reach its peak production?
+Answer: December
+
+Question: What was the production index for the manufacture of tobacco products in May?
+Answer: 105.0678907110897
+
+Question: Which manufacturing subsector had the highest production index in January?
+Answer: Manufacture of wearing apparel
+
+Question: What was the production index for the manufacture of paper and paper products in July?
+Answer: 112.7
+
+Question: Which manufacturing subsector experienced the highest fluctuation in production throughout the year?
+Answer: Manufacture of wearing apparel
+
+Question: What was the percentage increase in production for the manufacture of textiles from June to July?
+Answer: Approximately 24.7%
+
+Question: Which manufacturing subsector showed the most consistent production levels throughout the year?
+Answer: Manufacture of leather and related products
+
+Question: What was the production index for the manufacture of wood and products of wood and cork in October?
+Answer: 103.2
+
+Question: In which month did the manufacture of chemicals and chemical products experience the highest production?
+Answer: March
+
+Question: What was the lowest production index recorded for the manufacture of textiles?
+Answer: 13.1
+
+Question: How much did the production index for the manufacture of wearing apparel increase from July to August?
+Answer: Approximately 2.7%
+
+Question: What was the production index for the manufacture of basic pharmaceutical products and pharmaceutical preparations in May?
+Answer: 108.30588873057256
+
+Question: Which manufacturing subsector had the highest production index in April?
+Answer: Manufacture of beverages
+
+Question: What was the production index for the manufacture of rubber and plastic products in September?
+Answer: 107.3
+
+Question: How did the production index for the manufacture of coke and refined petroleum products change from December to January?
+Answer: It decreased
+
+Question: What was the percentage decrease in production for the manufacture of textiles from February to March?
+Answer: Approximately 18.2%
+
+Question: Which manufacturing subsector had the lowest production index in November?
+Answer: Manufacture of wearing apparel
+
+Question: What was the production index for the manufacture of leather and related products in August?
+Answer: 129.2
+
+Question: What was the percentage increase in production for the manufacture of food products from January to February?
+Answer: Approximately 6.8%
+
+Question: Which manufacturing subsector experienced the highest production index in September?
+Answer: Manufacture of chemicals and chemical products
+
+Question: What was the production index for the manufacture of basic metals in June?
+Answer: 111.6
+
+Question: In which month did the manufacture of textiles reach its lowest production level?
+Answer: March
+
+Question: What was the production index for the manufacture of wood and products of wood and cork in November?
+Answer: 101.9
+
+Question: How much did the production index for the manufacture of beverages increase from August to September?
+Answer: Approximately 3.2%
+
+Question: Which manufacturing subsector experienced the highest percentage increase in production from October to November?
+Answer: Manufacture of chemicals and chemical products
+
+Question: What was the production index for the manufacture of rubber and plastic products in February?
+Answer: 106.1
+
+Question: How did the production index for the manufacture of wearing apparel change from September to October?
+Answer: It decreased
+
+Question: What was the percentage decrease in production for the manufacture of leather and related products from March to April?
+Answer: Approximately 9.6%
+
+Question: Which manufacturing subsector had the lowest production index in February?
+Answer: Manufacture of wearing apparel
+
+Question: What was the production index for the manufacture of textiles in December?
+Answer: 116.2
+
+Question: How much did the production index for the manufacture of food products increase from November to December?
+Answer: Approximately 5.4%
+
+Question: What was the production index for the manufacture of beverages in January?
+Answer: 101.4
+
+Question: Which manufacturing subsector experienced the highest fluctuation in production from February to March?
+Answer: Manufacture of textiles
+
+Question: What was the percentage increase in production for the manufacture of paper and paper products from April to May?
+Answer: Approximately 9.8%
+
+Question: What was the production index for the manufacture of chemicals and chemical products in October?
+Answer: 110.9
+
+Question: In which month did the manufacture of rubber and plastic products experience its highest production level?
+Answer: August
+
+Question: How did the production index for the manufacture of basic metals change from May to June?
+Answer: It increased
+
+Question: What was the production index for the manufacture of coke and refined petroleum products in July?
+Answer: 99.8
+
+Question: What was the percentage decrease in production for the manufacture of machinery and equipment from August to September?
+Answer: Approximately 2.1%
+
+Question: Which manufacturing subsector had the highest production index in May?
+Answer: Manufacture of basic metals
+
+Question: What was the production index for the manufacture of electrical equipment in January?
+Answer: 107.5
+
+Question: In which month did the manufacture of basic pharmaceutical products and pharmaceutical preparations reach its lowest production level?
+Answer: October
+
+Question: What was the production index for the manufacture of motor vehicles, trailers, and semi-trailers in April?
+Answer: 98.7
+
+Question: How much did the production index for the manufacture of computer, electronic, and optical products change from September to October?
+Answer: It decreased
+
+Question: Which manufacturing subsector experienced the highest percentage increase in production from December to January?
+Answer: Manufacture of motor vehicles, trailers, and semi-trailers
+
+Question: What was the production index for the manufacture of fabricated metal products, except machinery and equipment, in June?
+Answer: 104.2
+
+Question: How did the production index for the manufacture of furniture change from April to May?
+Answer: It increased
+
+Question: What was the percentage decrease in production for the manufacture of coke and refined petroleum products from January to February?
+Answer: Approximately 1.3%
+
+Question: Which manufacturing subsector had the lowest production index in September?
+Answer: Manufacture of leather and related products
+
+Question: What was the production index for the manufacture of machinery and equipment in November?
+Answer: 105.8
+
+Question: How much did the production index for the manufacture of electrical equipment increase from July to August?
+Answer: Approximately 1.9%
+
+Question: What was the production index for the manufacture of basic pharmaceutical products and pharmaceutical preparations in December?
+Answer: 102.4
+
+Question: Which manufacturing subsector experienced the highest fluctuation in production from March to April?
+Answer: Manufacture of computer, electronic, and optical products
+
+Question: What was the percentage increase in production for the manufacture of motor vehicles, trailers, and semi-trailers from May to June?
+Answer: Approximately 2.3%
+
+Question: What was the production index for the manufacture of electrical equipment in October?
+Answer: 104.9
+
+Question: In which month did the manufacture of furniture experience its highest production level?
+Answer: February
+
+Question: How did the production index for the manufacture of fabricated metal products, except machinery and equipment, change from August to September?
+Answer: It decreased
+
+Question: What was the production index for the manufacture of coke and refined petroleum products in July?
+Answer: 99.8
+
+=================================================================== 60 ====================================================================================================

@@ -1,0 +1,26 @@
+<new sheet>
+sheet_name: Sheet1 (2)
+Name of the Scheme,Source of Funds,Purpose,Area of Operation,Maximum Loan Amount,Interest Rate to the end borrower per Annum,Maximum Grace Period,Maximum Repayment Period,Target Group,Schemes Category
+New Comprehensive Rural Credit Scheme (NCRCS),PFIs own funds and Interest Subsidy by GOSL,Uplift the socioeconomic conditions of micro and small scale farmers who engage in cultivation of paddy and short term crops including home gardening.,All Island,"Rs. 3,000,000
+(Varies depending of the crop)",0.08,-,"270 Days
+(360 Days for Sugarcane & Turmeric)",Small scale farmers,Interest Subsidy
+Poverty Alleviation Microfinance Project - Revolving Fund (PAMP RF),Government of Sri Lanka (GOSL),Poverty alleviation through promotion of income generating activities and organizing low income groups to link them with formal banking system.,"Colombo, Kalutara, Gampaha, Kandy, Matale, N'Eliya, Galle, Matara, Hambantota, Kegalle, Kurunegala","Rs. 50,000",0.12,-,3 Years,"Households whose monthly income is less than Rs. 7,500.",Refinance
+Self – Employment Promotion Initiative Loan Scheme Phase II (SEPI II),Government of Sri Lanka (GOSL),Provide financial assistance to youth trained by recognized vocational training institutions for establishment of their own self-employment projects.,All Island,"Rs. 1,000,000",0.07,6 Months,5 Years,Youth trained by recognized vocational training institutions,Refinance
+Swashakthi Loan Scheme,Government of Sri Lanka (GOSL),"Generate employment opportunities, for new young entrepreneurs engaged in income generating activities MSME Sectors.",All Island,"Rs.450,000 + Grant
+(Maximum grant amount:
+Loan > 200,000 - Rs.50,000
+Loan < 200,000 - 25% of the loan amount)",0.055,1 Year,5 Years,New young entrepreneurs ,Refinance
+Saubagya Loan Scheme,Central Bank of Sri Lanka (CBSL),"Start up or expand any micro, small and medium scale enterprise (MSME) or any MSME affected by disasters.",All Island,"Rs. 25,000,000",0.09,6 Months,5 Years,"Micro, small and medium scale entrepreneurs.",Refinance
+Smallholder Tea and Rubber Revitalization (STaRR),Government of Sri Lanka (GOSL),provide concessionary financial facilities for the smallholder farmers who experience delays in income generation from replanted tea and new planted rubber plantations.,All Island,"Rs. 250,000",0.09,3 Months,3 years,"Tea and rubber smallholder farmers, recommended by the PMU in consultation with MPI",Interest Subsidy
+Refinance Scheme for COVID19 affected SOEs – SCRF Ph IV,Central Bank of Sri Lanka (CBSL),To fullfill the working capital requirements and setting the statutory obligations of SOEs.,All Island,"Working capital requirement for a maximum of 3 months period and the statutoty obligation after considering the business plan of the relevant SOEs or the maximum eligible amountsrecommended by Dept of Public Enterprises (DPE) of Ministry of Finance, whichever is lower.",0.04,6 months,3 Years,SOEs recommended by DPE,Refinance
+"Domestic Agriculture Development Programme – Pilot Phase (DAD-PP)
+",Central Bank of Sri Lanka (CBSL),To develop the domestic agriculture sector and to promote agriculture exports.,All Island,LKR 25 Mn.,"<1Mn. - 4%
+>=1Mn. - 5%",1 Year,5 Years,"Dairy, Spices, Vegi sector lead players",Refinance
+Credit Guarantee Scheme for the MSME Rice Mill Owners in Sri Lanka,PFIs own funds and Credit Guarantee by CBSL,Provide credit guarantee to the Participating Financial Institutions (PFIs) who are providing loans to the eligible borrowers under the Scheme for the purpose of purchasing paddy.,All Island,LKR 25 Mn.,"Prevailing market rate 
+",-,9 months,Rice mill owners whose annual turnover is less than Rs. 750 million.,Credit Guaratee
+Interest Subsidy Scheme for Intensification of Shrimp Farms in Sri Lanka, Interest Subsidy by State Ministry of Fisheries,Assist Shrimp farmers to upgrade their farms.,All Island,LKR 100 Mn.,"1st 18 months-4.5%
+Next 6 months-8.5%",6 Months,2 Years,Shrimp farmers,Interest Subsidy
+"Smallholder Agribusiness Partnership Programme (SAPP)
+",International Fund for Agriculture Development (IFAD) & GOSL,"Increase the production, productivity, quality and value addition of agriculture produce.",All Island,"Minimum - Rs. 500,000 
+Maxiumum loan limit depends on the nature of the project",0.065,12 months,18 months - 60 months,"Farmers, Youth entrepreneurs, Promoters, Financial Intermediaries & Individuals engaged in income generation activities.",Refinance
+

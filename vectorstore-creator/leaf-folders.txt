@@ -1,0 +1,310 @@
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\About the Bank\Functions
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\About the Bank\History
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\About the Bank\Objectives
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\About the Bank\Overview
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\About the Bank\Vision, Mission & Values
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\Bank Premises\Bank Headquarters
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\Bank Premises\Centre For Banking Studies
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\Bank Premises\Exter Report - CBSL
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\Bank Premises\Library & Information Center
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\Bank Premises\Regional Offices
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\Bank Premises\The Economic History Museum of Sri Lanka
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\Organisational Structure\Corporate Structure
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\Organisational Structure\Departments
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT\Organisational Structure\Principal Officers
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT US\Careers
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT US\Contact us
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT US\FAQ
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT US\Forms & Downloads
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT US\Glossary
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT US\Privacy
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT US\Right to Information
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\ABOUT US\Tender Notices
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Infrastructure\Credit Information
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Infrastructure\Laws and Regulations
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Infrastructure\Payment and Settlement Systems
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Corporate Debt Securities Market
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Development Finance and Access to Finance
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Domestic Foreign Exchange Market
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Equity Market
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Financial Markets Overview
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\Daily Report
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20210201
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20210301
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20210401
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20210430
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20210531
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20210630
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20210730
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20210831
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20210930
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20211031
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20211130
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20211231
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20220131
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20220228
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20220331
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20220429
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20220531
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20220630
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20220729
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20220831
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20220930
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20221130
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20221230
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20230131
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20230228
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20230331
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20230430
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20230531
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20230630
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20230731
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\GOSL Outstanding Debt Securities\20230831
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Government Securities Market\Government Securities home
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial Markets\Interbank Call money Market
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial System Stability\Banking Sector
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial System Stability\Macroprudential Surveillance
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial System Stability\Major Functions
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial System Stability\Microfinance Sector
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial System Stability\Money Broking Industry
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial System Stability\Non Bank Finance and Leasing Sector
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial System Stability\Overview
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Financial System Stability\Primary Dealers
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Instruments & Implementation\Financial Instuments Overview
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Instruments & Implementation\Financial System Oversight Council
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\FINANCIAL SYSTEM\Instruments & Implementation\Financial System Stability Committee
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Acts\All Acts
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Acts\Banking
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Acts\Central Bank of Sri Lanka Act
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Acts\Employee Provident Fund (EPF)
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Acts\Foreign Exchange\Directions issued to Authorized Dealers under Foreign Exchange Act No. 12 of 2017
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Acts\Foreign Exchange\Foreign Exchange home
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Acts\Foreign Exchange\RegulationsOrders under Foreign Exchange Act No. 12 of 2017
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Acts\Micro Finance
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Acts\Monetary Law Act
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Acts\Non-Banking
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Acts\Other
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Consultation Papers\Consultation Papers for Public Comments
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Directions, Circulars and Guidelines\Banking
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Directions, Circulars and Guidelines\Domestic Operations
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Directions, Circulars and Guidelines\Financial Consumer Protection
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Directions, Circulars and Guidelines\Foreign Exchange
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Directions, Circulars and Guidelines\International Operations
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Directions, Circulars and Guidelines\Micro Finance
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Directions, Circulars and Guidelines\Non-Banking
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Directions, Circulars and Guidelines\Payments and Settlements
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Directions, Circulars and Guidelines\Public Debt
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Directions, Circulars and Guidelines\Resolution and Enforcement
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Licensing, Registration, Appointment and Authorisation Procedures\Bank
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Licensing, Registration, Appointment and Authorisation Procedures\Finance Company
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Licensing, Registration, Appointment and Authorisation Procedures\Leasing Establishment
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\LAWS\Licensing, Registration, Appointment and Authorisation Procedures\Primary Dealers
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\MONETARY POLICY\About Monetary Policy\Economic and Price Stability
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\MONETARY POLICY\About Monetary Policy\Monetary Policy Framework
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\MONETARY POLICY\About Monetary Policy\Overview
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\MONETARY POLICY\Instruments & Implementation\Monetary Policy Committee
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\MONETARY POLICY\Instruments & Implementation\Other Policy Instruments
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\MONETARY POLICY\Instruments & Implementation\Policy Rates and Open Market Operations
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\MONETARY POLICY\Instruments & Implementation\Stakeholder Engagement Committee
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\MONETARY POLICY\Instruments & Implementation\Statutory Reserve Requirement
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\MONETARY POLICY\Monetary Policy Communication\Monetary Policy Advance Release Calendar
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\MONETARY POLICY\Monetary Policy Communication\Monetary Policy Announcement Dates
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\MONETARY POLICY\Monetary Policy Communication\Monetary Policy Reports
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\MONETARY POLICY\Monetary Policy Communication\Overview
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\More Services
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\NOTES & COINS\Damaged Notes and Counterfeits\Counterfeit Prevention
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\NOTES & COINS\Damaged Notes and Counterfeits\Exchanging Damaged Notes
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\NOTES & COINS\Damaged Notes and Counterfeits\More Information
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\NOTES & COINS\Damaged Notes and Counterfeits\Unfit, Altered and Mutilated Bank Notes
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\NOTES & COINS\Damaged Notes and Counterfeits\Using Bank Note Images
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\NOTES & COINS\Notes & Coins\Coins in Circulation
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\NOTES & COINS\Notes & Coins\Commemorative Coins and Notes
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\NOTES & COINS\Notes & Coins\Currency Management
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\NOTES & COINS\Notes & Coins\Current Note Series
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\NOTES & COINS\Notes & Coins\History of Currency in Sri Lanka
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\NOTES & COINS\Notes & Coins\Security Features of Notes
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PRESS\Media\Interviews
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PRESS\Media\Notices
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PRESS\Media\Press Conferences
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PRESS\Media\Speeches
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PRESS\Press Releases\External Sector Performance
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PRESS\Press Releases\Government Securities
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PRESS\Press Releases\Inflation
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PRESS\Press Releases\Monetary Policy Review
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PRESS\Press Releases\Non-Bank Financial Institutions
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PRESS\Press Releases\Open Market Operations
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PRESS\Press Releases\Other
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PRESS\Press Releases\Purchasing Managers Index Survey
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1950
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1951
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1952
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1953
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1954
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1955
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1956
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1957
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1958
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1959
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1960
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1961
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1962
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1963
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1964
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1965
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1966
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1967
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1968
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1969
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1970
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1971
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1972
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1973
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1974
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1975
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1976
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1977
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1978
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1979
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1980
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1981
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1982
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1983
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1984
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1985
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1986
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1987
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1988
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1989
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1990
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1991
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1992
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1993
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1994
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1995
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1996
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1997
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1998
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 1999
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2000
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2001
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2002
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2003
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2004
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2005
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2006
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2007
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2008
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2009
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2010
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2011
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2012
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2013
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2014
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2015
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2016
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2017
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2018
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2019
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2020
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2021
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Report 2022
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Annual Report\Annual Reports home
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Central Bank of Sri Lanka Balance Sheet
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Financial Soundness Indicators
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Financial System Stability Review
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Monetary Policy Report
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Other Financial Publications
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2001
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2002
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2003
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2004
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2005
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2006
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2007
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2008
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2009
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2010
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2011
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2012
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2013
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2014
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2015
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2016
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2017
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2018
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2019
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2020
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2021
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments 2022
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Economic and Financial Reports\Recent Economic Developments\Recent Economic Developments Home
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Education
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Other Publications\1950 - 1975 Commemorative Volume
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Other Publications\40th Anniversary Commemorative Volume
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Other Publications\60th Anniversary Commemorative Volume
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Other Publications\Other Publications Home
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Payments Bulletin
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Public Awareness
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Research Conference Proceedings\2008
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Research Conference Proceedings\2009
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Research Conference Proceedings\2010
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Research Conference Proceedings\2011
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Research Conference Proceedings\2012
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Research Conference Proceedings\2013
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Research Conference Proceedings\2014
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Research Conference Proceedings\2015
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Research Conference Proceedings\2016
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Research Conference Proceedings\2017
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Research Conference Proceedings\2018
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Research Conference Proceedings\2019
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Research Conference Proceedings\Research Conference Proceedings Home
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Staff Studies
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Statistical Publications\Economic and Social Statistics\Economic and Social Statistics 2021
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Statistical Publications\Economic and Social Statistics\Economic and Social Statistics 2022
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Statistical Publications\Economic and Social Statistics\Economic and Social Statistics 2023
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Statistical Publications\Economic and Social Statistics\ESS
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Statistical Publications\Sri Lanka Socio-Economic Data Folder
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Other Publications\Statistical Publications\Statistical Publications Home
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Periodicals\News Survey
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Periodicals\Satahana
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\PUBLICATIONS\Periodicals\Vaippaham
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\RESEARCH\Research\Conferences, Seminars and Workshops
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\RESEARCH\Research\Information Series
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\RESEARCH\Research\Research Home
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Business Surveys\Business Outlook Survey
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Business Surveys\Condominium Market Survey
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Business Surveys\Purchasing Managers' Index
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Business Surveys\Survey on Credit Supply
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Data\Special Data Dissemination Standard [SDDS]\Externel sector
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Data\Special Data Dissemination Standard [SDDS]\Financial sector
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Data\Special Data Dissemination Standard [SDDS]\Fiscal sector
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Data\Special Data Dissemination Standard [SDDS]\Population
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Data\Special Data Dissemination Standard [SDDS]\Real sector
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Economic Indicators\Daily Indicators
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Economic Indicators\Daily Price Report
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Economic Indicators\Macroeconomic Chart Pack
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Economic Indicators\Monthly Bulletin
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Economic Indicators\Monthly Indicators
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Economic Indicators\Monthly Trade Bulletin
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Economic Indicators\Sri Lanka Prosperity Index
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Economic Indicators\Weekly Indicators
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Economic Indicators\Workers' Remittances and Labour Migration
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\External Sector\Balance of Payments
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\External Sector\Earnings from Tourism
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\External Sector\Exports, Imports and Trade
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\External Sector\External Debt and Debt Servicing
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\External Sector\External Sector Home
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\External Sector\International Investment Position
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\External Sector\Workers' Remittances
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\Financial Sector\Banking Sector
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\Financial Sector\Licensed Finance Companies and Specialised Leasing Companies Sector
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\Fiscal Sector\Fiscal Sector Home
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\Fiscal Sector\Government Budgetary Operations
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\Fiscal Sector\Government Debt
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\Monetary Sector\Assets and Liabilities
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\Monetary Sector\Interest Rates
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\Monetary Sector\Monetary Sector Home
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\Monetary Sector\Reserve Money, Money Multiplier and Velocity
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\Real Sector\National Accounts
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\Real Sector\Prices, Wages and Employment
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\Real Sector\Production Indicators
+D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data\STATISTICS\Statistical Tables\Real Sector\Real Sector Home

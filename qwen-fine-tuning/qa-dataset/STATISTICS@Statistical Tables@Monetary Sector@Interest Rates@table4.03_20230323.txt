@@ -1,0 +1,347 @@
+Question: What was the Bank Rate at the end of 2008?
+Answer: The Bank Rate at the end of 2008 was 17.33.
+Keywords: Bank Rate, 2008.
+
+Question: What was the Government Treasury Bills rate at the end of 2016?
+Answer: The Government Treasury Bills rate at the end of 2016 was 10.17.
+Keywords: Government Treasury Bills, rate, 2016.
+
+Question: What is the Standing Deposit Facility Rate (SDFR) as of 2022?
+Answer: The Standing Deposit Facility Rate (SDFR) as of 2022 is 29.27.
+Keywords: Standing Deposit Facility Rate, SDFR, 2022.
+
+Question: What was the SLF Rate at the end of 2015?
+Answer: The SLF Rate at the end of 2015 was 7.5.
+Keywords: SLF Rate, 2015.
+
+Question: What was the Commercial Bank's Rate on Fixed Deposits at the end of 2003?
+Answer: The Commercial Bank's Rate on Fixed Deposits at the end of 2003 was 5.27.
+Keywords: Commercial Bank's Rate, Fixed Deposits, 2003.
+
+Question: What was the Inter-Bank Call Rate at the end of 1996?
+Answer: The Inter-Bank Call Rate at the end of 1996 was 14.29.
+Keywords: Inter-Bank Call Rate, 1996.
+
+Question: What was the Primary Market Yield Rate for 24 Months at the end of 2000?
+Answer: The Primary Market Yield Rate for 24 Months at the end of 2000 was 12.89.
+Keywords: Primary Market Yield Rate, 24 Months, 2000.
+
+Question: What was the AWLR at the end of 2012?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 2012 was 14.29.
+Keywords: AWLR, 2012.
+
+Question: What was the AWPR at the end of 1993?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 1993 was 13.64.
+Keywords: AWPR, 1993.
+
+Question: What was the AWNDR at the end of 2019?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2019 was 5.30.
+Keywords: AWNDR, 2019.
+
+Question: What was the AWLR at the end of 1997?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 1997 was 14.2.
+Keywords: AWLR, 1997.
+
+Question: What was the AWPR at the end of 2014?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 2014 was 6.2.
+Keywords: AWPR, 2014.
+
+Question: What was the AWDR at the end of 2011?
+Answer: The Average Weighted Deposit Rate (AWDR) at the end of 2011 was 7.24.
+Keywords: AWDR, 2011.
+
+Question: What was the AWLR at the end of 1992?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 1992 was 20.2.
+Keywords: AWLR, 1992.
+
+Question: What was the AWLR at the end of 2005?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 2005 was 12.14.
+Keywords: AWLR, 2005.
+
+Question: What was the AWLR at the end of 1999?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 1999 was 15.16.
+Keywords: AWLR, 1999.
+
+Question: What was the AWNDR at the end of 2017?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2017 was 5.13.
+Keywords: AWNDR, 2017.
+
+Question: What was the AWDR at the end of 1994?
+Answer: The Average Weighted Deposit Rate (AWDR) at the end of 1994 was 12.58.
+Keywords: AWDR, 1994.
+
+Question: What was the AWLR at the end of 2001?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 2001 was 14.25.
+Keywords: AWLR, 2001.
+
+Question: What was the AWDR at the end of 2006?
+Answer: The Average Weighted Deposit Rate (AWDR) at the end of 2006 was 7.6.
+Keywords: AWDR, 2006.
+
+Question: What was the AWNLR at the end of 2012?
+Answer: The Average Weighted New Lending Rate (AWNLR) at the end of 2012 was 15.98.
+Keywords: AWNLR, 2012.
+
+Question: What was the AWDR at the end of 2008?
+Answer: The Average Weighted Deposit Rate (AWDR) at the end of 2008 was 11.63.
+Keywords: AWDR, 2008.
+
+Question: What was the AWLR at the end of 2004?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 2004 was 10.17.
+Keywords: AWLR, 2004.
+
+Question: What was the AWPR at the end of 2010?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 2010 was 6.23.
+Keywords: AWPR, 2010.
+
+Question: What was the AWPR at the end of 2002?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 2002 was 7.47.
+Keywords: AWPR, 2002.
+
+Question: What was the AWLR at the end of 2009?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 2009 was 11.12.
+Keywords: AWLR, 2009.
+
+Question: What was the AWNDR at the end of 2010?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2010 was 5.05.
+Keywords: AWNDR, 2010.
+
+Question: What was the AWDR at the end of 2015?
+Answer: The Average Weighted Deposit Rate (AWDR) at the end of 2015 was 6.45.
+Keywords: AWDR, 2015.
+
+Question: What was the AWDR at the end of 2000?
+Answer: The Average Weighted Deposit Rate (AWDR) at the end of 2000 was 9.89.
+Keywords: AWDR, 2000.
+
+Question: What was the SLF Rate at the end of 2018?
+Answer: The SLF Rate at the end of 2018 was 9.
+Keywords: SLF Rate, 2018.
+
+Question: What was the Commercial Bank's Rate on Advances at the end of 2013?
+Answer: The Commercial Bank's Rate on Advances at the end of 2013 was 5.41-7.50.
+Keywords: Commercial Bank's Rate, Advances, 2013.
+
+Question: What was the Inter-Bank Call Rate at the end of 2007?
+Answer: The Inter-Bank Call Rate at the end of 2007 was 16.
+Keywords: Inter-Bank Call Rate, 2007.
+
+Question: What was the AWNLR at the end of 2016?
+Answer: The Average Weighted New Lending Rate (AWNLR) at the end of 2016 was 13.2.
+Keywords: AWNLR, 2016.
+
+Question: What was the AWNLR at the end of 2011?
+Answer: The Average Weighted New Lending Rate (AWNLR) at the end of 2011 was 13.44.
+Keywords: AWNLR, 2011.
+
+Question: What was the AWNDR at the end of 2004?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2004 was 3.00-7.75.
+Keywords: AWNDR, 2004.
+
+Question: What was the Primary Market Yield Rate for 6 Months at the end of 2006?
+Answer: The Primary Market Yield Rate for 6 Months at the end of 2006 was 9.25.
+Keywords: Primary Market Yield Rate, 6 Months, 2006.
+
+Question: What was the AWNDR at the end of 2019?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2019 was 5.30-12.63.
+Keywords: AWNDR, 2019.
+
+Question: What was the AWDR at the end of 2005?
+Answer: The Average Weighted Deposit Rate (AWDR) at the end of 2005 was 9.25.
+Keywords: AWDR, 2005.
+
+Question: What was the AWNLR at the end of 2000?
+Answer: The Average Weighted New Lending Rate (AWNLR) at the end of 2000 was 13.94.
+Keywords: AWNLR, 2000.
+
+Question: What was the AWDR at the end of 2002?
+Answer: The Average Weighted Deposit Rate (AWDR) at the end of 2002 was 10.17.
+Keywords: AWDR, 2002.
+
+Question: What was the AWPR at the end of 2009?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 2009 was 9.96.
+Keywords: AWPR, 2009.
+
+Question: What was the AWDR at the end of 2012?
+Answer: The Average Weighted Deposit Rate (AWDR) at the end of 2012 was 10.1.
+Keywords: AWDR, 2012.
+
+Question: What was the AWPR at the end of 2017?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 2017 was 9.07.
+Keywords: AWPR, 2017.
+
+Question: What was the AWNDR at the end of 2015?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2015 was 5.30-12.50.
+Keywords: AWNDR, 2015.
+
+Question: What was the AWPR at the end of 2008?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 2008 was 11.63.
+Keywords: AWPR, 2008.
+
+Question: What was the AWNLR at the end of 2003?
+Answer: The Average Weighted New Lending Rate (AWNLR) at the end of 2003 was 7.11.
+Keywords: AWNLR, 2003.
+
+Question: What was the AWPR at the end of 2007?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 2007 was 10.31.
+Keywords: AWPR, 2007.
+
+Question: What was the AWDR at the end of 2014?
+Answer: The Average Weighted Deposit Rate (AWDR) at the end of 2014 was 6.2.
+Keywords: AWDR, 2014.
+
+Question: What was the AWLR at the end of 2001?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 2001 was 12.92.
+Keywords: AWLR, 2001.
+
+Question: What was the AWLR at the end of 2015?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 2015 was 10.65.
+Keywords: AWLR, 2015.
+
+Question: What was the AWPR at the end of 2006?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 2006 was 7.6.
+Keywords: AWPR, 2006.
+
+Question: What was the AWPR at the end of 2014?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 2014 was 6.2.
+Keywords: AWPR, 2014.
+
+Question: What was the AWNDR at the end of 2001?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2001 was 0.75-9.14.
+Keywords: AWNDR, 2001.
+
+Question: What was the AWLR at the end of 2011?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 2011 was 8.95.
+Keywords: AWLR, 2011.
+
+Question: What was the AWLR at the end of 2002?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 2002 was 12.17.
+Keywords: AWLR, 2002.
+
+Question: What was the AWDR at the end of 2009?
+Answer: The Average Weighted Deposit Rate (AWDR) at the end of 2009 was 8.2.
+Keywords: AWDR, 2009.
+
+Question: What was the AWLR at the end of 2010?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 2010 was 9.27.
+Keywords: AWLR, 2010.
+
+Question: What was the AWNDR at the end of 2017?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2017 was 5.13-13.40.
+Keywords: AWNDR, 2017.
+
+Question: What was the Bank Rate at the end of 1996?
+Answer: The Bank Rate at the end of 1996 was 17.45.
+Keywords: Bank Rate, 1996.
+
+Question: What was the SLF Rate at the end of 2019?
+Answer: The SLF Rate at the end of 2019 was 8.
+Keywords: SLF Rate, 2019.
+
+Question: What was the Government Treasury Bills rate at the end of 2005?
+Answer: The Government Treasury Bills rate at the end of 2005 was 19.26.
+Keywords: Government Treasury Bills, 2005.
+
+Question: What was the Inter-Bank Call Rate at the end of 2012?
+Answer: The Inter-Bank Call Rate at the end of 2012 was 11.5.
+Keywords: Inter-Bank Call Rate, 2012.
+
+Question: What was the AWNDR at the end of 1998?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 1998 was 2.0-10.0.
+Keywords: AWNDR, 1998.
+
+Question: What was the AWPR at the end of 2003?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 2003 was 9.17.
+Keywords: AWPR, 2003.
+
+Question: What was the AWNDR at the end of 2011?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2011 was 0.75-10.50.
+Keywords: AWNDR, 2011.
+
+Question: What was the Bank Rate at the end of 2017?
+Answer: The Bank Rate at the end of 2017 was 15.5.
+Keywords: Bank Rate, 2017.
+
+Question: What was the SLF Rate at the end of 2015?
+Answer: The SLF Rate at the end of 2015 was 7.4.
+Keywords: SLF Rate, 2015.
+
+Question: What was the AWNDR at the end of 1999?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 1999 was 2.0-10.0.
+Keywords: AWNDR, 1999.
+
+Question: What was the AWNLR at the end of 2010?
+Answer: The Average Weighted New Lending Rate (AWNLR) at the end of 2010 was 14.8.
+Keywords: AWNLR, 2010.
+
+Question: What was the AWNLR at the end of 1998?
+Answer: The Average Weighted New Lending Rate (AWNLR) at the end of 1998 was 15.1.
+Keywords: AWNLR, 1998.
+
+Question: What was the AWDR at the end of 2017?
+Answer: The Average Weighted Deposit Rate (AWDR) at the end of 2017 was 10.05.
+Keywords: AWDR, 2017.
+
+Question: What was the AWPR at the end of 2013?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 2013 was 9.37.
+Keywords: AWPR, 2013.
+
+Question: What was the AWNDR at the end of 2018?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2018 was 5.30-12.63.
+Keywords: AWNDR, 2018.
+
+Question: What was the SLF Rate at the end of 2012?
+Answer: The SLF Rate at the end of 2012 was 11.5.
+Keywords: SLF Rate, 2012.
+
+Question: What was the AWLR at the end of 2015?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 2015 was 10.65.
+Keywords: AWLR, 2015.
+
+Question: What was the SLF Rate at the end of 2014?
+Answer: The SLF Rate at the end of 2014 was 5.88-6.00.
+Keywords: SLF Rate, 2014.
+
+Question: What was the AWDR at the end of 2018?
+Answer: The Average Weighted Deposit Rate (AWDR) at the end of 2018 was 10.05.
+Keywords: AWDR, 2018.
+
+Question: What was the AWPR at the end of 2016?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 2016 was 11.73.
+Keywords: AWPR, 2016.
+
+Question: What was the AWNDR at the end of 2016?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2016 was 3.50-24.00.
+Keywords: AWNDR, 2016.
+
+Question: What was the AWNLR at the end of 2013?
+Answer: The Average Weighted New Lending Rate (AWNLR) at the end of 2013 was 11.78.
+Keywords: AWNLR, 2013.
+
+Question: What was the AWLR at the end of 2011?
+Answer: The Average Weighted Lending Rate (AWLR) at the end of 2011 was 8.95.
+Keywords: AWLR, 2011.
+
+Question: What was the AWNDR at the end of 2017?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2017 was 5.13-13.40.
+Keywords: AWNDR, 2017.
+
+Question: What was the AWNDR at the end of 2013?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2013 was 5.25-15.00.
+Keywords: AWNDR, 2013.
+
+Question: What was the AWNLR at the end of 2017?
+Answer: The Average Weighted New Lending Rate (AWNLR) at the end of 2017 was 13.88.
+Keywords: AWNLR, 2017.
+
+Question: What was the AWNDR at the end of 2004?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2004 was 3.00-7.75.
+Keywords: AWNDR, 2004.
+
+Question: What was the AWPR at the end of 2012?
+Answer: The Average Weighted Prime Lending Rate (AWPR) at the end of 2012 was 7.6.
+Keywords: AWPR, 2012.
+
+Question: What was the AWNDR at the end of 2014?
+Answer: The Average Weighted New Deposit Rate (AWNDR) at the end of 2014 was 4.15-14.00.
+Keywords: AWNDR, 2014.

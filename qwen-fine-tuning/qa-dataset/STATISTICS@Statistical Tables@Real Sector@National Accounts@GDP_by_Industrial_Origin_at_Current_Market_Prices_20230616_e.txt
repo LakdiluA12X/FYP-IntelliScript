@@ -1,0 +1,479 @@
+Question: What was the GDP for the Agriculture, Forestry, and Fishing sector in 2020?
+Answer: The GDP for the Agriculture, Forestry, and Fishing sector in 2020 was Rs. 1,294,022.98 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, sector, 2020
+
+Question: How much was the GDP contribution of Marine fishing and Marine Aquaculture in 2021?
+Answer: The GDP contribution of Marine fishing and Marine Aquaculture in 2021 was Rs. 231,430.36 million.
+Keywords: GDP, Marine fishing, Aquaculture, 2021
+
+Question: What was the GDP from the Industries sector in 2019?
+Answer: The GDP from the Industries sector in 2019 was Rs. 4,644,574.47 million.
+Keywords: GDP, Industries, sector, 2019
+
+Question: How did the GDP from the Wholesale and retail trade sector change from 2019 to 2021?
+Answer: The GDP from the Wholesale and retail trade sector increased from Rs. 1,941,394.33 million in 2019 to Rs. 4,335,996.70 million in 2021.
+Keywords: GDP, Wholesale, retail trade, sector, change, 2019, 2021
+
+Question: What was the GDP for the Agriculture, Forestry, and Fishing sector in 2019 Quarter 4?
+Answer: The GDP for the Agriculture, Forestry, and Fishing sector in 2019 Quarter 4 was Rs. 330,875.24 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, sector, 2019, Quarter 4
+
+Question: How much did the GDP contribution of Construction sector change from 2020 to 2021?
+Answer: The GDP contribution of Construction sector increased from Rs. 1,562,277.53 million in 2020 to Rs. 1,947,177.29 million in 2021.
+Keywords: GDP, Construction, sector, change, 2020, 2021
+
+Question: What was the GDP from the Animal Production sector in 2022 Quarter 2?
+Answer: The GDP from the Animal Production sector in 2022 Quarter 2 was Rs. 54,817.87 million.
+Keywords: GDP, Animal Production, sector, 2022, Quarter 2
+
+Question: How much did the GDP contribution of Manufacture of chemicals and chemical products change from 2021 to 2022?
+Answer: The GDP contribution of Manufacture of chemicals and chemical products increased from Rs. 58,248.98 million in 2021 to Rs. 247,222.85 million in 2022.
+Keywords: GDP, Manufacture, chemicals, chemical products, change, 2021, 2022
+
+Question: What was the GDP from the Industries sector in 2023 Quarter 1?
+Answer: The GDP from the Industries sector in 2023 Quarter 1 was Rs. 2,496,763.00 million.
+Keywords: GDP, Industries, sector, 2023, Quarter 1
+
+Question: How much did the GDP contribution of Growing of Cereals (except rice) change from 2020 to 2021 Annual?
+Answer: The GDP contribution of Growing of Cereals (except rice) increased from Rs. 35,107.93 million in 2020 to Rs. 59,869.36 million in 2021 Annual.
+Keywords: GDP, Growing of Cereals, rice, change, 2020, 2021 Annual
+
+Question: What was the GDP from the Fresh water fishing and Fresh water Aquaculture sector in 2019 Quarter 3?
+Answer: The GDP from the Fresh water fishing and Fresh water Aquaculture sector in 2019 Quarter 3 was Rs. 7,400.85 million.
+Keywords: GDP, Fresh water fishing, Aquaculture, sector, 2019, Quarter 3
+
+Question: How much did the GDP contribution of Agriculture, Forestry, and Fishing sector change from 2021 Quarter 2 to 2021 Quarter 3?
+Answer: The GDP contribution of Agriculture, Forestry, and Fishing sector increased from Rs. 549,068.73 million in 2021 Quarter 2 to Rs. 529,422.48 million in 2021 Quarter 3.
+Keywords: GDP, Agriculture, Forestry, Fishing, change, 2021, Quarter 2, Quarter 3
+
+Question: What was the GDP from the Growing of fruits sector in 2022 Annual?
+Answer: The GDP from the Growing of fruits sector in 2022 Annual was Rs.10,527.88 million.
+Keywords: GDP, Growing of fruits, sector, 2022 Annual
+
+Question: How much was the GDP contribution of Growing of Vegetables in 2020 Quarter 4?
+Answer: The GDP contribution of Growing of Vegetables in 2020 Quarter 4 was Rs. 63,896.52 million.
+Keywords: GDP, Growing of Vegetables, 2020, Quarter 4
+
+Question: What was the GDP from the Mining and quarrying sector in 2020?
+Answer: The GDP from the Mining and quarrying sector in 2020 was Rs. 96,054.07 million.
+Keywords: GDP, Mining, quarrying, sector, 2020
+
+Question: How much did the GDP contribution of Manufacture of food products change from 2019 to 2020?
+Answer: The GDP contribution of Manufacture of food products decreased from Rs. 297,172.97 million in 2019 to Rs. 271,184.40 million in 2020.
+Keywords: GDP, Manufacture, food products, change, 2019, 2020
+
+Question: What was the GDP from the Livestock farming sector in 2021 Quarter 3?
+Answer: The GDP from the Livestock farming sector in 2021 Quarter 3 was Rs. 275,531.11 million.
+Keywords: GDP, Livestock farming, sector, 2021, Quarter 3
+
+Question: How much was the GDP contribution of Rice milling and Processing in 2023 Quarter 4?
+Answer: The GDP contribution of Rice milling and Processing in 2023 Quarter 4 was Rs. 101,346.80 million.
+Keywords: GDP, Rice milling, Processing, 2023, Quarter 4
+
+Question: What was the GDP from the Growing of oilseeds sector in 2021?
+Answer: The GDP from the Growing of oilseeds sector in 2021 was Rs. 79,931.08 million.
+Keywords: GDP, Growing of oilseeds, sector, 2021
+
+Question: How much did the GDP contribution of Manufacture of tobacco products change from 2022 to 2023?
+Answer: The GDP contribution of Manufacture of tobacco products decreased from Rs. 4,579.86 million in 2022 to Rs. 3,619.71 million in 2023.
+Keywords: GDP, Manufacture, tobacco products, change, 2022, 2023
+
+Question: What was the GDP from the Manufacture of wood and products of wood and cork sector in 2020?
+Answer: The GDP from the Manufacture of wood and products of wood and cork sector in 2020 was Rs. 13,190.89 million.
+Keywords: GDP, Manufacture, wood, cork, sector, 2020
+
+Question: How much was the GDP contribution of Construction of buildings in 2022 Quarter 1?
+Answer: The GDP contribution of Construction of buildings in 2022 Quarter 1 was Rs. 375,358.09 million.
+Keywords: GDP, Construction, buildings, 2022, Quarter 1
+
+Question: What was the GDP from the Forestry and logging sector in 2023 Quarter 3?
+Answer: The GDP from the Forestry and logging sector in 2023 Quarter 3 was Rs. 13,636.10 million.
+Keywords: GDP, Forestry, logging, sector, 2023, Quarter 3
+
+Question: How much did the GDP contribution of Fishing and aquaculture services change from 2021 Quarter 1 to 2021 Quarter 2?
+Answer: The GDP contribution of Fishing and aquaculture services decreased from Rs. 23,831.26 million in 2021 Quarter 1 to Rs. 21,887.71 million in 2021 Quarter 2.
+Keywords: GDP, Fishing, aquaculture services, change, 2021, Quarter 1, Quarter 2
+
+Question: What was the GDP from the Manufacture of wearing apparel sector in 2019 Quarter 2?
+Answer: The GDP from the Manufacture of wearing apparel sector in 2019 Quarter 2 was Rs. 6,016.49 million.
+Keywords: GDP, Manufacture, wearing apparel, sector, 2019, Quarter 2
+
+Question: How much was the GDP contribution of Transport and storage services in 2020 Quarter 2?
+Answer: The GDP contribution of Transport and storage services in 2020 Quarter 2 was Rs. 183,785.59 million.
+Keywords: GDP, Transport, storage services, 2020, Quarter 2
+
+Question: What was the GDP from the Growing of tobacco sector in 2022 Quarter 2?
+Answer: The GDP from the Growing of tobacco sector in 2022 Quarter 2 was Rs. 4,315.14 million.
+Keywords: GDP, Growing of tobacco, sector, 2022, Quarter 2
+
+Question: How much did the GDP contribution of Electricity, gas, steam, and air conditioning supply change from 2022 Quarter 3 to 2022 Quarter 4?
+Answer: The GDP contribution of Electricity, gas, steam, and air conditioning supply decreased from Rs. 268,421.79 million in 2022 Quarter 3 to Rs. 243,638.59 million in 2022 Quarter 4.
+Keywords: GDP, Electricity, gas, steam, air conditioning supply, change, 2022, Quarter 3, Quarter 4
+
+Question: What was the GDP from the Manufacture of furniture sector in 2021?
+Answer: The GDP from the Manufacture of furniture sector in 2021 was Rs. 18,078.39 million.
+Keywords: GDP, Manufacture, furniture, sector, 2021
+
+Question: How much was the GDP contribution of Manufacture of beverages in 2023 Quarter 1?
+Answer: The GDP contribution of Manufacture of beverages in 2023 Quarter 1 was Rs. 40,399.84 million.
+Keywords: GDP, Manufacture, beverages, 2023, Quarter 1
+
+Question: What was the GDP for the Agriculture, Forestry, and Fishing sector in 2020?
+Answer: The GDP for the Agriculture, Forestry, and Fishing sector in 2020 was Rs. 1,294,022.98 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, sector, 2020
+
+Question: How much was the GDP contribution of Marine fishing and Marine Aquaculture in 2021?
+Answer: The GDP contribution of Marine fishing and Marine Aquaculture in 2021 was Rs. 231,430.36 million.
+Keywords: GDP, Marine fishing, Aquaculture, 2021
+
+Question: What was the GDP from the Industries sector in 2019?
+Answer: The GDP from the Industries sector in 2019 was Rs. 4,644,574.47 million.
+Keywords: GDP, Industries, sector, 2019
+
+Question: How did the GDP from the Wholesale and retail trade sector change from 2019 to 2021?
+Answer: The GDP from the Wholesale and retail trade sector increased from Rs. 1,941,394.33 million in 2019 to Rs. 4,335,996.70 million in 2021.
+Keywords: GDP, Wholesale, retail trade, sector, change, 2019, 2021
+
+Question: What was the GDP for the Agriculture, Forestry, and Fishing sector in 2019 Quarter 4?
+Answer: The GDP for the Agriculture, Forestry, and Fishing sector in 2019 Quarter 4 was Rs. 330,875.24 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, sector, 2019, Quarter 4
+
+Question: How much did the GDP contribution of Construction sector change from 2020 to 2021?
+Answer: The GDP contribution of Construction sector increased from Rs. 1,562,277.53 million in 2020 to Rs. 1,947,177.29 million in 2021.
+Keywords: GDP, Construction, sector, change, 2020, 2021
+
+Question: What was the GDP from the Animal Production sector in 2022 Quarter 2?
+Answer: The GDP from the Animal Production sector in 2022 Quarter 2 was Rs. 54,817.87 million.
+Keywords: GDP, Animal Production, sector, 2022, Quarter 2
+
+Question: How much did the GDP contribution of Manufacture of chemicals and chemical products change from 2021 to 2022?
+Answer: The GDP contribution of Manufacture of chemicals and chemical products increased from Rs. 58,248.98 million in 2021 to Rs. 247,222.85 million in 2022.
+Keywords: GDP, Manufacture, chemicals, chemical products, change, 2021, 2022
+
+Question: What was the GDP from the Industries sector in 2023 Quarter 1?
+Answer: The GDP from the Industries sector in 2023 Quarter 1 was Rs. 2,496,763.00 million.
+Keywords: GDP, Industries, sector, 2023, Quarter 1
+
+Question: How much did the GDP contribution of Growing of Cereals (except rice) change from 2020 to 2021 Annual?
+Answer: The GDP contribution of Growing of Cereals (except rice) increased from Rs. 35,107.93 million in 2020 to Rs. 59,869.36 million in 2021 Annual.
+Keywords: GDP, Growing of Cereals, rice, change, 2020, 2021 Annual
+
+Question: What was the GDP from the Fresh water fishing and Fresh water Aquaculture sector in 2019 Quarter 3?
+Answer: The GDP from the Fresh water fishing and Fresh water Aquaculture sector in 2019 Quarter 3 was Rs. 7,400.85 million.
+Keywords: GDP, Fresh water fishing, Aquaculture, sector, 2019, Quarter 3
+
+Question: How much did the GDP contribution of Agriculture, Forestry, and Fishing sector change from 2021 Quarter 2 to 2021 Quarter 3?
+Answer: The GDP contribution of Agriculture, Forestry, and Fishing sector increased from Rs. 549,068.73 million in 2021 Quarter 2 to Rs. 529,422.48 million in 2021 Quarter 3.
+Keywords: GDP, Agriculture, Forestry, Fishing, change, 2021, Quarter 2, Quarter 3
+
+Question: What was the GDP from the Growing of fruits sector in 2022 Annual?
+Answer: The GDP from the Growing of fruits sector in 2022 Annual was Rs.10,527.88 million.
+Keywords: GDP, Growing of fruits, sector, 2022 Annual
+
+Question: How much was the GDP contribution of Growing of Vegetables in 2020 Quarter 4?
+Answer: The GDP contribution of Growing of Vegetables in 2020 Quarter 4 was Rs. 63,896.52 million.
+Keywords: GDP, Growing of Vegetables, 2020, Quarter 4
+
+Question: What was the GDP from the Mining and quarrying sector in 2020?
+Answer: The GDP from the Mining and quarrying sector in 2020 was Rs. 96,054.07 million.
+Keywords: GDP, Mining, quarrying, sector, 2020
+
+Question: How much did the GDP contribution of Manufacture of food products change from 2019 to 2020?
+Answer: The GDP contribution of Manufacture of food products decreased from Rs. 297,172.97 million in 2019 to Rs. 271,184.40 million in 2020.
+Keywords: GDP, Manufacture, food products, change, 2019, 2020
+
+Question: What was the GDP from the Livestock farming sector in 2021 Quarter 3?
+Answer: The GDP from the Livestock farming sector in 2021 Quarter 3 was Rs. 275,531.11 million.
+Keywords: GDP, Livestock farming, sector, 2021, Quarter 3
+
+Question: How much was the GDP contribution of Rice milling and Processing in 2023 Quarter 4?
+Answer: The GDP contribution of Rice milling and Processing in 2023 Quarter 4 was Rs. 101,346.80 million.
+Keywords: GDP, Rice milling, Processing, 2023, Quarter 4
+
+Question: What was the GDP from the Growing of oilseeds sector in 2021?
+Answer: The GDP from the Growing of oilseeds sector in 2021 was Rs. 79,931.08 million.
+Keywords: GDP, Growing of oilseeds, sector, 2021
+
+Question: How much did the GDP contribution of Manufacture of tobacco products change from 2022 to 2023?
+Answer: The GDP contribution of Manufacture of tobacco products decreased from Rs. 4,579.86 million in 2022 to Rs. 3,619.71 million in 2023.
+Keywords: GDP, Manufacture, tobacco products, change, 2022, 2023
+
+Question: What was the GDP from the Manufacture of wood and products of wood and cork sector in 2020?
+Answer: The GDP from the Manufacture of wood and products of wood and cork sector in 2020 was Rs. 13,190.89 million.
+Keywords: GDP, Manufacture, wood, cork, sector, 2020
+
+Question: How much was the GDP contribution of Construction of buildings in 2022 Quarter 1?
+Answer: The GDP contribution of Construction of buildings in 2022 Quarter 1 was Rs. 375,358.09 million.
+Keywords: GDP, Construction, buildings, 2022, Quarter 1
+
+Question: What was the GDP from the Forestry and logging sector in 2023 Quarter 3?
+Answer: The GDP from the Forestry and logging sector in 2023 Quarter 3 was Rs. 13,636.10 million.
+Keywords: GDP, Forestry, logging, sector, 2023, Quarter 3
+
+Question: How much did the GDP contribution of Fishing and aquaculture services change from 2021 Quarter 1 to 2021 Quarter 2?
+Answer: The GDP contribution of Fishing and aquaculture services decreased from Rs. 23,831.26 million in 2021 Quarter 1 to Rs. 21,887.71 million in 2021 Quarter 2.
+Keywords: GDP, Fishing, aquaculture services, change, 2021, Quarter 1, Quarter 2
+
+Question: What was the GDP from the Manufacture of wearing apparel sector in 2019 Quarter 2?
+Answer: The GDP from the Manufacture of wearing apparel sector in 2019 Quarter 2 was Rs. 6,016.49 million.
+Keywords: GDP, Manufacture, wearing apparel, sector, 2019, Quarter 2
+
+Question: How much was the GDP contribution of Transport and storage services in 2020 Quarter 2?
+Answer: The GDP contribution of Transport and storage services in 2020 Quarter 2 was Rs. 183,785.59 million.
+Keywords: GDP, Transport, storage services, 2020, Quarter 2
+
+Question: What was the GDP from the Growing of tobacco sector in 2022 Quarter 2?
+Answer: The GDP from the Growing of tobacco sector in 2022 Quarter 2 was Rs. 4,315.14 million.
+Keywords: GDP, Growing of tobacco, sector, 2022, Quarter 2
+
+Question: How much did the GDP contribution of Electricity, gas, steam, and air conditioning supply change from 2022 Quarter 3 to 2022 Quarter 4?
+Answer: The GDP contribution of Electricity, gas, steam, and air conditioning supply decreased from Rs. 268,421.79 million in 2022 Quarter 3 to Rs. 243,638.59 million in 2022 Quarter 4.
+Keywords: GDP, Electricity, gas, steam, air conditioning supply, change, 2022, Quarter 3, Quarter 4
+
+Question: What was the GDP from the Manufacture of furniture sector in 2021?
+Answer: The GDP from the Manufacture of furniture sector in 2021 was Rs. 18,078.39 million.
+Keywords: GDP, Manufacture, furniture, sector, 2021
+
+Question: How much was the GDP contribution of Manufacture of beverages in 2023 Quarter 1?
+Answer: The GDP contribution of Manufacture of beverages in 2023 Quarter 1 was Rs. 40,399.84 million.
+Keywords: GDP, Manufacture, beverages, 2023, Quarter 1
+
+Question: What was the GDP contribution of Mining and quarrying in 2022 Quarter 2?
+Answer: The GDP contribution of Mining and quarrying in 2022 Quarter 2 was Rs. 23,452.93 million.
+Keywords: GDP, Mining, quarrying, contribution, 2022, Quarter 2
+
+Question: How much did the GDP from the Agriculture, Forestry, and Fishing sector change from 2020 Quarter 1 to 2020 Quarter 2?
+Answer: The GDP from the Agriculture, Forestry, and Fishing sector decreased from Rs. 300,195.74 million in 2020 Quarter 1 to Rs. 281,833.52 million in 2020 Quarter 2.
+Keywords: GDP, Agriculture, Forestry, Fishing, change, 2020, Quarter 1, Quarter 2
+
+Question: What was the GDP from the Wholesale and retail trade sector in 2021 Quarter 4?
+Answer: The GDP from the Wholesale and retail trade sector in 2021 Quarter 4 was Rs. 1,431,568.19 million.
+Keywords: GDP, Wholesale, retail trade, sector, 2021, Quarter 4
+
+Question: How much did the GDP contribution of Manufacture of textiles change from 2021 to 2022?
+Answer: The GDP contribution of Manufacture of textiles increased from Rs. 31,110.26 million in 2021 to Rs. 54,211.14 million in 2022.
+Keywords: GDP, Manufacture, textiles, change, 2021, 2022
+
+Question: What was the GDP from the Growing of vegetables sector in 2023?
+Answer: The GDP from the Growing of vegetables sector in 2023 was Rs. 128,154.18 million.
+Keywords: GDP, Growing of vegetables, sector, 2023
+
+Question: How much was the GDP contribution of Manufacture of basic metals in 2020 Quarter 3?
+Answer: The GDP contribution of Manufacture of basic metals in 2020 Quarter 3 was Rs. 15,951.91 million.
+Keywords: GDP, Manufacture, basic metals, 2020, Quarter 3
+
+Question: What was the GDP from the Manufacture of coke and refined petroleum products sector in 2019 Quarter 4?
+Answer: The GDP from the Manufacture of coke and refined petroleum products sector in 2019 Quarter 4 was Rs. 11,527.86 million.
+Keywords: GDP, Manufacture, coke, refined petroleum products, sector, 2019, Quarter 4
+
+Question: How much did the GDP contribution of Manufacture of rubber and plastics change from 2022 Quarter 2 to 2022 Quarter 3?
+Answer: The GDP contribution of Manufacture of rubber and plastics increased from Rs. 45,187.76 million in 2022 Quarter 2 to Rs. 49,263.02 million in 2022 Quarter 3.
+Keywords: GDP, Manufacture, rubber, plastics, change, 2022, Quarter 2, Quarter 3
+
+Question: What was the GDP from the Fishing and aquaculture services sector in 2020 Quarter 1?
+Answer: The GDP from the Fishing and aquaculture services sector in 2020 Quarter 1 was Rs. 19,875.73 million.
+Keywords: GDP, Fishing, aquaculture services, sector, 2020, Quarter 1
+
+Question: How much was the GDP contribution of Manufacture of other non-metallic mineral products in 2021 Annual?
+Answer: The GDP contribution of Manufacture of other non-metallic mineral products in 2021 Annual was Rs. 51,160.26 million.
+Keywords: GDP, Manufacture, non-metallic mineral products, 2021 Annual
+
+Question: What was the GDP from the Manufacture of paper and paper products sector in 2021 Quarter 1?
+Answer: The GDP from the Manufacture of paper and paper products sector in 2021 Quarter 1 was Rs. 18,234.42 million.
+Keywords: GDP, Manufacture, paper, paper products, sector, 2021, Quarter 1
+
+Question: How much did the GDP contribution of Manufacture of motor vehicles change from 2023 Quarter 2 to 2023 Quarter 3?
+Answer: The GDP contribution of Manufacture of motor vehicles increased from Rs. 74,387.13 million in 2023 Quarter 2 to Rs. 82,792.04 million in 2023 Quarter 3.
+Keywords: GDP, Manufacture, motor vehicles, change, 2023, Quarter 2, Quarter 3
+
+Question: What was the GDP from the Manufacture of machinery and equipment sector in 2022 Annual?
+Answer: The GDP from the Manufacture of machinery and equipment sector in 2022 Annual was Rs. 117,543.06 million.
+Keywords: GDP, Manufacture, machinery, equipment, sector, 2022 Annual
+
+Question: How much was the GDP contribution of Manufacture of electrical equipment in 2021 Quarter 2?
+Answer: The GDP contribution of Manufacture of electrical equipment in 2021 Quarter 2 was Rs. 26,182.40 million.
+Keywords: GDP, Manufacture, electrical equipment, 2021, Quarter 2
+
+Question: What was the GDP from the Manufacture of computer, electronic, and optical products sector in 2020 Quarter 4?
+Answer: The GDP from the Manufacture of computer, electronic, and optical products sector in 2020 Quarter 4 was Rs. 23,731.92 million.
+Keywords: GDP, Manufacture, computer, electronic, optical products, sector, 2020, Quarter 4
+
+Question: How much did the GDP contribution of Manufacture of fabricated metal products change from 2022 Quarter 4 to 2023 Quarter 1?
+Answer: The GDP contribution of Manufacture of fabricated metal products decreased from Rs. 53,142.49 million in 2022 Quarter 4 to Rs. 47,896.55 million in 2023 Quarter 1.
+Keywords: GDP, Manufacture, fabricated metal products, change, 2022, Quarter 4, 2023, Quarter 1
+
+Question: What was the GDP from the Manufacture of pharmaceuticals, medicinal chemical, and botanical products sector in 2022 Quarter 3?
+Answer: The GDP from the Manufacture of pharmaceuticals, medicinal chemical, and botanical products sector in 2022 Quarter 3 was Rs. 55,040.61 million.
+Keywords: GDP, Manufacture, pharmaceuticals, medicinal chemical, botanical products, sector, 2022, Quarter 3
+
+Question: How much was the GDP contribution of Manufacture of coke and refined petroleum products in 2023 Quarter 2?
+Answer: The GDP contribution of Manufacture of coke and refined petroleum products in 2023 Quarter 2 was Rs. 42,963.17 million.
+Keywords: GDP, Manufacture, coke, refined petroleum products, 2023, Quarter 2
+
+Question: What was the GDP from the Manufacture of chemicals and chemical products sector in 2021 Quarter 4?
+Answer: The GDP from the Manufacture of chemicals and chemical products sector in 2021 Quarter 4 was Rs. 53,801.17 million.
+Keywords: GDP, Manufacture, chemicals, chemical products, sector, 2021, Quarter 4
+
+Question: How much did the GDP contribution of Manufacture of pharmaceuticals, medicinal chemical, and botanical products change from 2021 Quarter 2 to 2021 Quarter 3?
+Answer: The GDP contribution of Manufacture of pharmaceuticals, medicinal chemical, and botanical products decreased from Rs. 43,857.96 million in 2021 Quarter 2 to Rs. 41,936.73 million in 2021 Quarter 3.
+Keywords: GDP, Manufacture, pharmaceuticals, medicinal chemical, botanical products, change, 2021, Quarter 2, Quarter 3
+
+Question: What was the GDP from the Manufacture of rubber and plastics sector in 2020 Quarter 4?
+Answer: The GDP from the Manufacture of rubber and plastics sector in 2020 Quarter 4 was Rs. 40,053.05 million.
+Keywords: GDP, Manufacture, rubber, plastics, sector, 2020, Quarter 4
+
+Question: How much did the GDP contribution of Manufacture of food products change from 2022 to 2023?
+Answer: The GDP contribution of Manufacture of food products increased from Rs. 246,649.73 million in 2022 to Rs. 269,140.08 million in 2023.
+Keywords: GDP, Manufacture, food products, change, 2022, 2023
+
+Question: What was the GDP from the Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials sector in 2021 Annual?
+Answer: The GDP from the Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials sector in 2021 Annual was Rs. 22,328.97 million.
+Keywords: GDP, Manufacture, wood, cork, furniture, straw, plaiting materials, sector, 2021 Annual
+
+Question: How much was the GDP contribution of Manufacture of other transport equipment in 2022 Quarter 1?
+Answer: The GDP contribution of Manufacture of other transport equipment in 2022 Quarter 1 was Rs. 15,597.24 million.
+Keywords: GDP, Manufacture, other transport equipment, 2022, Quarter 1
+
+Question: What was the GDP from the Manufacture of leather and related products sector in 2023 Quarter 1?
+Answer: The GDP from the Manufacture of leather and related products sector in 2023 Quarter 1 was Rs. 7,526.36 million.
+Keywords: GDP, Manufacture, leather, related products, sector, 2023, Quarter 1
+
+Question: How much did the GDP contribution of Manufacture of furniture change from 2021 to 2022?
+Answer: The GDP contribution of Manufacture of furniture increased from Rs. 25,618.08 million in 2021 to Rs. 28,461.16 million in 2022.
+Keywords: GDP, Manufacture, furniture, change, 2021, 2022
+
+Question: What was the GDP from the Manufacture of wearing apparel sector in 2020 Quarter 2?
+Answer: The GDP from the Manufacture of wearing apparel sector in 2020 Quarter 2 was Rs. 21,829.77 million.
+Keywords: GDP, Manufacture, wearing apparel, sector, 2020, Quarter 2
+
+Question: How much was the GDP contribution of Manufacture of beverages in 2023 Quarter 4?
+Answer: The GDP contribution of Manufacture of beverages in 2023 Quarter 4 was Rs. 60,972.58 million.
+Keywords: GDP, Manufacture, beverages, 2023, Quarter 4
+
+Question: What was the GDP from the Manufacture of motor vehicles sector in 2021 Quarter 3?
+Answer: The GDP from the Manufacture of motor vehicles sector in 2021 Quarter 3 was Rs. 64,773.42 million.
+Keywords: GDP, Manufacture, motor vehicles, sector, 2021, Quarter 3
+
+Question: How much did the GDP contribution of Manufacture of chemicals and chemical products change from 2020 to 2021?
+Answer: The GDP contribution of Manufacture of chemicals and chemical products increased from Rs. 206,628.94 million in 2020 to Rs. 227,986.88 million in 2021.
+Keywords: GDP, Manufacture, chemicals, chemical products, change, 2020, 2021
+
+Question: What was the GDP from the Manufacture of rubber and plastics sector in 2023 Quarter 2?
+Answer: The GDP from the Manufacture of rubber and plastics sector in 2023 Quarter 2 was Rs. 41,486.34 million.
+Keywords: GDP, Manufacture, rubber, plastics, sector, 2023, Quarter 2
+
+Question: How much was the GDP contribution of Manufacture of textiles in 2022 Quarter 3?
+Answer: The GDP contribution of Manufacture of textiles in 2022 Quarter 3 was Rs. 52,980.48 million.
+Keywords: GDP, Manufacture, textiles, 2022, Quarter 3
+
+Question: What was the GDP from the Manufacture of paper and paper products sector in 2021 Quarter 4?
+Answer: The GDP from the Manufacture of paper and paper products sector in 2021 Quarter 4 was Rs. 25,751.66 million.
+Keywords: GDP, Manufacture, paper, paper products, sector, 2021, Quarter 4
+
+Question: How much did the GDP contribution of Manufacture of electrical equipment change from 2022 to 2023?
+Answer: The GDP contribution of Manufacture of electrical equipment increased from Rs. 29,125.72 million in 2022 to Rs. 31,595.62 million in 2023.
+Keywords: GDP, Manufacture, electrical equipment, change, 2022, 2023
+
+Question: What was the GDP from the Manufacture of basic metals sector in 2020 Quarter 3?
+Answer: The GDP from the Manufacture of basic metals sector in 2020 Quarter 3 was Rs. 108,724.26 million.
+Keywords: GDP, Manufacture, basic metals, sector, 2020, Quarter 3
+
+Question: How much was the GDP contribution of Manufacture of machinery and equipment n.e.c. in 2021 Quarter 2?
+Answer: The GDP contribution of Manufacture of machinery and equipment n.e.c. in 2021 Quarter 2 was Rs. 32,779.01 million.
+Keywords: GDP, Manufacture, machinery, equipment, 2021, Quarter 2
+
+Question: What was the GDP from the Manufacture of coke and refined petroleum products sector in 2023 Annual?
+Answer: The GDP from the Manufacture of coke and refined petroleum products sector in 2023 Annual was Rs. 82,887.64 million.
+Keywords: GDP, Manufacture, coke, refined petroleum products, sector, 2023, Annual
+
+Question: How much did the GDP contribution of Manufacture of computer, electronic and optical products change from 2021 to 2022?
+Answer: The GDP contribution of Manufacture of computer, electronic and optical products increased from Rs. 24,175.36 million in 2021 to Rs. 26,895.47 million in 2022.
+Keywords: GDP, Manufacture, computer, electronic, optical products, change, 2021, 2022
+
+Question: What was the GDP from the Manufacture of fabricated metal products, except machinery and equipment sector in 2020 Quarter 1?
+Answer: The GDP from the Manufacture of fabricated metal products, except machinery and equipment sector in 2020 Quarter 1 was Rs. 36,572.71 million.
+Keywords: GDP, Manufacture, fabricated metal products, machinery, equipment, sector, 2020, Quarter 1
+
+Question: How much was the GDP contribution of Manufacture of tobacco products in 2023 Quarter 3?
+Answer: The GDP contribution of Manufacture of tobacco products in 2023 Quarter 3 was Rs. 33,773.06 million.
+Keywords: GDP, Manufacture, tobacco products, 2023, Quarter 3
+
+Question: What was the GDP from the Manufacture of rubber and plastics sector in 2021 Quarter 3?
+Answer: The GDP from the Manufacture of rubber and plastics sector in 2021 Quarter 3 was Rs. 39,506.21 million.
+Keywords: GDP, Manufacture, rubber, plastics, sector, 2021, Quarter 3
+
+Question: How much did the GDP contribution of Manufacture of pharmaceuticals, medicinal chemical and botanical products change from 2022 to 2023?
+Answer: The GDP contribution of Manufacture of pharmaceuticals, medicinal chemical and botanical products increased from Rs. 36,683.68 million in 2022 to Rs. 40,612.02 million in 2023.
+Keywords: GDP, Manufacture, pharmaceuticals, medicinal, chemical, botanical products, change, 2022, 2023
+
+Question: What was the GDP from the Manufacture of textiles sector in 2020 Quarter 4?
+Answer: The GDP from the Manufacture of textiles sector in 2020 Quarter 4 was Rs. 37,649.98 million.
+Keywords: GDP, Manufacture, textiles, sector, 2020, Quarter 4
+
+Question: How much was the GDP contribution of Manufacture of chemicals and chemical products in 2021 Quarter 1?
+Answer: The GDP contribution of Manufacture of chemicals and chemical products in 2021 Quarter 1 was Rs. 47,988.79 million.
+Keywords: GDP, Manufacture, chemicals, chemical products, 2021, Quarter 1
+
+Question: What was the GDP from the Manufacture of wearing apparel sector in 2023 Quarter 1?
+Answer: The GDP from the Manufacture of wearing apparel sector in 2023 Quarter 1 was Rs. 18,627.05 million.
+Keywords: GDP, Manufacture, wearing apparel, sector, 2023, Quarter 1
+
+Question: How much did the GDP contribution of Manufacture of motor vehicles change from 2020 to 2021?
+Answer: The GDP contribution of Manufacture of motor vehicles increased from Rs. 58,372.14 million in 2020 to Rs. 63,229.04 million in 2021.
+Keywords: GDP, Manufacture, motor vehicles, change, 2020, 2021
+
+Question: What was the GDP from the Manufacture of basic metals sector in 2022 Annual?
+Answer: The GDP from the Manufacture of basic metals sector in 2022 Annual was Rs. 422,746.26 million.
+Keywords: GDP, Manufacture, basic metals, sector, 2022, Annual
+
+Question: How much was the GDP contribution of Manufacture of beverages in 2021 Quarter 2?
+Answer: The GDP contribution of Manufacture of beverages in 2021 Quarter 2 was Rs. 48,405.91 million.
+Keywords: GDP, Manufacture, beverages, 2021, Quarter 2
+
+Question: What was the GDP from the Manufacture of fabricated metal products, except machinery and equipment sector in 2023 Quarter 4?
+Answer: The GDP from the Manufacture of fabricated metal products, except machinery and equipment sector in 2023 Quarter 4 was Rs. 46,128.02 million.
+Keywords: GDP, Manufacture, fabricated metal products, machinery, equipment, sector, 2023, Quarter 4
+
+Question: How much did the GDP contribution of Manufacture of other transport equipment change from 2021 to 2022?
+Answer: The GDP contribution of Manufacture of other transport equipment increased from Rs. 14,735.38 million in 2021 to Rs. 15,597.24 million in 2022.
+Keywords: GDP, Manufacture, other transport equipment, change, 2021, 2022
+
+Question: What was the GDP from the Manufacture of coke and refined petroleum products sector in 2022 Quarter 2?
+Answer: The GDP from the Manufacture of coke and refined petroleum products sector in 2022 Quarter 2 was Rs. 67,409.48 million.
+Keywords: GDP, Manufacture, coke, refined petroleum products, sector, 2022, Quarter 2
+
+Question: How much did the GDP contribution of Manufacture of furniture change from 2020 to 2021?
+Answer: The GDP contribution of Manufacture of furniture increased from Rs. 24,935.78 million in 2020 to Rs. 26,871.19 million in 2021.
+Keywords: GDP, Manufacture, furniture, change, 2020, 2021
+
+Question: What was the GDP from the Manufacture of electrical equipment sector in 2023 Quarter 3?
+Answer: The GDP from the Manufacture of electrical equipment sector in 2023 Quarter 3 was Rs. 32,688.85 million.
+Keywords: GDP, Manufacture, electrical equipment, sector, 2023, Quarter 3
+
+Question: How much was the GDP contribution of Manufacture of machinery and equipment n.e.c. in 2022 Quarter 4?
+Answer: The GDP contribution of Manufacture of machinery and equipment n.e.c. in 2022 Quarter 4 was Rs. 35,289.47 million.
+Keywords: GDP, Manufacture, machinery, equipment, 2022, Quarter 4
+
+Question: What was the GDP from the Manufacture of beverages sector in 2023 Quarter 2?
+Answer: The GDP from the Manufacture of beverages sector in 2023 Quarter 2 was Rs. 49,592.66 million.
+Keywords: GDP, Manufacture, beverages, sector, 2023, Quarter 2
+
+Question: How much did the GDP contribution of Manufacture of wearing apparel change from 2021 to 2022?
+Answer: The GDP contribution of Manufacture of wearing apparel increased from Rs. 27,418.56 million in 2021 to Rs. 30,250.68 million in 2022.
+Keywords: GDP, Manufacture, wearing apparel, change, 2021, 2022
+
+Question: What was the GDP from the Manufacture of paper and paper products sector in 2022 Annual?
+Answer: The GDP from the Manufacture of paper and paper products sector in 2022 Annual was Rs. 99,358.27 million.
+Keywords: GDP, Manufacture, paper, paper products, sector, 2022, Annual
+
+Question: How much was the GDP contribution of Manufacture of rubber and plastics in 2020 Quarter 2?
+Answer: The GDP contribution of Manufacture of rubber and plastics in 2020 Quarter 2 was Rs. 37,662.56 million.
+Keywords: GDP, Manufacture, rubber, plastics, 2020, Quarter 2
+
+Question: What was the GDP from the Manufacture of pharmaceuticals, medicinal chemical and botanical products sector in 2021 Quarter 4?
+Answer: The GDP from the Manufacture of pharmaceuticals, medicinal chemical and botanical products sector in 2021 Quarter 4 was Rs. 45,027.81 million.
+Keywords: GDP, Manufacture, pharmaceuticals, medicinal, chemical, botanical products, sector, 2021, Quarter 4
+
+Question: How much did the GDP contribution of Manufacture of textiles change from 2022 to 2023?
+Answer: The GDP contribution of Manufacture of textiles increased from Rs. 47,610.68 million in 2022 to Rs. 51,540.38 million in 2023.
+Keywords: GDP, Manufacture, textiles, change, 2022, 2023

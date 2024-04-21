@@ -1,0 +1,1446 @@
+[
+  {
+    "label": "Manufacturing Activity Trend for Food Products",
+    "content": {
+      "industry": "Food products",
+      "description": "Manufacturing of food products",
+      "monthly_activity_percentage": {
+        "Jan": [104.6, 104.6, 104.6, 104.6],
+        "Feb": [100.9, 100.9, 100.9, 100.9],
+        "Mar": [102.5, 102.5, 102.5, 102.5],
+        "Apr": [103.3, 103.3, 103.3, 103.3],
+        "May": [101.5, 101.5, 101.5, 101.5],
+        "Jun": [108.5, 108.5, 108.5, 108.5],
+        "Jul": [105.1, 105.1, 105.1, 105.1],
+        "Aug": [107.1, 107.1, 107.1, 107.1],
+        "Sep": [103.5, 103.5, 103.5, 103.5],
+        "Oct": [112.8, 112.8, 112.8, 112.8],
+        "Nov": [112.8, 112.8, 112.8, 112.8],
+        "Dec": [115.2, 115.2, 115.2, 115.2]
+      },
+      "regions": [
+        "112",
+        "123.9",
+        "109.9",
+        "115.2",
+        "94.4",
+        "91.2",
+        "92.5",
+        "83.3",
+        "90.1",
+        "84.4",
+        "87.3",
+        "101.4",
+        "89.8",
+        "91.1",
+        "87.3",
+        "95.111"
+      ]
+    }
+  },
+  {
+    "label": "Manufacturing Companies by Industry",
+    "content": {
+      "industries": [
+        {
+          "name": "Textile",
+          "manufacturing_companies": 14,
+          "sub_industries": [
+            {
+              "name": "Clothing manufacturing",
+              "description": "Production of clothing for various purposes using materials like cotton, wool, silk, and polyester."
+            },
+            {
+              "name": "Shoe making",
+              "description": "Production of various styles of shoes including boots, sneakers, sandals, etc."
+            }
+          ]
+        },
+        {
+          "name": "Leather and related products",
+          "manufacturing_companies": 105.82411209415767,
+          "sub_industries": [
+            {
+              "name": "Leather product manufacturing",
+              "description": "Production of leather products such as handbags, belts, wallets, and accessories."
+            },
+            {
+              "name": "Leather tanning",
+              "description": "Treating animal hides to obtain natural leather used in various applications."
+            }
+          ]
+        },
+        {
+          "name": "Articles of Straw and plaiting materials",
+          "manufacturing_companies": 0.3
+        },
+        {
+          "name": "Wood and products of wood and cork except furniture; manufacture of articles of Straw and plaiting materials",
+          "manufacturing_companies": 100.3192876102871,
+          "sub_industries": [
+            {
+              "name": "Wooden structure manufacturing",
+              "description": "Production of wooden structures, furniture components, and other wood-based products."
+            },
+            {
+              "name": "Cork product manufacturing",
+              "description": "Production of products made from cork, a sustainable and renewable resource."
+            }
+          ]
+        },
+        {
+          "name": "Paper and paper products",
+          "manufacturing_companies": 1.7,
+          "sub_industries": [
+            {
+              "name": "Paper product manufacturing",
+              "description": "Production of various paper products including books, newspapers, magazines, envelopes, etc."
+            }
+          ]
+        },
+        {
+          "name": "Paper pulp or paperboard",
+          "manufacturing_companies": 0.3
+        }
+      ],
+      "total_companies": 20,
+      "total_production_capacity": "$3 billion",
+      "key_players": [
+        "Clothing manufacturers",
+        "Shoe makers",
+        "Leather tanneries",
+        "Furniture makers",
+        "Paper mills"
+      ]
+    }
+  },
+  {
+    "label": "Global Manufacturing Industry Overview",
+    "content": {
+      "manufacturing_categories": [
+        {
+          "category": "Recording and Reproduction",
+          "percentage_of_total_revenue": "1.4%"
+        },
+        {
+          "category": "Coke and Refined Petroleum Products",
+          "percentage_of_industry": "7.4%"
+        },
+        {
+          "category": "Chemical and Chemical Products",
+          "percentage_of_industry": "4.1%",
+          "growth_rate_2019_to_2020": "More than 20%"
+        },
+        {
+          "category": "Basic Pharmaceutical Products and Pharmaceutical Preparations",
+          "percentage_of_industry": "0.1%",
+          "change_2019_to_2020": "Slight decline"
+        },
+        {
+          "category": "Pharmaceutical Products and Pharmaceutical Preparations",
+          "percentage_of_industry": "0.1%"
+        }
+      ],
+      "top_producing_countries": [
+        {
+          "country": "USA",
+          "recorded_media_industry_revenue_percentage": "Over half"
+        },
+        {
+          "country": "China",
+          "recorded_media_industry_revenue_percentage": "Second-largest producer"
+        }
+      ],
+      "yearly_data": {
+        "2020": {
+          "increase_in_recorded_media_production": "Significant",
+          "increase_in_coke_refining": "Significant",
+          "stability_of_chemical_production": "Relatively stable"
+        },
+        "2019": {},
+        "2018": {}
+      },
+      "insights": "The data presents an overview of the global manufacturing industry, indicating trends and changes in production and distribution across various sectors and countries. It emphasizes the significance of industries like recording and reproduction, coke and refined petroleum products, and chemical and chemical products in shaping the global market and driving economic growth."
+    }
+  },
+  {
+    "label": "Manufacturing Operations Summary for Nonmetallic Minerals, Basic Metals, and Fabricated Metal Products",
+    "content": {
+      "categories": [
+        {
+          "category": "Rubber and Plastic Product Manufacturing",
+          "manufacturing_rate": "5.7%",
+          "total_production_capacity": "10,531,000 units"
+        },
+        {
+          "category": "Others",
+          "data": [
+            {
+              "percentage_of_total_production_capacity": 92.73363868183498,
+              "total_production_capacity": 92.73363868183498
+            },
+            {
+              "percentage_of_total_production_capacity": 105.00037484713592,
+              "total_production_capacity": 105.00037484713592
+            },
+            {
+              "percentage_of_total_production_capacity": 116.56204384330293,
+              "total_production_capacity": 116.56204384330293
+            },
+            {
+              "percentage_of_total_production_capacity": 95.6304421611705,
+              "total_production_capacity": 95.6304421611705
+            },
+            {
+              "percentage_of_total_production_capacity": 104.30193711325508,
+              "total_production_capacity": 104.30193711325508
+            },
+            {
+              "percentage_of_total_production_capacity": 104.9607531076828,
+              "total_production_capacity": 104.9607531076828
+            },
+            {
+              "percentage_of_total_production_capacity": 105.178277783908,
+              "total_production_capacity": 105.178277783908
+            },
+            {
+              "percentage_of_total_production_capacity": 106.69421108610628,
+              "total_production_capacity": 106.69421108610628
+            },
+            {
+              "percentage_of_total_production_capacity": 100.25703944961717,
+              "total_production_capacity": 100.25703944961717
+            },
+            {
+              "percentage_of_total_production_capacity": 106.00876416102409,
+              "total_production_capacity": 106.00876416102409
+            },
+            {
+              "percentage_of_total_production_capacity": 105.64025547331848,
+              "total_production_capacity": 105.64025547331848
+            },
+            {
+              "percentage_of_total_production_capacity": 100.83757992413102,
+              "total_production_capacity": 100.83757992413102
+            },
+            {
+              "percentage_of_total_production_capacity": 100.65469851838493,
+              "total_production_capacity": 100.65469851838493
+            },
+            {
+              "percentage_of_total_production_capacity": 105.178277783908,
+              "total_production_capacity": 105.178277783908
+            },
+            {
+              "percentage_of_total_production_capacity": 106.69421108610628,
+              "total_production_capacity": 106.69421108610628
+            },
+            {
+              "percentage_of_total_production_capacity": 100.25703944961717,
+              "total_production_capacity": 100.25703944961717
+            },
+            {
+              "percentage_of_total_production_capacity": 106.00876416102409,
+              "total_production_capacity": 106.00876416102409
+            },
+            {
+              "percentage_of_total_production_capacity": 105.64025547331848,
+              "total_production_capacity": 105.64025547331848
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "label": "Manufacturing Data for Electrical Equipment and Machinery",
+    "content": {
+      "categories": [
+        {
+          "category": "Electrical Equipment",
+          "percentage_of_total_revenue": "2%",
+          "manufacturing": "26,000 units",
+          "subcategories": [
+            {
+              "subcategory": "Production",
+              "data": [
+                90.89761809913455, 93.84909479845722, 119.03855606074356,
+                95.77845458792193, 102.65216670343686, 103.82511633773031,
+                95.59607037342755, 99.53821544319898, 84.0055708181801
+              ]
+            },
+            {
+              "subcategory": "Design and Engineering",
+              "data": [
+                14.84698817479317, 97.03846518191246, 97.57191766938881,
+                85.51754758742234, 98.16201270152571, 79.28363950768052,
+                79.16323293092704, 76.214532741572, 68.74888385001726,
+                73.14208662500342, 72.42510733040072, 73.7140103279543,
+                80.30773983425814, 78.4
+              ]
+            },
+            {
+              "subcategory": "Testing and Inspection",
+              "data": [
+                3.635911441620164, 98.16201270152571, 98.58391184535377,
+                99.35837240352538, 97.67217917766496, 98.1, 97.8, 96.7, 82.4,
+                103, 94.7, 104.6, 116.1, 105.1, 103, 99.3, 91.2, 108.1, 103.7,
+                72.1, 73.7, 64.9, 102, 104.3, 104.8, 125.5, 139.8, 108.1, 127.7,
+                91.4, 115.9, 150.4, 96.1, 149.1, 121.3, 125.8, 115.4, 111.4,
+                110.3, 140.3, 136.4, 128.2, 137.8, 188.4, 135.3, 137.8, 142.2,
+                142.5, 125.2, 144.5, 130, 133.4, 123.9, 92.2, 96.9, 102.7, 72.4,
+                128.3, 126.9, 115.831
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Machinery and Equipment",
+          "subcategory": "n/c",
+          "manufacturing": "34,553 units",
+          "subcategories": [
+            {
+              "subcategory": "Production",
+              "data": [
+                90.89761809913455, 93.84909479845722, 119.03855606074356,
+                95.77845458792193, 102.65216670343686, 103.82511633773031,
+                95.59607037342755, 99.53821544319898, 84.0055708181801,
+                96.04212559014647, 103.6511970278478, 93.3239311143879,
+                103.11308052494992, 102.89191392434557, 120.25127659057806,
+                100.70003858115881, 105.11863495056555, 104.1166267402219,
+                104.24333405704986, 119.02106546377142, 101.3477935727969,
+                104.91481958278841, 111.67393434841848, 93.76299731260822,
+                115.7326813477253, 118.95960034010704, 117.81225136503797,
+                114.48698817479317, 114.96026962700915, 117.56024435801389,
+                120.10285164026513, 117.39223968666448, 116.37806514620164,
+                115.70399762334857, 100.01141110971685, 100.00210646759213,
+                85.18942635976683, 113.24137159212636, 117.05867856247932,
+                98.7087612122553, 106.98035544508306, 104.30534837290888,
+                92.24854818505848, 90.5646405765363, 92.61476339135079,
+                107.82723295580176, 89.26927931540578, 90.66373501516465,
+                73.44216059993232, 91.59233829921223, 93.2699652743002,
+                86.33823950743292, 89.43590994812274, 98.16265625821828,
+                84.19181364662751, 100.9, 93.8, 111.9, 82, 90.9, 88, 93.9, 82.1,
+                88.6, 85.7, 83.5, 81.8, 97.9
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "label": "Monthly Report for Greater Colombo Housing Approval Index",
+    "content": {
+      "report_period": "1995 to 2020",
+      "categories": [
+        {
+          "category": "Housing Council Areas",
+          "data": {
+            "1995": {
+              "Colombo": 3462,
+              "Dehiwala-Mount Lavinia": 3101,
+              "Sri Jayawardanapura": 3101,
+              "Wattala-Mabole": 2895,
+              "Peliyagoda": 2986,
+              "Panadura": 2908,
+              "Maharagama": 2986,
+              "Kesbewa": 5785,
+              "Moratuwa": 5816,
+              "Kaduwela": 5816,
+              "Horana": 5790,
+              "Boralesgamuwa": 5816,
+              "Mahara": 5980
+            },
+            "1996": {
+              "Colombo": 2895,
+              "Dehiwala-Mount Lavinia": 2895,
+              "Sri Jaywardanapura": 2895,
+              "Wattala-Mabole": 2895,
+              "Peliyagoda": 2986,
+              "Panadura": 2908,
+              "Maharagama": 2986,
+              "Kesbewa": 5790,
+              "Moratuwa": 5816,
+              "Kaduwela": 5816,
+              "Horana": 5790,
+              "Boralesgamuwa": 5816,
+              "Mahara": 5980
+            },
+            "1997": {
+              "Colombo": 2986,
+              "Dehiwala-Mount Lavinia": 2986,
+              "Sri Jaywardanapura": 2986,
+              "Wattala-Mabole": 2986,
+              "Peliyagoda": 2986,
+              "Panadura": 2908,
+              "Maharagama": 2986,
+              "Kesbewa": 5790,
+              "Moratuwa": 5816,
+              "Kaduwela": 5816,
+              "Horana": 5790,
+              "Boralesgamuwa": 5816,
+              "Mahara": 5980
+            },
+            "1998": {
+              "Colombo": 2908,
+              "Dehiwala-Mount Lavinia": 2908,
+              "Sri Jaywardanapura": 2908,
+              "Wattala-Mabole": 2908,
+              "Peliyagoda": 2986,
+              "Panadura": 2908,
+              "Maharagama": 2986,
+              "Kesbewa": 5790,
+              "Moratuwa": 5816,
+              "Kaduwela": 5816,
+              "Horana": 5790,
+              "Boralesgamuwa": 5816,
+              "Mahara": 5980
+            },
+            "1999": {
+              "Colombo": 2568,
+              "Dehiwala-Mount Lavinia": 2568,
+              "Sri Jaywardanapura": 2568,
+              "Wattala-Mabole": 2568,
+              "Peliyagoda": 2568,
+              "Panadura": 2568,
+              "Maharagama": 2568,
+              "Kesbewa": 4970,
+              "Moratuwa": 4970,
+              "Kaduwela": 4970,
+              "Horana": 4970,
+              "Boralesgamuwa": 4970,
+              "Mahara": 5124
+            },
+            "2000": {
+              "Colombo": 2548,
+              "Dehiwala-Mount Lavinia": 2548,
+              "Sri Jaywardanapura": 2548,
+              "Wattala-Mabole": 2548,
+              "Peliyagoda": 2548,
+              "Panadura": 2548,
+              "Maharagama": 2548,
+              "Kesbewa": 4956,
+              "Moratuwa": 4956,
+              "Kaduwela": 4956,
+              "Horana": 4956,
+              "Boralesgamuwa": 4956,
+              "Mahara": 5110
+            },
+            "2001": {
+              "Colombo": 2546,
+              "Dehiwala-Mount Lavinia": 2546,
+              "Sri Jaywardanapura": 2546,
+              "Wattala-Mabole": 2546,
+              "Peliyagoda": 2546,
+              "Panadura": 2546,
+              "Maharagama": 2546,
+              "Kesbewa": 4946,
+              "Moratuwa": 4946,
+              "Kaduwela": 4946,
+              "Horana": 4946,
+              "Boralesgamuwa": 4946,
+              "Mahara": 5100
+            },
+            "2002": {
+              "Colombo": 2546,
+              "Dehiwala-Mount Lavinia": 2546,
+              "Sri Jaywardanapura": 2546,
+              "Wattala-Mabole": 2546,
+              "Peliyagoda": 2546,
+              "Panadura": 2546,
+              "Maharagama": 2546,
+              "Kesbewa": 4946,
+              "Moratuwa": 4946,
+              "Kaduwela": 4946,
+              "Horana": 4946,
+              "Boralesgamuwa": 4946,
+              "Mahara": 5100
+            },
+            "2003": {
+              "Colombo": 2546,
+              "Dehiwala-Mount Lavinia": 2546,
+              "Sri Jaywardanapura": 2546,
+              "Wattala-Mabole": 2546,
+              "Peliyagoda": 2546,
+              "Panadura": 2546,
+              "Maharagama": 2546,
+              "Kesbewa": 4946,
+              "Moratuwa": 4946,
+              "Kaduwela": 4946,
+              "Horana": 4946,
+              "Boralesgamuwa": 4946,
+              "Mahara": 5100
+            },
+            "2004": {
+              "Colombo": 2546,
+              "Dehiwala-Mount Lavinia": 2546,
+              "Sri Jaywardanapura": 2546,
+              "Wattala-Mabole": 2546,
+              "Peliyagoda": 2546,
+              "Panadura": 2546,
+              "Maharagama": 2546,
+              "Kesbewa": 4946,
+              "Moratuwa": 4946,
+              "Kaduwela": 4946,
+              "Horana": 4946,
+              "Boralesgamuwa": 4946,
+              "Mahara": 5100
+            },
+            "2005": {
+              "Colombo": 2546,
+              "Dehiwala-Mount Lavinia": 2546,
+              "Sri Jaywardanapura": 2546,
+              "Wattala-Mabole": 2546,
+              "Peliyagoda": 2546,
+              "Panadura": 2546,
+              "Maharagama": 2546,
+              "Kesbewa": 4946,
+              "Moratuwa": 4946,
+              "Kaduwela": 4946,
+              "Horana": 4946,
+              "Boralesgamuwa": 4946,
+              "Mahara": 5100
+            },
+            "2006": {
+              "Colombo": 2546,
+              "Dehiwala-Mount Lavinia": 2546,
+              "Sri Jaywardanapura": 2546,
+              "Wattala-Mabole": 2546,
+              "Peliyagoda": 2546
+            }
+          }
+        },
+        {
+          "category": "Urban Councils",
+          "data": {}
+        },
+        {
+          "category": "Pradesheya Sabhas",
+          "data": {}
+        }
+      ]
+    }
+  },
+  {
+    "label": "Greater Colombo Housing Approval Index - Quarterly (2003 - 2020)",
+    "content": {
+      "index_name": "Greater Colombo Housing Approval Index - Quarterly",
+      "time_period": "2003 - 2020",
+      "quarterly_data": {
+        "2003": {
+          "Q1": 1.06,
+          "Q2": 801,
+          "Q3": 964,
+          "Q4": 806
+        },
+        "2004": {
+          "Q1": 2571,
+          "Q2": 102.29885057471265,
+          "Q3": 98.77049180327869,
+          "Q4": 107.61014686248332
+        },
+        "2005": {
+          "Q1": 102.51196172248804,
+          "Q2": 266,
+          "Q3": 53.3066132264529,
+          "Q4": 2837
+        },
+        "2006": {
+          "Q1": 94.34652477552378,
+          "Q2": 851,
+          "Q3": 1139,
+          "Q4": 949
+        },
+        "2007": {
+          "Q1": 2939,
+          "Q2": 108.68454661558108,
+          "Q3": 116.70081967213115,
+          "Q4": 126.7022696929239
+        },
+        "2008": {
+          "Q1": 117.18500797448166,
+          "Q2": 253,
+          "Q3": 50.70140280561122,
+          "Q4": 3192
+        },
+        "2009": {
+          "Q1": 106.1523112736947,
+          "Q2": 1046,
+          "Q3": 1164,
+          "Q4": 975
+        },
+        "2010": {
+          "Q1": 3185,
+          "Q2": 133.58876117496808,
+          "Q3": 119.26229508196722,
+          "Q4": 130.173564753004
+        },
+        "2011": {
+          "Q1": 126.99362041467303,
+          "Q2": 299,
+          "Q3": 59.919839679358724,
+          "Q4": 3484
+        },
+        "2012": {
+          "Q1": 115.86298636514798,
+          "Q2": 1074,
+          "Q3": 1175,
+          "Q4": 1028
+        },
+        "2013": {
+          "Q1": 3277,
+          "Q2": 137.1647509578544,
+          "Q3": 120.38934426229508,
+          "Q4": 137.24966622162884
+        },
+        "2014": {
+          "Q1": 130.66188197767147,
+          "Q2": 261,
+          "Q3": 52.30460921843687,
+          "Q4": 3538
+        },
+        "2015": {
+          "Q1": 117.65879614233454,
+          "Q2": 1085,
+          "Q3": 1178,
+          "Q4": 955
+        },
+        "2016": {
+          "Q1": 3399,
+          "Q2": 149.04214559386972,
+          "Q3": 130.84016393442624,
+          "Q4": 126.02136181575433
+        },
+        "2017": {
+          "Q1": 126.99362041467303,
+          "Q2": 299,
+          "Q3": 59.919839679358724,
+          "Q4": 3484
+        },
+        "2018": {
+          "Q1": 115.72996341868974,
+          "Q2": 1122,
+          "Q3": 1178,
+          "Q4": 955
+        },
+        "2019": {
+          "Q1": 3399,
+          "Q2": 149.04214559386972,
+          "Q3": 130.84016393442624,
+          "Q4": 127.00333778371161
+        },
+        "2020": {
+          "Q1": 135.5263157894737,
+          "Q2": 248,
+          "Q3": 49.69939879759519,
+          "Q4": 3647
+        }
+      }
+    }
+  },
+  {
+    "label": "XYZ Corporation Quarterly Sales Report (2010 - 2016)",
+    "content": {
+      "company_name": "XYZ Corporation",
+      "time_period": "2010 - 2016",
+      "quarterly_sales_data": {
+        "2010": {
+          "Q1": {
+            "Jan": [342892101, 3821238819652168, 41.123882503192846],
+            "Feb": [260714869, 276557377],
+            "Mar": [3821238819652168, 41.123882503192846, 315631275],
+            "Apr": [300880946, 301062168],
+            "May": [3228819652168, 41.123882503192846, 332892101],
+            "Jun": [300880946, 276557377],
+            "Jul": [3821238819652168, 41.123882503192846, 315631275],
+            "Aug": [300880946, 276557377],
+            "Sep": [3228819652168, 41.123882503192846, 332892101],
+            "Oct": [300880946, 276557377],
+            "Nov": [3821238819652168, 41.123882503192846, 315631275],
+            "Dec": [300880946, 276557377]
+          }
+        },
+        "2011": {
+          "Q1": {
+            "Jan": [342892101, 3821238819652168, 41.123882503192846],
+            "Feb": [260714869, 276557377],
+            "Mar": [3821238819652168, 41.123882503192846, 315631275],
+            "Apr": [300880946, 301062168],
+            "May": [3228819652168, 41.123882503192846, 332892101],
+            "Jun": [300880946, 276557377],
+            "Jul": [3821238819652168, 41.123882503192846, 315631275],
+            "Aug": [300880946, 276557377],
+            "Sep": [3228819652168, 41.123882503192846, 332892101],
+            "Oct": [300880946, 276557377],
+            "Nov": [3821238819652168, 41.123882503192846, 315631275],
+            "Dec": [300880946, 276557377]
+          }
+        },
+        "2012": {
+          "Q1": {
+            "Jan": [342892101, 3821238819652168, 41.123882503192846],
+            "Feb": [260714869, 276557377],
+            "Mar": [3821238819652168, 41.123882503192846, 315631275],
+            "Apr": [300880946, 301062168],
+            "May": [3228819652168, 41.123882503192846, 332892101],
+            "Jun": [300880946, 276557377],
+            "Jul": [3821238819652168, 41.123882503192846, 315631275],
+            "Aug": [300880946, 276557377],
+            "Sep": [3228819652168, 41.123882503192846, 332892101],
+            "Oct": [300880946, 276557377],
+            "Nov": [3821238819652168, 41.123882503192846, 315631275],
+            "Dec": [300880946, 276557377]
+          }
+        },
+        "2013": {
+          "Q1": {
+            "Jan": [342892101, 3821238819652168, 41.123882503192846],
+            "Feb": [260714869, 276557377],
+            "Mar": [3821238819652168, 41.123882503192846, 315631275],
+            "Apr": [300880946, 301062168],
+            "May": [3228819652168, 41.123882503192846, 332892101],
+            "Jun": [300880946, 276557377],
+            "Jul": [3821238819652168, 41.123882503192846, 315631275],
+            "Aug": [300880946, 276557377],
+            "Sep": [3228819652168, 41.123882503192846, 332892101],
+            "Oct": [300880946, 276557377],
+            "Nov": [3821238819652168, 41.123882503192846, 315631275],
+            "Dec": [300880946, 276557377]
+          }
+        },
+        "2014": {
+          "Q1": {
+            "Jan": [342892101, 3821238819652168, 41.123882503192846],
+            "Feb": [260714869, 276557377],
+            "Mar": [3821238819652168, 41.123882503192846, 315631275],
+            "Apr": [300880946, 301062168],
+            "May": [3228819652168, 41.123882503192846, 332892101],
+            "Jun": [300880946, 276557377],
+            "Jul": [3821238819652168, 41.123882503192846, 315631275],
+            "Aug": [300880946, 276557377],
+            "Sep": [3228819652168, 41.123882503192846, 332892101],
+            "Oct": [300880946, 276557377],
+            "Nov": [3821238819652168, 41.123882503192846, 315631275],
+            "Dec": [300880946, 276557377]
+          }
+        },
+        "2015": {
+          "Q1": {
+            "Jan": [342892101, 3821238819652168, 41.123882503192846],
+            "Feb": [260714869, 276557377],
+            "Mar": [3821238819652168, 41.123882503192846, 315631275],
+            "Apr": [300880946, 301062168],
+            "May": [3228819652168, 41.123882503192846, 332892101],
+            "Jun": [300880946, 276557377],
+            "Jul": [3821238819652168, 41.123882503192846, 315631275],
+            "Aug": [300880946, 276557377],
+            "Sep": [3228819652168, 41.123882503192846, 332892101],
+            "Oct": [300880946, 276557377],
+            "Nov": [3821238819652168, 41.123882503192846, 315631275],
+            "Dec": [300880946, 276557377]
+          }
+        },
+        "2016": {
+          "Q1": {
+            "Jan": [342892101, 3821238819652168, 41.123882503192846],
+            "Feb": [260714869, 276557377],
+            "Mar": [3821238819652168, 41.123882503192846, 315631275],
+            "Apr": [300880946, 301062168],
+            "May": [3228819652168, 41.123882503192846, 332892101],
+            "Jun": [300880946, 276557377],
+            "Jul": [3821238819652168, 41.123882503192846, 315631275],
+            "Aug": [300880946, 276557377],
+            "Sep": [3228819652168, 41.123882503192846, 332892101],
+            "Oct": [300880946, 276557377],
+            "Nov": [3821238819652168, 41.123882503192846, 315631275],
+            "Dec": [300880946, 276557377]
+          }
+        }
+      }
+    }
+  },
+  {
+    "label": "Central Bank of Sri Lanka Monthly Sales Data (2019Q1 - 2022Q4)",
+    "content": {
+      "company_name": "Central Bank of Sri Lanka",
+      "time_period": "2019Q1 - 2022Q4",
+      "summary_statistics": {
+        "total_sales": "$19,512,816.76",
+        "quarterly_sales": "$7,408,036.67",
+        "average_sales_per_quarter": "$1,047.84",
+        "highest_sales_per_quarter": "$7,408,036.67",
+        "lowest_sales_per_quarter": "$7,408,036.67"
+      }
+    }
+  },
+  {
+    "label": "Agriculture Production Index Annual Report (1997 - 2019)",
+    "content": {
+      "report_period": "1997 - 2019",
+      "base_period": "(2007 - 2010 = 100)",
+      "data": {
+        "Agriculture_and_Fishing": {
+          "1997": 77.38357105316263,
+          "1998": 80.28823067818973,
+          "1999": 82.33937925931409,
+          "2000": 85.15490783597696,
+          "2001": 81.59471693109249,
+          "2002": 81.8757192607522,
+          "2003": 83.9814996308493,
+          "2004": 83.84442642100285,
+          "2005": 82.34745342081483,
+          "2006": 88.62992000898703,
+          "2007": 92.56297390736682,
+          "2008": 99.2411112698485,
+          "2009": 108.66735503193722,
+          "2010": 111.10035429595054,
+          "2011": 116.76668250350542,
+          "2012": 121.71143816941441,
+          "2013": 120.45817992900894,
+          "2014": 127.66276770753575,
+          "2015": 127.23921635553802,
+          "2016": 113.63331111779603,
+          "2017": 121.8776206943898,
+          "2018": 120.70873414253057,
+          "2019": 104.29243359445542,
+          "2020(a)": 119.61869778046206,
+          "2021(b)": [120.8, 129.6, 133.8]
+        },
+        "Agriculture_crops": {
+          "1997": 79.69039139973307,
+          "1998": 81.68704750964249,
+          "1999": 83.82580562077402,
+          "2000": 85.97422176259008,
+          "2001": 81.24070622709975,
+          "2002": 80.2876368770382,
+          "2003": 83.68921091591595,
+          "2004": 83.15241661263538,
+          "2005": 89.4168292442078,
+          "2006": 91.86382914170811,
+          "2007": 92.83028598073244,
+          "2008": 99.97707863193651,
+          "2009": 107.31029305573993,
+          "2010": 111.10035429595054,
+          "2011": 116.76668250350542,
+          "2012": 121.71143816941441,
+          "2013": 120.45817992900894,
+          "2014": 127.66276770753575,
+          "2015": 127.23921635553802,
+          "2016": 113.63331111779603,
+          "2017": 121.8776206943898,
+          "2018": 120.70873414253057,
+          "2019": 104.29243359445542,
+          "2020(a)": 119.61869778046206,
+          "2021(b)": [120.8, 129.6, 133.8]
+        }
+      }
+    }
+  },
+  {
+    "label": "Monthly Changes in Consumer Price Index (CCPI) for 2022 in Sri Lanka",
+    "content": {
+      "period": "September 2022 - June 2023",
+      "indices": {
+        "CCPI_Core": {
+          "September": 189.3,
+          "October": 188.5,
+          "November": 187.1,
+          "December": 186.6,
+          "January": 185.8,
+          "February": 185.4,
+          "March": 185.6,
+          "April": 186.1,
+          "May": 186.4,
+          "June": 186.8
+        },
+        "CCPI_Transport": {
+          "September": 192.5,
+          "October": 191.9,
+          "November": 191.3,
+          "December": 191.1,
+          "January": 190.9,
+          "February": 190.8,
+          "March": 190.6,
+          "April": 190.3,
+          "May": 190.1,
+          "June": 189.8
+        },
+        "CCPI_Energy": {
+          "September": 197.8,
+          "October": 196.9,
+          "November": 195.9,
+          "December": 195.1,
+          "January": 194.2,
+          "February": 193.4,
+          "March": 192.8,
+          "April": 192.3,
+          "May": 192.1,
+          "June": 191.7
+        }
+      },
+      "year_on_year_changes": {
+        "CCPI_Core": 3.1784841075794823,
+        "CCPI_Transport": 1.6326530612244898,
+        "CCPI_Energy": 2.7745664739884394
+      }
+    }
+  },
+  {
+    "label": "Household Population Aged 15 Years and Above (2013-2022)",
+    "content": {
+      "period": "2013-2022",
+      "statistics": {
+        "2013": {
+          "households": 14959,
+          "average_population": 8033.804,
+          "employed_percentage": 8033.804,
+          "employed_individuals": 7681.279,
+          "employment_rate_percentage": 352.526,
+          "total_population": 14959.065,
+          "unemployment_rate_below_5_percentage": 4.388
+        },
+        "2014": {
+          "households": 15134,
+          "average_population": 15134.484,
+          "employed_percentage": 80,
+          "employed_individuals": 53.524,
+          "employment_rate_percentage": 53.524,
+          "total_population": 15289.02,
+          "unemployment_rate_below_5_percentage": 4.683
+        },
+        "2015": {
+          "quarters": {
+            "1": {
+              "employed_percentage": 80,
+              "employment_rate_percentage": 80,
+              "unemployment_rate": 383.232,
+              "unemployment_rate_below_5_percentage": 4.544
+            },
+            "2": {
+              "employed_percentage": 80,
+              "employment_rate_percentage": 80,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.544
+            },
+            "3": {
+              "employed_percentage": 78,
+              "employment_rate_percentage": 78,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            },
+            "4": {
+              "employed_percentage": 76,
+              "employment_rate_percentage": 76,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            },
+            "5": {
+              "employed_percentage": 74,
+              "employment_rate_percentage": 74,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            },
+            "6": {
+              "employed_percentage": 72,
+              "employment_rate_percentage": 72,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            },
+            "7": {
+              "employed_percentage": 70,
+              "employment_rate_percentage": 70,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            },
+            "8": {
+              "employed_percentage": 68,
+              "employment_rate_percentage": 68,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            },
+            "9": {
+              "employed_percentage": 66,
+              "employment_rate_percentage": 66,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            },
+            "10": {
+              "employed_percentage": 65,
+              "employment_rate_percentage": 65,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            },
+            "11": {
+              "employed_percentage": 63,
+              "employment_rate_percentage": 63,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            },
+            "12": {
+              "employed_percentage": 63,
+              "employment_rate_percentage": 63,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            },
+            "13": {
+              "employed_percentage": 63,
+              "employment_rate_percentage": 63,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            },
+            "14": {
+              "employed_percentage": 63,
+              "employment_rate_percentage": 63,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            },
+            "15": {
+              "employed_percentage": 63,
+              "employment_rate_percentage": 63,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            },
+            "16": {
+              "employed_percentage": 63,
+              "employment_rate_percentage": 63,
+              "unemployment_rate": 375.483,
+              "unemployment_rate_below_5_percentage": 4.683
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "label": "Employed Population in Different Sectors by Industry Group (2022)",
+    "content": {
+      "year": "2022",
+      "sectors": {
+        "Public Sector": {
+          "2018 Annual": 1158473.6794918925,
+          "2019 Q1": 1228972.9737379826,
+          "2019 Q2": 1227316,
+          "2019 Q3": 1208848,
+          "2019 Q4": 1201058,
+          "2020 Q1": 1216548.848817614,
+          "2020 Q2": 1198722.0697111138,
+          "2020 Q3": 1180450,
+          "2020 Q4": 1153555,
+          "2020 Annual": 1202137,
+          "2021 Q1": 1183716.0323017396,
+          "2021 Q2": 1285174.0132137795,
+          "2021 Q3": 1257395.3036282167,
+          "2021 Q4": 1195549.3927810802,
+          "2021 Annual": 1202537.4662515665,
+          "2022 Q1": 1235164,
+          "2022 Q2": 1253145
+        },
+        "Private Sector": {
+          "2018 Annual": 3474548.1949494085,
+          "2019 Q1": 3511849.094774073,
+          "2019 Q2": 3569078,
+          "2019 Q3": 3526358,
+          "2019 Q4": 3479494,
+          "2020 Q1": 3521694.714268977,
+          "2020 Q2": 3423602.213074452,
+          "2020 Q3": 3445171,
+          "2020 Q4": 3463589,
+          "2020 Annual": 3315624,
+          "2021 Q1": 3411996.4270300018,
+          "2021 Q2": 3456892.7538330723,
+          "2021 Q3": 3346639.959425205,
+          "2021 Q4": 3396037.378577726,
+          "2021 Annual": 3442061.227371773,
+          "2022 Q1": 3410408,
+          "2022 Q2": 3631369
+        },
+        "Employers": {
+          "2018 Annual": 221194.07155624792,
+          "2019 Q1": 217320.82165489893,
+          "2019 Q2": 206332,
+          "2019 Q3": 210022,
+          "2019 Q4": 202962,
+          "2020 Q1": 209159.2685627741,
+          "2020 Q2": 202932.6236173241,
+          "2020 Q3": 181637,
+          "2020 Q4": 241361,
+          "2020 Annual": 185220,
+          "2021 Q1": 202787.6580298081,
+          "2021 Q2": 223674.61699140046,
+          "2021 Q3": 215256.877686554,
+          "2021 Q4": 217827.60614142133,
+          "2021 Annual": 234572.935080772,
+          "2022 Q1": 222833,
+          "2022 Q2": 226907
+        },
+        "Own Account Workers": {
+          "2018 Annual": 2586135.3574859044,
+          "2019 Q1": 2658082.044981474,
+          "2019 Q2": 2659549,
+          "2019 Q3": 2605346,
+          "2019 Q4": 2711964,
+          "2020 Q1": 2658735.2336189016,
+          "2020 Q2": 2663080.1503580287,
+          "2020 Q3": 2612729,
+          "2020 Q4": 2608658,
+          "2020 Annual": 2746711,
+          "2021 Q1": 2657794.7569715385,
+          "2021 Q2": 2675164.7833253313,
+          "2021 Q3": 2668384.0358196516,
+          "2021 Q4": 2765404.0344341467,
+          "2021 Annual": 2706505,
+          "2022 Q1": 2804934,
+          "2022 Q2": 2664571
+        },
+        "Contributing Family Workers": {
+          "2018 Annual": 574814.4130630483,
+          "2019 Q1": 566744.5734498185,
+          "2019 Q2": 540744,
+          "2019 Q3": 604766,
+          "2019 Q4": 585963,
+          "2020 Q1": 574554.5363172288,
+          "2020 Q2": 532108.6275601232,
+          "2020 Q3": 557012,
+          "2020 Q4": 500532,
+          "2020 Annual": 581541,
+          "2021 Q1": 542798.4311468021,
+          "2021 Q2": 498682.62731222174,
+          "2021 Q3": 587845.9105236958,
+          "2021 Q4": 566069.5858660776,
+          "2021 Annual": 501791.3039798007,
+          "2022 Q1": 538597,
+          "2022 Q2": 472176
+        }
+      }
+    }
+  },
+  {
+    "label": "Wage Rate Indices Comparison (2020)",
+    "content": {
+      "year": 2020,
+      "Public Sector (2016=100)": 114.60883866888834,
+      "Informal Private Sector (2018=100)": 95.20062657313498,
+      "explanation": "In 2020, the wage rate index in the public sector stands at 114.61 (2016=100), indicating an increase in nominal wage rates compared to the base year of 2016. Meanwhile, in the informal private sector, the wage rate index remains unchanged at 95.20 (2018=100) compared to the previous year. This comparison suggests that while nominal wage rates have increased significantly in the public sector, they have remained stable in the informal private sector during the same period."
+    }
+  },
+  {
+    "label": "Monthly Changes in National Population Income Program (NCPI) Core (December 2022)",
+    "content": {
+      "Period": "December 2022",
+      "Month": "December",
+      "Index": "2022 December",
+      "Percentage Change": 0.1,
+      "Year-on-Year Change": 0.05,
+      "Average Annual Change": 0.03,
+      "explanation": "In December 2022, the NCPI Core indicator experienced a positive monthly change of 0.1%, indicating a slight increase compared to the previous month. The year-on-year change for December 2022 is 0.05%, suggesting a moderate increase compared to December of the previous year. The average annual change over the six-year period from 2021 to 2026 is 0.03%, indicating a relatively stable growth rate over time."
+    }
+  },
+  {
+    "label": "Income Component of GDP: Gross Operating Surplus (2022 Annual)",
+    "content": {
+      "Item": "2022 Annual",
+      "Component": "Gross Operating Surplus",
+      "Amount": 3503693.8204179383,
+      "Explanation": "The gross operating surplus for the year 2022 shows a significant decrease compared to the previous year. This decline suggests a challenging business environment, possibly influenced by factors such as decreased demand and increased competition."
+    }
+  },
+  {
+    "label": "Aggregate Demand: Total External Demand (2020 Annual)",
+    "content": {
+      "Item": "Total external demand",
+      "Year": "2020 Annual",
+      "Value": "b",
+      "Explanation": "The total external demand for the year 2020 is represented by 'b'. This figure encompasses the aggregate demand from external sources and does not include detailed breakdowns for each quarter or specific components. It indicates the overall demand from foreign entities or markets for goods and services produced in Sri Lanka during the entire year."
+    }
+  },
+  {
+    "label": "Agriculture: Total Agricultural Product (GDP) for Sri Lanka in 2014",
+    "content": {
+      "Category": "Agriculture",
+      "Year": "2014",
+      "Country/Region": "Sri Lanka",
+      "Gross Domestic Product (GDP), at Current Market Prices": "Value for 2014",
+      "Description": "Total Agricultural Product (GDP), at Current Market Prices (2014)",
+      "Explanation": "This data represents the total value of agricultural products produced in Sri Lanka for the year 2014. It provides insight into the contribution of the agricultural sector to Sri Lanka's gross domestic product (GDP) for that specific year."
+    }
+  },
+  {
+    "label": "Agriculture, Forestry and Fishing: Growing of Coffee, cocoa & Other beverage crops in the first quarter of 2019",
+    "content": {
+      "Quarter": "2019 Q1",
+      "Country/Region": "N/A",
+      "Economic Activity": "Growing of Coffee, cocoa & Other beverage crops",
+      "Growth Rate (Rupees)": "510.89 lakh rupees",
+      "Growth Rate (%)": "515.83%",
+      "Explanation": "This data represents the economic activity related to the growing of coffee, cocoa, and other beverage crops in the first quarter of 2019. The growth rate indicates the increase in value generated by this sector during that period."
+    }
+  },
+  {
+    "label": "Growing of pharmaceutical crops",
+    "content": {
+      "Crop Type": "Pharmaceutical crops",
+      "Number of growing seasons": 14,
+      "Average annual production value": "$5.0 million",
+      "Total annual production value": "$15.0 million",
+      "Years": "18056-24059",
+      "Explanation": "This data pertains to the growing of pharmaceutical crops, indicating that over the course of 14 growing seasons, the average annual production value amounted to $5.0 million, resulting in a total annual production value of $15.0 million during the years 18056-24059."
+    }
+  },
+  {
+    "label": "Chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations",
+    "content": {
+      "Industry": "Chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations",
+      "Total revenue (in millions USD)": "$24,127,133.33422445862",
+      "Number of employees": 10476,
+      "Location(s) served": "worldwide",
+      "Description": "This category includes companies involved in developing and producing chemical compounds used in healthcare, cosmetics, and other applications, such as antibiotics, painkillers, anticonvulsants, and hormones. Pharmaceuticals include medications, vitamins, and supplements, as well as biotechnology products and research."
+    }
+  },
+  {
+    "label": "Basic metals and fabricated metal products",
+    "content": {
+      "Industry": "Basic metals and fabricated metal products",
+      "Total revenue (in millions USD)": [
+        27883.286235571046, 12653.102712569747, 20804.320487462883,
+        30095.14904198719, 87435.85847759084, 25092.66403872729,
+        8426.525644242243, 20838.35241259471, 30072.47219695255,
+        84430.0142925168, 31291.067639288623, 18368.490396581186,
+        25060.198416825224, 38922.35860872686, 113642.11506142188,
+        35685.08108468611, 29353.395815526812, 28769.83960590666,
+        49657.904837216585, 143466.22134333616, 35480.2431914555828
+      ],
+      "Number of employees": "",
+      "Location(s) served": "",
+      "Description": "This sector encompasses companies involved in the manufacturing of basic metals such as iron, steel, aluminum, and copper, as well as fabricated metal products like metal structures, pipes, tanks, and machinery parts. It also includes repair and installation activities related to metal products."
+    }
+  },
+  {
+    "label": "Transportation",
+    "content": {
+      "Category": "Transportation",
+      "Subcategories": {
+        "Land transportation activities": 404034.2152837764,
+        "Water transportation activities": 405205.7217085681,
+        "Air transportation activities": 437789.1583429409,
+        "Warehousing activities": 415047.73865573155
+      },
+      "Description": "This category includes various transportation activities such as land transportation (e.g., road and rail), water transportation (e.g., sea and inland waterways), air transportation (e.g., airlines), and warehousing activities."
+    }
+  },
+  {
+    "label": "Gross Domestic Product (GDP) Components - Sri Lanka",
+    "content": {
+      "Components": {
+        "Compensation of Employees": {
+          "Annual": 3457464.4671754516,
+          "2016": 3711625.9232384246,
+          "2017": 4112480.2916473104,
+          "2018": 4396682.242667225,
+          "2019": 4616787.51435379,
+          "2020": 5047287.722183691,
+          "2021": 4616787.51435379,
+          "2022": 5047287.722183691
+        },
+        "Gross Operating Surplus": {
+          "Annual": 4062078.4610325308,
+          "2016": 4803588.987379501,
+          "2017": 5010463.301192788,
+          "2018": 5072569.544660742,
+          "2019": 4928481.764524558,
+          "2020": 5780049.716354676,
+          "2021": 5780049.716354676,
+          "2022": 5780049.716354676
+        },
+        "Gross Mixed Income": {
+          "Annual": 4081822.3100546226,
+          "2016": 4465764.163489637,
+          "2017": 4802042.671517877,
+          "2018": 5108731.206516967,
+          "2019": 5171092.517001066,
+          "2020": 5751672.904749998,
+          "2021": 5751672.904749998,
+          "2022": 5751672.904749998
+        },
+        "Other taxes less subsidies on production": {
+          "Annual": 79275.66899999998,
+          "2016": 82489.383,
+          "2017": 89210.86499999999,
+          "2018": 90841.095,
+          "2019": 41113.35823697868,
+          "2020": 43502.60300396999,
+          "2021": 43502.60300396999,
+          "2022": 43502.60300396999
+        },
+        "Equals Gross Value Added (GVA) at Basic Price": {
+          "Annual": 11680640.907262605,
+          "2016": 13063468.45710756,
+          "2017": 14014197.129357975,
+          "2018": 14668824.088844934,
+          "2019": 14757475.154116392,
+          "2020": 22970751.74159496
+        },
+        "Equals Gross Domestic Product (GDP) at Market Price": {
+          "Annual": 12812974.751262605,
+          "2016": 14387319.0134538,
+          "2017": 15351933.459821885,
+          "2018": 15910975.626124725,
+          "2019": 15671535.548952192,
+          "2020": 24147726.155110396
+        }
+      },
+      "Description": "This report provides detailed information about the components of Sri Lanka's Gross Domestic Product (GDP), including compensation of employees, gross operating surplus, gross mixed income, other taxes less subsidies on production, Gross Value Added (GVA) at Basic Price, and Gross Domestic Product (GDP) at Market Price. The data spans from 2016 to 2022 and highlights the annual values as well as the trend over the years."
+    }
+  },
+  {
+    "label": "GDP Breakdown by Economic Activity (2019-2021) - Sri Lanka",
+    "content": {
+      "GDP (constant 2015)": "Rs. 3,903,601,402,632",
+      "Economic Activity": {
+        "Agriculture, Forestry and Fishing": {
+          "2019": "Rs. 233,807,024,653",
+          "2020": "Rs. 223,726,540,691",
+          "2021": "Rs. 234,333,855,328",
+          "Total": "Rs. 691,867,420,672"
+        },
+        "Agriculture, Horticulture and Fishing": {
+          "2019": "Rs. 257,714,094,065,557",
+          "2020": "Rs. 224,001,346,189,573",
+          "2021": "Rs. 215,263,749,020,751",
+          "Total": "Rs. 697,979,189,275,881"
+        }
+      },
+      "Summary": "The GDP (constant 2015) for the period 2019 to 2021 amounted to Rs. 3,903,601,402,632. Agriculture, forestry, and fishing accounted for approximately 84% of the total GDP, with a total value of Rs. 3,903,601,402,632, dominated by sectors such as agriculture, forestry, and fishing at around 84% of the total GDP."
+    }
+  },
+  {
+    "label": "Manufacturing Sectors in the Sri Lanka",
+    "content": {
+      "1. Manufacturing of food, beverages, and tobacco products": "This sector includes manufacturers of various food products such as snacks, beverages, soft drinks, cigarettes, and tobacco products.",
+      "2. Manufacturing of textiles, wearing apparel, leather, and other related products": "This sector encompasses manufacturers of clothing, footwear, leather goods, and other textile products.",
+      "3. Manufacturing of wood and of products of wood and cork, except furniture": "This sector involves the production of wooden products, including furniture, flooring, and construction materials.",
+      "4. Manufacturing of paper and paper products, printing, and reproduction of media products": "This sector includes manufacturers of paper products, such as newspapers, magazines, books, packaging, and other media products.",
+      "5. Manufacturing of chemicals and chemical products, basic pharmaceutical products, and pharmaceutical preparations": "This sector includes manufacturers of drugs and medications for human consumption, as well as specialized pharmaceutical products.",
+      "6. Manufacturing of rubber and plastic products": "This sector involves the production of rubber and plastic products such as tires, seals, automotive parts, and household items.",
+      "7. Manufacturing of other non-metallic mineral products": "This sector includes producers of minerals used in various industries, including construction, mining, and agriculture.",
+      "8. Manufacturing of basic metals and fabricated metal products (except machinery and equipment)": "This sector includes manufacturers of metal products such as steel, iron, aluminum, and titanium.",
+      "9. Manufacturing of basic metals and fabricated metal products (including machinery and equipment)": "This sector includes manufacturers of metal products used in machinery and equipment production, such as engines, presses, and pumps."
+    }
+  },
+  {
+    "label": "Manufacturing and Related Activities",
+    "content": {
+      "Manufacturing and repair/installation of machinery and equipment": [
+        17228.597743529248, 10416.88368328459, 15101.895211241805,
+        23366.25939437402, 66113.63603242968, 16165.728188701094,
+        7728.685018201575, 15692.69806422067, 25600.35488586179
+      ],
+      "Furniture manufacturing": [
+        28213.564410448882, 24992.201902527275, 20438.91266933227,
+        21825.666424959025, 95470.34540726745, 25586.400721193964,
+        14697.971557862295, 18805.53345969301, 22560.962653113063,
+        81650.86839186234, 25534.93593279779
+      ],
+      "Other manufacturing and repair/installation of machinery and equipment": [
+        24767.428614274475, 21435.089380517686, 28339.732895511883,
+        21889.359639327955, 96431.610529632, 23368.77640482533,
+        16871.381036353963, 25027.088451696298, 22318.4118683672,
+        87585.6577612428, 26880.454205136484
+      ],
+      "Water collection, treatment, and supply": [
+        3904.388368538532, 3688.943541157287, 3595.9625427804017,
+        3511.711243313026, 45752.32325131495, 14701.005695789245,
+        3969.242651755082, 2638.935376569868, 4560.073539495369,
+        14397.517923123958
+      ],
+      "Sewerage, waste collection, treatment, and disposal activities": [
+        7345.170722657743, 7142.831684821646, 7773.990432281438,
+        6991.078742806629, 29253.070582567456, 7092.315009562597,
+        6837.265178292523, 8613.344870822217, 6416.95317684867,
+        28959.878235526005, 6603.672388799152, 8871.224099946669,
+        29087.519442783712, 6901.962669657075
+      ],
+      "Wholesale and retail trade": [
+        444180.02474698285, 366211.41092836135, 428796.84860341414,
+        397563.5456945887, 1636751.8309733472, 460749.98823238624,
+        354799.0872250089, 439110.53793856123, 1672369.518825607,
+        472082.6873434595
+      ],
+      "Transportation of goods and passengers (land, water, and air)": [
+        392465.5692086482, 311044.43529156357, 347429.80488862435,
+        347289.8669003942, 1398229.676883533, 400619.86739271914,
+        207665.29521323723, 352734.96430123097, 352291.7135112232,
+        1313311.8924560775, 401713.10997128807, 259462.41003964253,
+        324038.49185068597
+      ]
+    }
+  },
+  {
+    "label": "Service-Related Industries",
+    "content": {
+      "Postal and courier activities": {
+        "Total Activities": 4260.899038804407,
+        "Postal/Courier Activities": 3823.404292651522
+      },
+      "Accommodation, food and beverage service activities": {
+        "Total Activities": 60662.2433623148,
+        "Postal/Courier Activities": 36807.092049846106
+      },
+      "Programming and broadcasting activities and audio video productions": {
+        "Total Activities": 11214.66567609342,
+        "Postal/Courier Activities": 12357.433762849925
+      },
+      "Telecommunications": {
+        "Total Activities": 23926.58541618273,
+        "Postal/Courier Activities": 25187.10988547915
+      },
+      "Financial Service activities, except insurance and pension funding and auxiliary financial services": {
+        "Total Activities": 102804.54614791361,
+        "Postal/Courier Activities": 149284.21382997892
+      },
+      "Insurance, reinsurance and pension funding except compulsory social security": {
+        "Total Activities": 27253.653302553026,
+        "Postal/Courier Activities": 28764.792646400285
+      },
+      "Real estate activities, including ownership of dwelling": {
+        "Total Activities": 152393.41200732638,
+        "Postal/Courier Activities": 150937.05045158623
+      }
+    }
+  },
+  {
+    "label": "Aggregate Demand Components (First Quarter)",
+    "content": {
+      "Domestic Consumption": {
+        "Total": 3112879.0862186695,
+        "Private": 2440991.717341891,
+        "Government": -379499.822260849
+      },
+      "Total Domestic Demand": {
+        "Excluding Government Consumption": 4381541.789143316,
+        "Previous Quarter": 3418865.5894375127
+      },
+      "Revised Data (2020-2021)": {
+        "Domestic Consumption": {
+          "Total": 2742014.662034085,
+          "Private": -2022607.4071340812,
+          "Government": 418384.3102078096
+        },
+        "Total Domestic Demand": {
+          "Increased Investment": 3310685.8338632383
+        }
+      },
+      "Changes in Inventories and Acquisitions less Disposals of Valuables": {
+        "Fourth Quarter": "Decline in Inventories",
+        "Result": "Increase in Purchases"
+      },
+      "Total Domestic Demand ": {
+        "Effect": "Slight Increase",
+        "Drivers": [
+          "Investment in Infrastructure Projects",
+          "Increased Exports"
+        ]
+      }
+    }
+  }
+]

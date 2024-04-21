@@ -1,0 +1,9 @@
+<new sheet>
+sheet_name: Outright MO EVENING REPORT
+Outright Treasury bond transaction volumes on 16.11.2022,,,
+
+ISIN,Maturity Date,Remaining years,Sum Of Amount (Mn)
+LKB00628A153,2028-01-15 00:00:00,5.16712328767123,200
+LKB01032G014,2032-07-01 00:00:00,9.63013698630137,300
+Total,,,500
+

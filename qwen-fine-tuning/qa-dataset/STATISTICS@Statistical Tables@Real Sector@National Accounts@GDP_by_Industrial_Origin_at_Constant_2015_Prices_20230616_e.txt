@@ -1,0 +1,340 @@
+Question: What is the GDP (Constant 2015) for the Agriculture, Forestry, and Fishing sector in the first quarter of 2019?
+Answer: The GDP for the Agriculture, Forestry, and Fishing sector in the first quarter of 2019 is Rs. 233,807.02 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, sector, first quarter, 2019
+
+Question: How much was the GDP (Constant 2015) for Marine fishing and Marine Aquaculture in the third quarter of 2021?
+Answer: The GDP for Marine fishing and Marine Aquaculture in the third quarter of 2021 was Rs. 33,931.13 million.
+Keywords: GDP, Marine fishing, Marine Aquaculture, third quarter, 2021
+
+Question: What is the GDP (Constant 2015) for Mining and quarrying in the second quarter of 2022?
+Answer: The GDP for Mining and quarrying in the second quarter of 2022 is Rs. 66,386.48 million.
+Keywords: GDP, Mining, quarrying, second quarter, 2022
+
+Question: How much was the GDP (Constant 2015) for Construction in the fourth quarter of 2019?
+Answer: The GDP for Construction in the fourth quarter of 2019 is Rs. 276,001.95 million.
+Keywords: GDP, Construction, fourth quarter, 2019
+
+Question: What is the GDP (Constant 2015) for Animal Production in the annual report of 2022?
+Answer: The GDP for Animal Production in the annual report of 2022 is Rs. 81,873.87 million.
+Keywords: GDP, Animal Production, annual report, 2022
+
+Question: How much was the GDP (Constant 2015) for Manufacture of chemicals and chemical products in the first quarter of 2021?
+Answer: The GDP for Manufacture of chemicals and chemical products in the first quarter of 2021 is Rs. 23,240.49 million.
+Keywords: GDP, Manufacture, chemicals, chemical products, first quarter, 2021
+
+Question: What is the GDP (Constant 2015) for Fresh water fishing and Fresh water Aquaculture in the third quarter of 2020?
+Answer: The GDP for Fresh water fishing and Fresh water Aquaculture in the third quarter of 2020 is Rs. 7,146.75 million.
+Keywords: GDP, Fresh water fishing, Fresh water Aquaculture, third quarter, 2020
+
+Question: How much was the GDP (Constant 2015) for Marine fishing and Marine Aquaculture in the fourth quarter of 2021?
+Answer: The GDP for Marine fishing and Marine Aquaculture in the fourth quarter of 2021 was Rs. 95,450.88 million.
+Keywords: GDP, Marine fishing, Marine Aquaculture, fourth quarter, 2021
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the annual report of 2021?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the annual report of 2021 is Rs. 941,046.06 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, annual report, 2021
+
+Question: How much was the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the second quarter of 2023?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the second quarter of 2023 is Rs. 224,946.47 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, second quarter, 2023
+
+Question: What is the GDP (Constant 2015) for Construction in the first quarter of 2020?
+Answer: The GDP for Construction in the first quarter of 2020 is Rs. 301,006.04 million.
+Keywords: GDP, Construction, first quarter, 2020
+
+Question: How much was the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the third quarter of 2019?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the third quarter of 2019 is Rs. 234,333.86 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, third quarter, 2019
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the fourth quarter of 2021?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the fourth quarter of 2021 is Rs. 241,672.56 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, fourth quarter, 2021
+
+Question: How much was the GDP (Constant 2015) for Growing of Oleaginous Fruits in the annual report of 2022?
+Answer: The GDP for Growing of Oleaginous Fruits in the annual report of 2022 is Rs. 5,146.57 million.
+Keywords: GDP, Growing, Oleaginous Fruits, annual report, 2022
+
+Question: What is the GDP (Constant 2015) for Animal Production in the second quarter of 2022?
+Answer: The GDP for Animal Production in the second quarter of 2022 is Rs. 20,219.93 million.
+Keywords: GDP, Animal Production, second quarter, 2022
+
+Question: How much was the GDP (Constant 2015) for Manufacture of chemicals and chemical products in the third quarter of 2019?
+Answer: The GDP for Manufacture of chemicals and chemical products in the third quarter of 2019 is Rs. 20,182.65 million.
+Keywords: GDP, Manufacture, chemicals, chemical products, third quarter, 2019
+
+Question: What is the GDP (Constant 2015) for Construction in the second quarter of 2021?
+Answer: The GDP for Construction in the second quarter of 2021 is Rs. 270,980.81 million.
+Keywords: GDP, Construction, second quarter, 2021
+
+Question: How much was the GDP (Constant 2015) for Growing of Oleaginous Fruits in the second quarter of 2021?
+Answer: The GDP for Growing of Oleaginous Fruits in the second quarter of 2021 is Rs. 2,646.82 million.
+Keywords: GDP, Growing, Oleaginous Fruits, second quarter, 2021
+
+Question: What is the GDP (Constant 2015) for Manufacture of chemicals and chemical products in the annual report of 2021?
+Answer: The GDP for Manufacture of chemicals and chemical products in the annual report of 2021 is Rs. 81,291.68 million.
+Keywords: GDP, Manufacture, chemicals, chemical products, annual report, 2021
+
+Question: How much was the GDP (Constant 2015) for Marine fishing and Marine Aquaculture in the first quarter of 2023?
+Answer: The GDP for Marine fishing and Marine Aquaculture in the first quarter of 2023 is Rs. 27,634.80 million.
+Keywords: GDP, Marine fishing, Marine Aquaculture, first quarter, 2023
+
+Question: What is the GDP (Constant 2015) for Construction in the third quarter of 2020?
+Answer: The GDP for Construction in the third quarter of 2020 is Rs. 257,849.17 million.
+Keywords: GDP, Construction, third quarter, 2020
+
+Question: How much was the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the second quarter of 2021?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the second quarter of 2021 is Rs. 245,269.11 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, second quarter, 2021
+
+Question: What is the GDP (Constant 2015) for Fresh water fishing and Fresh water Aquaculture in the fourth quarter of 2022?
+Answer: The GDP for Fresh water fishing and Fresh water Aquaculture in the fourth quarter of 2022 is Rs. 8,495.54 million.
+Keywords: GDP, Fresh water fishing, Fresh water Aquaculture, fourth quarter, 2022
+
+Question: How much was the GDP (Constant 2015) for Animal Production in the third quarter of 2021?
+Answer: The GDP for Animal Production in the third quarter of 2021 is Rs. 23,831.76 million.
+Keywords: GDP, Animal Production, third quarter, 2021
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the third quarter of 2020?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the third quarter of 2020 is Rs. 225,123.77 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, third quarter, 2020
+
+Question: How much was the GDP (Constant 2015) for Growing of Oleaginous Fruits in the third quarter of 2022?
+Answer: The GDP for Growing of Oleaginous Fruits in the third quarter of 2022 is Rs. 2,864.18 million.
+Keywords: GDP, Growing, Oleaginous Fruits, third quarter, 2022
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the first quarter of 2022?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the first quarter of 2022 is Rs. 230,847.62 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, first quarter, 2022
+
+Question: How much was the GDP (Constant 2015) for Animal Production in the fourth quarter of 2021?
+Answer: The GDP for Animal Production in the fourth quarter of 2021 is Rs. 28,306.07 million.
+Keywords: GDP, Animal Production, fourth quarter, 2021
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the second quarter of 2020?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the second quarter of 2020 is Rs. 213,895.35 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, second quarter, 2020
+
+Question: How much was the GDP (Constant 2015) for Construction in the third quarter of 2021?
+Answer: The GDP for Construction in the third quarter of 2021 is Rs. 279,065.63 million.
+Keywords: GDP, Construction, third quarter, 2021
+
+Question: What is the GDP (Constant 2015) for Fresh water fishing and Fresh water Aquaculture in the first quarter of 2023?
+Answer: The GDP for Fresh water fishing and Fresh water Aquaculture in the first quarter of 2023 is Rs. 6,676.99 million.
+Keywords: GDP, Fresh water fishing, Fresh water Aquaculture, first quarter, 2023
+
+Question: How much was the GDP (Constant 2015) for Animal Production in the second quarter of 2020?
+Answer: The GDP for Animal Production in the second quarter of 2020 is Rs. 17,314.42 million.
+Keywords: GDP, Animal Production, second quarter, 2020
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the first quarter of 2021?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the first quarter of 2021 is Rs. 238,364.98 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, first quarter, 2021
+
+Question: How much was the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the fourth quarter of 2020?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the fourth quarter of 2020 is Rs. 228,465.82 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, fourth quarter, 2020
+
+Question: What is the GDP (Constant 2015) for Growing of Oleaginous Fruits in the third quarter of 2021?
+Answer: The GDP for Growing of Oleaginous Fruits in the third quarter of 2021 is Rs. 2,831.22 million.
+Keywords: GDP, Growing, Oleaginous Fruits, third quarter, 2021
+
+Question: How much was the GDP (Constant 2015) for Animal Production in the first quarter of 2023?
+Answer: The GDP for Animal Production in the first quarter of 2023 is Rs. 22,212.65 million.
+Keywords: GDP, Animal Production, first quarter, 2023
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the third quarter of 2021?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the third quarter of 2021 is Rs. 238,185.08 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, third quarter, 2021
+
+Question: How much was the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the second quarter of 2022?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the second quarter of 2022 is Rs. 230,506.16 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, second quarter, 2022
+
+Question: What is the GDP (Constant 2015) for Construction in the fourth quarter of 2021?
+Answer: The GDP for Construction in the fourth quarter of 2021 is Rs. 285,096.02 million.
+Keywords: GDP, Construction, fourth quarter, 2021
+
+Question: How much was the GDP (Constant 2015) for Marine fishing and Marine Aquaculture in the first quarter of 2022?
+Answer: The GDP for Marine fishing and Marine Aquaculture in the first quarter of 2022 is Rs. 21,698.31 million.
+Keywords: GDP, Marine fishing, Marine Aquaculture, first quarter, 2022
+
+Question: What is the GDP (Constant 2015) for Construction in the third quarter of 2022?
+Answer: The GDP for Construction in the third quarter of 2022 is Rs. 295,846.73 million.
+Keywords: GDP, Construction, third quarter, 2022
+
+Question: How much was the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the third quarter of 2019?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the third quarter of 2019 is Rs. 234,333.86 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, third quarter, 2019
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the fourth quarter of 2021?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the fourth quarter of 2021 is Rs. 241,672.56 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, fourth quarter, 2021
+
+Question: How much was the GDP (Constant 2015) for Growing of Oleaginous Fruits in the annual report of 2022?
+Answer: The GDP for Growing of Oleaginous Fruits in the annual report of 2022 is Rs. 5,146.57 million.
+Keywords: GDP, Growing, Oleaginous Fruits, annual report, 2022
+
+Question: What is the GDP (Constant 2015) for Animal Production in the second quarter of 2022?
+Answer: The GDP for Animal Production in the second quarter of 2022 is Rs. 20,219.93 million.
+Keywords: GDP, Animal Production, second quarter, 2022
+
+Question: How much was the GDP (Constant 2015) for Manufacture of chemicals and chemical products in the third quarter of 2019?
+Answer: The GDP for Manufacture of chemicals and chemical products in the third quarter of 2019 is Rs. 20,182.65 million.
+Keywords: GDP, Manufacture, chemicals, chemical products, third quarter, 2019
+
+Question: What is the GDP (Constant 2015) for Construction in the second quarter of 2021?
+Answer: The GDP for Construction in the second quarter of 2021 is Rs. 270,980.81 million.
+Keywords: GDP, Construction, second quarter, 2021
+
+Question: How much was the GDP (Constant 2015) for Growing of Oleaginous Fruits in the second quarter of 2021?
+Answer: The GDP for Growing of Oleaginous Fruits in the second quarter of 2021 is Rs. 2,646.82 million.
+Keywords: GDP, Growing, Oleaginous Fruits, second quarter, 2021
+
+Question: What is the GDP (Constant 2015) for Manufacture of chemicals and chemical products in the annual report of 2021?
+Answer: The GDP for Manufacture of chemicals and chemical products in the annual report of 2021 is Rs. 81,291.68 million.
+Keywords: GDP, Manufacture, chemicals, chemical products, annual report, 2021
+
+Question: How much was the GDP (Constant 2015) for Marine fishing and Marine Aquaculture in the first quarter of 2023?
+Answer: The GDP for Marine fishing and Marine Aquaculture in the first quarter of 2023 is Rs. 27,634.80 million.
+Keywords: GDP, Marine fishing, Marine Aquaculture, first quarter, 2023
+
+Question: What is the GDP (Constant 2015) for Construction in the third quarter of 2020?
+Answer: The GDP for Construction in the third quarter of 2020 is Rs. 257,849.17 million.
+Keywords: GDP, Construction, third quarter, 2020
+
+Question: How much was the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the second quarter of 2021?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the second quarter of 2021 is Rs. 245,269.11 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, second quarter, 2021
+
+Question: What is the GDP (Constant 2015) for Fresh water fishing and Fresh water Aquaculture in the fourth quarter of 2022?
+Answer: The GDP for Fresh water fishing and Fresh water Aquaculture in the fourth quarter of 2022 is Rs. 8,495.54 million.
+Keywords: GDP, Fresh water fishing, Fresh water Aquaculture, fourth quarter, 2022
+
+Question: How much was the GDP (Constant 2015) for Animal Production in the third quarter of 2021?
+Answer: The GDP for Animal Production in the third quarter of 2021 is Rs. 23,831.76 million.
+Keywords: GDP, Animal Production, third quarter, 2021
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the third quarter of 2020?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the third quarter of 2020 is Rs. 225,123.77 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, third quarter, 2020
+
+Question: How much was the GDP (Constant 2015) for Growing of Oleaginous Fruits in the third quarter of 2022?
+Answer: The GDP for Growing of Oleaginous Fruits in the third quarter of 2022 is Rs. 2,864.18 million.
+Keywords: GDP, Growing, Oleaginous Fruits, third quarter, 2022
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the first quarter of 2022?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the first quarter of 2022 is Rs. 230,847.62 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, first quarter, 2022
+
+Question: How much was the GDP (Constant 2015) for Animal Production in the fourth quarter of 2021?
+Answer: The GDP for Animal Production in the fourth quarter of 2021 is Rs. 28,306.07 million.
+Keywords: GDP, Animal Production, fourth quarter, 2021
+
+Question: What is the GDP (Constant 2015) for Construction in the fourth quarter of 2022?
+Answer: The GDP for Construction in the fourth quarter of 2022 is Rs. 308,799.40 million.
+Keywords: GDP, Construction, fourth quarter, 2022
+
+Question: How much was the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the second quarter of 2019?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the second quarter of 2019 is Rs. 219,475.09 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, second quarter, 2019
+
+Question: What is the GDP (Constant 2015) for Growing of Oleaginous Fruits in the second quarter of 2022?
+Answer: The GDP for Growing of Oleaginous Fruits in the second quarter of 2022 is Rs. 2,751.06 million.
+Keywords: GDP, Growing, Oleaginous Fruits, second quarter, 2022
+
+Question: How much was the GDP (Constant 2015) for Animal Production in the annual report of 2020?
+Answer: The GDP for Animal Production in the annual report of 2020 is Rs. 77,381.86 million.
+Keywords: GDP, Animal Production, annual report, 2020
+
+Question: What is the GDP (Constant 2015) for Marine fishing and Marine Aquaculture in the second quarter of 2021?
+Answer: The GDP for Marine fishing and Marine Aquaculture in the second quarter of 2021 is Rs. 20,839.12 million.
+Keywords: GDP, Marine fishing, Marine Aquaculture, second quarter, 2021
+
+Question: How much was the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the first quarter of 2018?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the first quarter of 2018 is Rs. 202,395.32 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, first quarter, 2018
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the third quarter of 2018?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the third quarter of 2018 is Rs. 211,009.41 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, third quarter, 2018
+
+Question: How much was the GDP (Constant 2015) for Construction in the third quarter of 2018?
+Answer: The GDP for Construction in the third quarter of 2018 is Rs. 219,889.50 million.
+Keywords: GDP, Construction, third quarter, 2018
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the fourth quarter of 2018?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the fourth quarter of 2018 is Rs. 218,842.88 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, fourth quarter, 2018
+
+Question: How much was the GDP (Constant 2015) for Fresh water fishing and Fresh water Aquaculture in the third quarter of 2020?
+Answer: The GDP for Fresh water fishing and Fresh water Aquaculture in the third quarter of 2020 is Rs. 6,995.41 million.
+Keywords: GDP, Fresh water fishing, Fresh water Aquaculture, third quarter, 2020
+
+Question: What is the GDP (Constant 2015) for Animal Production in the first quarter of 2020?
+Answer: The GDP for Animal Production in the first quarter of 2020 is Rs. 16,328.89 million.
+Keywords: GDP, Animal Production, first quarter, 2020
+
+Question: How much was the GDP (Constant 2015) for Construction in the annual report of 2019?
+Answer: The GDP for Construction in the annual report of 2019 is Rs. 849,570.63 million.
+Keywords: GDP, Construction, annual report, 2019
+
+Question: What is the GDP (Constant 2015) for Growing of Oleaginous Fruits in the third quarter of 2020?
+Answer: The GDP for Growing of Oleaginous Fruits in the third quarter of 2020 is Rs. 2,948.75 million.
+Keywords: GDP, Growing, Oleaginous Fruits, third quarter, 2020
+
+Question: How much was the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the fourth quarter of 2019?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the fourth quarter of 2019 is Rs. 225,675.78 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, fourth quarter, 2019
+
+Question: What is the GDP (Constant 2015) for Marine fishing and Marine Aquaculture in the fourth quarter of 2021?
+Answer: The GDP for Marine fishing and Marine Aquaculture in the fourth quarter of 2021 is Rs. 30,292.38 million.
+Keywords: GDP, Marine fishing, Marine Aquaculture, fourth quarter, 2021
+
+Question: How much was the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the annual report of 2021?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the annual report of 2021 is Rs. 930,452.57 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, annual report, 2021
+
+Question: What is the GDP (Constant 2015) for Construction in the second quarter of 2019?
+Answer: The GDP for Construction in the second quarter of 2019 is Rs. 212,523.84 million.
+Keywords: GDP, Construction, second quarter, 2019
+
+Question: How much was the GDP (Constant 2015) for Growing of Oleaginous Fruits in the fourth quarter of 2020?
+Answer: The GDP for Growing of Oleaginous Fruits in the fourth quarter of 2020 is Rs. 3,044.06 million.
+Keywords: GDP, Growing, Oleaginous Fruits, fourth quarter, 2020
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the second quarter of 2018?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the second quarter of 2018 is Rs. 199,921.61 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, second quarter, 2018
+
+Question: How much was the GDP (Constant 2015) for Animal Production in the third quarter of 2020?
+Answer: The GDP for Animal Production in the third quarter of 2020 is Rs. 20,592.58 million.
+Keywords: GDP, Animal Production, third quarter, 2020
+
+Question: What is the GDP (Constant 2015) for Construction in the first quarter of 2021?
+Answer: The GDP for Construction in the first quarter of 2021 is Rs. 267,096.13 million.
+Keywords: GDP, Construction, first quarter, 2021
+
+Question: How much was the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the third quarter of 2019?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the third quarter of 2019 is Rs. 220,358.08 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, third quarter, 2019
+
+Question: What is the GDP (Constant 2015) for Agriculture, Forestry, and Fishing in the first quarter of 2021?
+Answer: The GDP for Agriculture, Forestry, and Fishing in the first quarter of 2021 is Rs. 241,799.56 million.
+Keywords: GDP, Agriculture, Forestry, Fishing, first quarter, 2021
+
+Question: How much was the GDP (Constant 2015) for Construction in the second quarter of 2020?
+Answer: The GDP for Construction in the second quarter of 2020 is Rs. 242,708.34 million.
+Keywords: GDP, Construction, second quarter, 2020
+
+Question: What is the GDP (Constant 2015) for Growing of Oleaginous Fruits in the first quarter of 2020?
+Answer: The GDP for Growing of Oleaginous Fruits in the first quarter of 2020 is Rs. 2,933.69 million.
+Keywords: GDP, Growing, Oleaginous Fruits, first quarter, 2020
+
+Question: How much was the GDP (Constant 2015) for Animal Production in the fourth quarter of 2019?
+Answer: The GDP for Animal Production in the fourth quarter of 2019 is Rs. 28,791.95 million.
+Keywords: GDP, Animal Production, fourth quarter, 2019
+
+Question: What is the GDP (Constant 2015) for Construction in the third quarter of 2019?
+Answer: The GDP for Construction in the third quarter of 2019 is Rs. 225,899.04 million.
+Keywords: GDP, Construction, third quarter, 2019
+

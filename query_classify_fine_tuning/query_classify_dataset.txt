@@ -1,0 +1,861 @@
+Example:
+Query: What are the key objectives of the National Economic Development Plan for 2025?
+Output: {
+"keywords": ["key objectives", "National Economic Development Plan"],
+"years": [2025]
+}
+
+Example:
+Query: Analyze the impact of climate change policies on agricultural productivity in the last decade.
+Output: {
+"keywords": ["impact", "climate change policies", "agricultural productivity"],
+"years": [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
+}
+
+Example:
+Query: How has the export market for Sri Lankan tea evolved since 2010?
+Output: {
+"keywords": ["export market", "Sri Lankan tea"],
+"years": [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+}
+
+Example:
+Query: Provide a comparison of inflation rates between developed and developing countries in the past five years.
+Output: {
+"keywords": ["comparison", "inflation rates", "developed countries", "developing countries"],
+"years": [2020, 2021, 2022, 2023, 2024]
+}
+
+Example:
+Query: What measures has the government implemented to address income inequality in the 21st century?
+Output: {
+"keywords": ["measures", "government", "income inequality", "21st century"],
+"years": []
+}
+
+Example:
+Query: Describe the impact of technological advancements on job creation in the 21st century.
+Output: {
+"keywords": ["impact", "technological advancements", "job creation", "21st century"],
+"years": []
+}
+
+Example:
+Query: What were the main factors contributing to the economic recession of 2008?
+Output: {
+"keywords": ["main factors", "economic recession"],
+"years": [2008]
+}
+
+Example:
+Query: Analyze the trends in foreign direct investment (FDI) in Southeast Asia in 2010-2014.
+Output: {
+"keywords": ["trends", "foreign direct investment", "FDI", "Southeast Asia"],
+"years": [2014, 2013, 2012, 2011, 2010]
+}
+
+Example:
+Query: Discuss the challenges faced by small and medium-sized enterprises (SMEs) in accessing financing in recent years.
+Output: {
+"keywords": ["challenges", "small and medium-sized enterprises", "SMEs", "financing"],
+"years": [2022, 2023, 2024]
+}
+
+Example:
+Query: Provide an overview of the government's healthcare expenditure in the last fiscal year.
+Output: {
+"keywords": ["overview", "government", "healthcare expenditure"],
+"years": [2023]
+}
+
+Example 11:
+Query: How has the demand for renewable energy sources changed. Give me a comparison?
+Output: {
+"keywords": ["demand", "renewable energy sources"],
+"years": []
+}
+
+Example 12:
+Query: Explain the impact of trade tariffs on global supply chains in recent years.
+Output: {
+"keywords": ["impact", "trade tariffs", "global supply chains"],
+"years": [2022, 2023, 2024]
+}
+
+Example 13:
+Query: Discuss the implications of the aging population on healthcare systems in 2020.
+Output: {
+"keywords": ["implications", "aging population", "healthcare systems"],
+"years": [2020]
+}
+
+Example 14:
+Query: What policies has the government enacted to promote sustainable urban development in the past five years?
+Output: {
+"keywords": ["policies", "government", "sustainable urban development"],
+"years": [2020, 2021, 2022, 2023, 2024]
+}
+
+Example 15:
+Query: Analyze the impact of Brexit on the European economy in the last five years.
+Output: {
+"keywords": ["impact", "Brexit", "European economy"],
+"years": [2020, 2021, 2022, 2023, 2024]
+}
+
+Example 16:
+Query: Provide a breakdown of government spending on infrastructure projects in the current fiscal year.
+Output: {
+"keywords": ["breakdown", "government spending", "infrastructure projects"],
+"years": [2024]
+}
+
+Example 17:
+Query: How has the adoption of e-commerce platforms affected traditional retail businesses?
+Output: {
+"keywords": ["adoption", "e-commerce platforms", "traditional retail businesses"],
+"years": []
+}
+
+Example 18:
+Query: Describe the role of foreign aid in supporting development initiatives in Africa. I need a graphical representation of the output.
+Output: {
+"keywords": ["role", "foreign aid", "development initiatives", "Africa"],
+"years": []
+}
+
+Example 19:
+Query: What initiatives has the government launched to address climate change in the current year?
+Output: {
+"keywords": ["initiatives", "government", "climate change"],
+"years": [2024]
+}
+
+Example 20:
+Query: Provide an analysis of trends in the global labor market in the last five years. If possible intrepret the data using a graph.
+Output: {
+"keywords": ["analysis", "trends", "global labor market"],
+"years": [2020, 2021, 2022, 2023, 2024]
+}
+
+Example 21:
+Query: How has the COVID-19 pandemic impacted global trade patterns in the past two years?
+Output: {
+"keywords": ["impact", "COVID-19 pandemic", "global trade patterns"],
+"years": [2023, 2024]
+}
+
+Example 22:
+Query: What measures has the government taken to address unemployment rates among youth in recent years?
+Output: {
+"keywords": ["measures", "government", "unemployment rates", "youth"],
+"years": [2022, 2023, 2024]
+}
+
+Example 23:
+Query: Describe the evolution of digital payment systems.
+Output: {
+"keywords": ["evolution", "digital payment systems"],
+"years": []
+}
+
+Example 24:
+Query: What factors have contributed to the rise of populism in politics after 2019?
+Output: {
+"keywords": ["factors", "rise", "populism", "politics"],
+"years": [2020, 2021, 2022, 2023]
+}
+
+Example 25:
+Query: Analyze the impact of trade agreements on the agricultural sector in developing countries in recent years.
+Output: {
+"keywords": ["impact", "trade agreements", "agricultural sector", "developing countries"],
+"years": []
+}
+
+Example 26:
+Query: Discuss the role of microfinance in poverty alleviation efforts in the period 2010-2014.
+Output: {
+"keywords": ["role", "microfinance", "poverty alleviation efforts"],
+"years": [2014, 2013, 2012, 2011, 2010]
+}
+
+Example 27:
+Query: How has the globalization of supply chains affected manufacturing industries?
+Output: {
+"keywords": ["globalization", "supply chains", "manufacturing industries"],
+"years": []
+}
+
+Example 28:
+Query: Provide an overview of government initiatives to promote sustainable energy sources in the current fiscal year.
+Output: {
+"keywords": ["overview", "government initiatives", "sustainable energy sources"],
+"years": [2024]
+}
+
+Example 29:
+Query: Describe the impact of social media on political discourse in recent years.
+Output: {
+"keywords": ["impact", "social media", "political discourse"],
+"years": [2022, 2023, 2024]
+}
+
+Example 30:
+Query: What measures has the government taken to address income inequality?
+Output: {
+"keywords": ["measures", "government", "income inequality"],
+"years": []
+}
+
+Example 31:
+Query: Analyze the trends in global energy consumption in the last five years.
+Output: {
+"keywords": ["trends", "global energy consumption"],
+"years": [2020, 2021, 2022, 2023, 2024]
+}
+
+Example 32:
+Query: Provide a breakdown of government spending on healthcare in the current fiscal year.
+Output: {
+"keywords": ["breakdown", "government spending", "healthcare"],
+"years": [2024]
+}
+
+Example 33:
+Query: How has the adoption of renewable energy sources evolved?
+Output: {
+"keywords": ["adoption", "renewable energy sources"],
+"years": []
+}
+
+Example 34:
+Query: Describe the role of international organizations in addressing global health crises.
+Output: {
+"keywords": ["role", "international organizations", "global health crises"],
+"years": []
+}
+
+Example 35:
+Query: What policies has the government enacted to promote sustainable development in the 2015 laws?
+Output: {
+"keywords": ["policies", "government", "sustainable development"],
+"years": [2015]
+}
+
+Example 36:
+Query: Provide an analysis of trends in the global financial market in the last five years.
+Output: {
+"keywords": ["analysis", "trends", "global financial market"],
+"years": [2020, 2021, 2022, 2023, 2024]
+}
+
+Example 37:
+Query: How has the COVID-19 pandemic impacted global economic growth in the past two years?
+Output: {
+"keywords": ["impact", "COVID-19 pandemic", "global economic growth"],
+"years": [2023, 2024]
+}
+
+Example 38:
+Query: What measures has the government taken to address unemployment rates among women in recent years?
+Output: {
+"keywords": ["measures", "government", "unemployment rates", "women"],
+"years": [2022, 2023, 2024]
+}
+
+Example 39:
+Query: Describe the evolution of digital marketing strategies. Compare the strategies using examples.
+Output: {
+"keywords": ["evolution", "digital marketing strategies"],
+"years": []
+}
+
+Example 40:
+Query: What factors have contributed to the rise of nationalism in politics?
+Output: {
+"keywords": ["factors", "rise", "nationalism", "politics"],
+"years": []
+}
+
+Example 41:
+Query: Analyze the impact of trade liberalization on the agricultural sector in developing countries in 2021.
+Output: {
+"keywords": ["impact", "trade liberalization", "agricultural sector", "developing countries"],
+"years": [2021]
+}
+
+Example 42:
+Query: Discuss the role of microcredit in poverty alleviation efforts.
+Output: {
+"keywords": ["role", "microcredit", "poverty alleviation efforts"],
+"years": []
+}
+
+Example 43:
+Query: How has the globalization of information technology affected industries in 2022 and compare the results with the yera 2021?
+Output: {
+"keywords": ["globalization", "information technology", "industries"],
+"years": [2022, 2023]
+}
+
+Example 44:
+Query: Provide an overview of government initiatives to promote sustainable transportation in the current fiscal year.
+Output: {
+"keywords": ["overview", "government initiatives", "sustainable transportation"],
+"years": [2024]
+}
+
+Example 45:
+Query: Describe the impact of social networking sites on interpersonal relationships.
+Output: {
+"keywords": ["impact", "social networking sites", "interpersonal relationships"],
+"years": []
+}
+
+Example 46:
+Query: What measures has the government taken to address income inequality?
+Output: {
+"keywords": ["measures", "government", "income inequality"],
+"years": []
+}
+
+Example 47:
+Query: Analyze the trends in global internet usage in the last 4 years.
+Output: {
+"keywords": ["trends", "global internet usage"],
+"years": [2021, 2022, 2023, 2024]
+}
+
+Example 48:
+Query: Provide a breakdown of government spending on education in the current fiscal year.
+Output: {
+"keywords": ["breakdown", "government spending", "education"],
+"years": [2024]
+}
+
+Example 49:
+Query: How has the adoption of green technologies evolved over the year 2018?
+Output: {
+"keywords": ["adoption", "green technologies"],
+"years": [2018]
+}
+
+Example 50:
+Query: Describe the role of international cooperation in addressing global environmental challenges in the 21st century.
+Output: {
+"keywords": ["role", "international cooperation", "global environmental challenges"],
+"years": []
+}
+
+Example 1:
+Query: What are the key components of the national healthcare reform plan for 2025?
+Output: {
+"keywords": ["key components", "national healthcare reform plan"],
+"years": [2025]
+}
+
+Example 2:
+Query: Analyze the impact of artificial intelligence on job markets. Consider market data with the other published data. Make the output JSON object.
+Output: {
+"keywords": ["impact", "artificial intelligence", "job markets"],
+"years": []
+}
+
+Example 3:
+Query: How has the global demand for renewable energy sources changed since 2022?
+Output: {
+"keywords": ["global demand", "renewable energy sources"],
+"years": [2022, 2023, 2024]
+}
+
+Example 4:
+Query: Provide a comparison of economic growth rates between developed and developing countries in the last five years.
+Output: {
+"keywords": ["comparison", "economic growth rates", "developed countries", "developing countries"],
+"years": [2020, 2021, 2022, 2023, 2024]
+}
+
+Example 5:
+Query: What measures has the government implemented to address climate change?
+Output: {
+"keywords": ["measures", "government", "climate change"],
+"years": []
+}
+
+Example 6:
+Query: Describe the impact of automation on manufacturing industries with details of the recent reports.
+Output: {
+"keywords": ["impact", "automation", "manufacturing industries"],
+"years": []
+}
+
+Example 7:
+Query: What were the main causes of the global financial crisis of 2008?
+Output: {
+"keywords": ["main causes", "global financial crisis"],
+"years": [2008]
+}
+
+Example 8:
+Query: Analyze the trends in foreign aid allocation to Africa in easy to understand format.
+Output: {
+"keywords": ["trends", "foreign aid allocation", "Africa"],
+"years": []
+}
+
+Example 9:
+Query: Discuss the challenges faced by startups in accessing venture capital funding in recent years.
+Output: {
+"keywords": ["challenges", "startups", "venture capital funding"],
+"years": [2022, 2023, 2024]
+}
+
+Example 10:
+Query: Provide an overview of government spending on infrastructure projects in the current fiscal year.
+Output: {
+"keywords": ["overview", "government spending", "infrastructure projects"],
+"years": [2024]
+}
+
+Example 11:
+Query: How has the adoption of renewable energy technologies evolved?
+Output: {
+"keywords": ["adoption", "renewable energy technologies"],
+"years": []
+}
+
+Example 12:
+Query: Explain the impact of trade tensions between major economies on global trade patterns in recent years.
+Output: {
+"keywords": ["impact", "trade tensions", "major economies", "global trade patterns"],
+"years": [2022, 2023, 2024]
+}
+
+Example 13:
+Query: Discuss the implications of population aging on healthcare systems.
+Output: {
+"keywords": ["implications", "population aging", "healthcare systems"],
+"years": []
+}
+
+Example 14:
+Query: What policies has the government enacted to promote sustainable agriculture in the past 3 years?
+Output: {
+"keywords": ["policies", "government", "sustainable agriculture"],
+"years": [2022, 2023, 2024]
+}
+
+Example 15:
+Query: Analyze the impact of geopolitical tensions on global economic growth in the last five years.
+Output: {
+"keywords": ["impact", "geopolitical tensions", "global economic growth"],
+"years": [2020, 2021, 2022, 2023, 2024]
+}
+
+Example 16:
+Query: Provide a breakdown of government spending on healthcare in the current fiscal year.
+Output: {
+"keywords": ["breakdown", "government spending", "healthcare"],
+"years": [2024]
+}
+
+Example 17:
+Query: How has the digital transformation affected traditional retail businesses?
+Output: {
+"keywords": ["digital transformation", "traditional retail businesses"],
+"years": []
+}
+
+Example 18:
+Query: Describe the role of microfinance in poverty alleviation efforts.
+Output: {
+"keywords": ["role", "microfinance", "poverty alleviation efforts"],
+"years": []
+}
+
+Example 19:
+Query: What factors have contributed to the rise of populism in politics in years 2013, 2017, and 2020?
+Output: {
+"keywords": ["factors", "rise", "populism", "politics"],
+"years": [2013, 2017, 2020]
+}
+
+Example 20:
+Query: Analyze the impact of trade agreements on the automotive industry in developing countries.
+Output: {
+"keywords": ["impact", "trade agreements", "automotive industry", "developing countries"],
+"years": []
+}
+
+Example 21:
+Query: Discuss the role of microcredit in entrepreneurship development. It is better if you can generate the output including CBSL data.
+Output: {
+"keywords": ["role", "microcredit", "entrepreneurship development"],
+"years": []
+}
+
+Example 22:
+Query: How has the globalization of information technology affected industries?
+Output: {
+"keywords": ["globalization", "information technology", "industries"],
+"years": []
+}
+
+Example 23:
+Query: Provide an overview of government initiatives to promote sustainable transportation in the current year.
+Output: {
+"keywords": ["overview", "government initiatives", "sustainable transportation"],
+"years": [2024]
+}
+
+Example 24:
+Query: Describe the impact of social networking sites on interpersonal relationships.
+Output: {
+"keywords": ["impact", "social networking sites", "interpersonal relationships"],
+"years": []
+}
+
+Example 25:
+Query: What measures has the government taken to address income inequality?
+Output: {
+"keywords": ["measures", "government", "income inequality"],
+"years": []
+}
+
+Example 26:
+Query: Analyze the trends in global internet usage in the last two years.
+Output: {
+"keywords": ["trends", "global internet usage"],
+"years": [2023, 2024]
+}
+
+Example 27:
+Query: Provide a breakdown of government spending on education in the last year.
+Output: {
+"keywords": ["breakdown", "government spending", "education"],
+"years": [2023]
+}
+
+Example 28:
+Query: How has the adoption of green technologies evolved over the banking sector?
+Output: {
+"keywords": ["adoption", "green technologies", "banking sector"],
+"years": []
+}
+
+Example 29:
+Query: Describe the role of international cooperation in addressing global environmental challenges.
+Output: {
+"keywords": ["role", "international cooperation", "global environmental challenges"],
+"years": []
+}
+
+Example 30:
+Query: Analyze the impact of globalization on income inequality of a small scale businesses.
+Output: {
+"keywords": ["impact", "globalization", "income inequality", "small scale businesses"],
+"years": []
+}
+
+Example 31:
+Query: What initiatives has the government launched to address cybersecurity threats?
+Output: {
+"keywords": ["initiatives", "government", "cybersecurity threats"],
+"years": []
+}
+
+Example 32:
+Query: I need the data about the given query in 2019. Discuss the implications of demographic shifts on healthcare systems.
+Output: {
+"keywords": ["implications", "demographic shifts", "healthcare systems"],
+"years": [2019]
+}
+
+Example 33:
+Query: Provide an analysis of trends in global trade policies from 2020 to 2024.
+Output: {
+"keywords": ["analysis", "trends", "global trade policies"],
+"years": [2020, 2021, 2022, 2023, 2024]
+}
+
+Example 34:
+Query: Describe the impact of digital disruption on traditional banking services.
+Output: {
+"keywords": ["impact", "digital disruption", "traditional banking services"],
+"years": []
+}
+
+Example 37:
+Query: Provide a breakdown of government spending on healthcare in the current fiscal year.
+Output: {
+"keywords": ["breakdown", "government spending", "healthcare"],
+"years": [2024]
+}
+
+Example 40:
+Query: Analyze the impact of trade liberalization on income inequality in the last couple of years.
+Output: {
+"keywords": ["impact", "trade liberalization", "income inequality"],
+"years": [2023, 2024]
+}
+
+Example 41:
+Query: What initiatives has the government launched to address environmental sustainability?
+Output: {
+"keywords": ["initiatives", "government", "environmental sustainability"],
+"years": []
+}
+
+Example 42:
+Query: Discuss the implications of technological advancements on job displacement to the month November in 2021.
+Output: {
+"keywords": ["implications", "technological advancements", "job displacement"],
+"years": [2021]
+}
+
+Example 43:
+Query: Provide an analysis of 2014 trends in global migration patterns in the year 2019.
+Output: {
+"keywords": ["analysis", "trends", "global migration patterns"],
+"years": []
+}
+
+Example 44:
+Query: Describe the impact of social media on political polarization in recent years.
+Output: {
+"keywords": ["impact", "social media", "political polarization"],
+"years": [2022, 2023, 2024]
+}
+
+Example 45:
+Query: What measures has the government taken to address income inequality since 2020?
+Output: {
+"keywords": ["measures", "government", "income inequality"],
+"years": [2020, 2021, 2022, 2023]
+}
+
+Example 47:
+Query: Provide a breakdown of government spending on education in the current fiscal year.
+Output: {
+"keywords": ["breakdown", "government spending", "education"],
+"years": [2024]
+}
+
+Example 49:
+Query: Describe the role of international cooperation in addressing global environmental challenges.
+Output: {
+"keywords": ["role", "international cooperation", "global environmental challenges"],
+"years": []
+}
+
+Example 50:
+Query: Analyze the impact of globalization on income inequality in the last three years.
+Output: {
+"keywords": ["impact", "globalization", "income inequality"],
+"years": [2022, 2023, 2024]
+}
+
+Example 1:
+Query: Provide a comprehensive analysis of the economic impact of the COVID-19 pandemic on small and medium-sized enterprises (SMEs) in developing countries, considering factors such as disruptions in supply chains, changes in consumer behavior, and government support measures implemented since the onset of the pandemic in early 2020.
+Output: {
+"keywords": ["comprehensive analysis", "economic impact", "COVID-19 pandemic", "small and medium-sized enterprises", "SMEs", "developing countries", "disruptions in supply chains", "changes in consumer behavior", "government support measures", "pandemic"],
+"years": [2020]
+}
+
+Example 2:
+Query: Discuss the key challenges and opportunities facing the renewable energy sector in the transition towards a low-carbon economy, examining technological advancements, policy frameworks, and investment trends over the years 2020 and 2021.
+Output: {
+"keywords": ["key challenges", "opportunities", "renewable energy sector", "transition", "low-carbon economy", "technological advancements", "policy frameworks", "investment trends", "past decade"],
+"years": [2020, 2021]
+}
+
+Example 3:
+Query: Analyze the effectiveness of international development aid in promoting sustainable development goals (SDGs) in sub-Saharan Africa, taking into account factors such as governance structures, institutional capacity, and the role of local communities in project implementation.
+Output: {
+"keywords": ["effectiveness", "international development aid", "sustainable development goals", "SDGs", "sub-Saharan Africa", "governance structures", "institutional capacity", "local communities", "project implementation"],
+"years": []
+}
+
+Example 4:
+Query: Describe the evolution of financial regulatory frameworks in response to the global financial crisis of 2008, focusing on reforms aimed at enhancing systemic stability, improving transparency, and mitigating systemic risks in the banking and financial sectors.
+Output: {
+"keywords": ["evolution", "financial regulatory frameworks", "global financial crisis", "reforms", "systemic stability", "transparency", "systemic risks", "banking", "financial sectors"],
+"years": [2008]
+}
+
+Example 5:
+Query: Examine the socio-economic implications of urbanization in emerging economies, exploring issues such as access to basic services, housing affordability, environmental sustainability, and social inclusion in rapidly growing urban centers across Asia and Africa.
+Output: {
+"keywords": ["socio-economic implications", "urbanization", "emerging economies", "access to basic services", "housing affordability", "environmental sustainability", "social inclusion", "rapidly growing urban centers", "Asia", "Africa"],
+"years": []
+}
+
+Example 6:
+Query: Investigate the role of artificial intelligence (AI) in shaping the future of work, analyzing trends in automation, job displacement, and skill requirements across various industries, and assessing the potential impact on employment dynamics and income inequality.
+Output: {
+"keywords": ["role", "artificial intelligence", "AI", "future of work", "trends", "automation", "job displacement", "skill requirements", "industries", "employment dynamics", "income inequality"],
+"years": []
+}
+
+Example 7:
+Query: Evaluate the effectiveness of climate change adaptation strategies in vulnerable coastal regions, considering measures such as coastal defenses, ecosystem-based approaches, and community resilience-building initiatives, and assessing their ability to mitigate risks associated with sea-level rise and extreme weather events.
+Output: {
+"keywords": ["effectiveness", "climate change adaptation strategies", "vulnerable coastal regions", "coastal defenses", "ecosystem-based approaches", "community resilience-building initiatives", "risks", "sea-level rise", "extreme weather events"],
+"years": []
+}
+
+Example 8:
+Query: Examine the interplay between trade policies and environmental sustainability goals, assessing the impact of trade liberalization on deforestation rates, carbon emissions, and biodiversity conservation efforts in regions with high levels of agricultural production and export-oriented industries.
+Output: {
+"keywords": ["interplay", "trade policies", "environmental sustainability goals", "trade liberalization", "deforestation rates", "carbon emissions", "biodiversity conservation efforts", "agricultural production", "export-oriented industries"],
+"years": []
+}
+
+Example 9:
+Query: Assess the implications of demographic trends, such as population aging and urbanization, on healthcare systems and long-term care services in developed countries in 2021, analyzing challenges related to healthcare financing, workforce shortages, and the provision of eldercare services of 2018.
+Output: {
+"keywords": ["implications", "demographic trends", "population aging", "urbanization", "healthcare systems", "long-term care services", "developed countries", "healthcare financing", "workforce shortages", "eldercare services"],
+"years": [2021, 2018]
+}
+
+Example 10:
+Query: Investigate the role of financial technology (fintech) in expanding access to financial services for underserved populations, analyzing the adoption of digital payment platforms, mobile banking solutions, and peer-to-peer lending platforms in emerging markets across Africa, Asia, and Latin America.
+Output: {
+"keywords": ["role", "financial technology", "fintech", "access to financial services", "underserved populations", "digital payment platforms", "mobile banking solutions", "peer-to-peer lending platforms", "emerging markets", "Africa", "Asia", "Latin America"],
+"years": []
+}
+
+Example 11:
+Query: Examine the impact of globalization on income inequality within and between countries, analyzing trends in trade openness, foreign direct investment flows, and income distribution patterns, and assessing the role of policy interventions in promoting inclusive growth and reducing inequality.
+Output: {
+"keywords": ["impact", "globalization", "income inequality", "trade openness", "foreign direct investment flows", "income distribution patterns", "policy interventions", "inclusive growth"],
+"years": []
+}
+
+Example 12:
+Query: Assess the challenges and opportunities of the transition to a circular economy model, examining strategies for resource efficiency, waste reduction, and sustainable consumption and production practices across industries such as manufacturing, construction, and agriculture in 2023.
+Output: {
+"keywords": ["challenges", "opportunities", "transition", "circular economy model", "resource efficiency", "waste reduction", "sustainable consumption", "production practices", "industries", "manufacturing", "construction", "agriculture"],
+"years": [2023]
+}
+
+Example 13:
+Query: Evaluate the role of entrepreneurship in driving innovation and economic growth, analyzing factors such as access to financing, regulatory frameworks, and entrepreneurial ecosystems, and assessing the contribution of startups and small businesses to job creation and wealth generation in recent 4 years.
+Output: {
+"keywords": ["role", "entrepreneurship", "innovation", "economic growth", "access to financing", "regulatory frameworks", "entrepreneurial ecosystems", "startups", "small businesses", "job creation", "wealth generation"],
+"years": [2021, 2022, 2023, 2024]
+}
+
+Example 14:
+Query: Investigate the impact of gender inequality on economic development outcomes, examining disparities in access to education, employment opportunities, and decision-making power, and assessing the effectiveness of policies and interventions aimed at promoting gender equality and women's empowerment.
+Output: {
+"keywords": ["impact", "gender inequality", "economic development outcomes", "access to education", "employment opportunities", "decision-making power", "policies", "interventions", "gender equality", "women's empowerment"],
+"years": []
+}
+
+Example 15:
+Query: Analyze the challenges and opportunities of sustainable urbanization in the context of rapid population growth, resource scarcity, and climate change, examining strategies for inclusive and resilient urban development, and assessing the role of smart technologies and green infrastructure in building sustainable cities.
+Output: {
+"keywords": ["challenges", "opportunities", "sustainable urbanization", "rapid population growth", "resource scarcity", "climate change", "inclusive", "resilient urban development", "smart technologies", "green infrastructure", "sustainable cities"],
+"years": []
+}
+
+Example 16:
+Query: Examine the implications of digital transformation on healthcare delivery and patient outcomes, analyzing the adoption of electronic health records, telemedicine services, and health informatics solutions, and assessing the potential of digital health technologies to improve access, quality, and efficiency of healthcare services.
+Output: {
+"keywords": ["implications", "digital transformation", "healthcare delivery", "patient outcomes", "electronic health records", "telemedicine services", "health informatics solutions", "digital health technologies", "access", "quality", "efficiency", "healthcare services"],
+"years": []
+}
+
+Example 17:
+Query: Assess the socio-economic impacts of the Fourth Industrial Revolution (Industry 4.0) on employment patterns, skills requirements, and income distribution, analyzing trends in automation, artificial intelligence, and robotics across manufacturing, services, and knowledge-based sectors.
+Output: {
+"keywords": ["socio-economic impacts", "Fourth Industrial Revolution", "Industry 4.0", "employment patterns", "skills requirements", "income distribution", "automation", "artificial intelligence", "robotics", "manufacturing", "services", "knowledge-based sectors"],
+"years": []
+}
+
+Example 18:
+Query: Evaluate the effectiveness of international humanitarian assistance in addressing humanitarian crises and complex emergencies, examining challenges related to humanitarian access, coordination, and funding, and assessing the impact of aid interventions on vulnerable populations and humanitarian outcomes in 2010.
+Output: {
+"keywords": ["effectiveness", "international humanitarian assistance", "humanitarian crises", "complex emergencies", "humanitarian access", "coordination", "funding", "aid interventions", "vulnerable populations", "humanitarian outcomes"],
+"years": [2010]
+}
+
+Example 19:
+Query: Examine the role of corporate social responsibility (CSR) in promoting sustainable development goals (SDGs), analyzing corporate strategies for environmental stewardship, social inclusivity, and ethical governance, and assessing the impact of CSR initiatives on business performance and societal well-being for last five years.
+Output: {
+"keywords": ["role", "corporate social responsibility", "CSR", "sustainable development goals", "SDGs", "corporate strategies", "environmental stewardship", "social inclusivity", "ethical governance", "CSR initiatives", "business performance", "societal well-being"],
+"years": [2020, 2021, 2022, 2023, 2024]
+}
+
+Example 20:
+Query: Investigate the challenges and opportunities of digital inclusion in the context of bridging the digital divide, analyzing barriers to internet access, digital literacy, and digital rights, and assessing strategies for promoting digital inclusion and leveraging technology for social and economic development of 2017.
+Output: {
+"keywords": ["challenges", "opportunities", "digital inclusion", "bridging the digital divide", "barriers", "internet access", "digital literacy", "digital rights", "strategies", "promoting digital inclusion", "technology", "social development", "economic development"],
+"years": [2017]
+}
+
+Example 1:
+Query: Provide a detailed analysis of GDP growth rates in major economies over the past decade, presenting the findings in a comparative bar chart format.
+Output: {
+"keywords": ["detailed analysis", "GDP growth rates", "major economies", "past decade"],
+"years": []
+}
+
+Example 2:
+Query: Compare the effectiveness of vaccination campaigns against COVID-19 in different regions, organizing the comparison in a table format with vaccination rates and infection rates.
+Output: {
+"keywords": ["effectiveness", "vaccination campaigns", "COVID-19", "different regions"],
+"years": []
+}
+
+Example 3:
+Query: Summarize the key findings from the latest climate change report published by the Intergovernmental Panel on Climate Change (IPCC), highlighting the main conclusions and recommendations.
+Output: {
+"keywords": ["key findings", "climate change report", "Intergovernmental Panel on Climate Change", "IPCC", "latest"],
+"years": [2024]
+}
+
+Example 4:
+Query: Provide a breakdown of government expenditure on healthcare and education for the fiscal year 2023, presenting the data in a pie chart format.
+Output: {
+"keywords": ["breakdown", "government expenditure", "healthcare", "education", "fiscal year 2023"],
+"years": [2023]
+}
+
+Example 5:
+Query: Analyze the trends in e-commerce sales for the past five years, illustrating the findings with a line graph showing annual growth rates.
+Output: {
+"keywords": ["trends", "e-commerce sales", "past five years"],
+"years": [2023, 2022, 2021, 2020, 2019]
+}
+
+Example 6:
+Query: Evaluate the performance of renewable energy stocks in the stock market over the last quarter, presenting the analysis in a written report format.
+Output: {
+"keywords": ["performance", "renewable energy stocks", "stock market", "last quarter"],
+"years": [2024]
+}
+
+Example 7:
+Query: Describe the methodology used in conducting a survey on consumer preferences towards sustainable products, outlining the sampling technique and data collection process.
+Output: {
+"keywords": ["methodology", "survey", "consumer preferences", "sustainable products"],
+"years": []
+}
+
+Example 8:
+Query: Summarize the main features of the latest smartphone model released by a leading technology company, including specifications and pricing details.
+Output: {
+"keywords": ["main features", "smartphone model", "leading technology company", "specifications", "pricing details"],
+"years": []
+}
+
+Example 9:
+Query: Provide an overview of the quarterly financial report of a multinational corporation, highlighting key financial indicators and performance metrics.
+Output: {
+"keywords": ["overview", "quarterly financial report", "multinational corporation", "financial indicators", "performance metrics"],
+"years": []
+}
+

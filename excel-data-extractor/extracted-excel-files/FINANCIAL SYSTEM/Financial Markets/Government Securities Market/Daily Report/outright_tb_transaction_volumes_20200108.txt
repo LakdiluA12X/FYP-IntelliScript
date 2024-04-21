@@ -1,0 +1,10 @@
+<new sheet>
+sheet_name: Outright MO EVENING REPORT
+Outright Treasury bond transaction volumes as at 07.01.2020,,,
+
+ISIN,Maturity Date,Remaining years,SumOfAmount(Mn)
+,,,0
+Total,,,0
+
+*No transactions for 07.01.2020 ,,,
+

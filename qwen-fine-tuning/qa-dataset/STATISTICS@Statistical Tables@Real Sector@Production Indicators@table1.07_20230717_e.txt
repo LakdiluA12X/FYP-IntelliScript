@@ -1,0 +1,152 @@
+Question: What is the base period for the Greater Colombo Housing Approval Index?
+Answer: The base period for the index is 1995, with a value of 100.
+
+Question: How many housing approvals were granted in 2005 for properties over 2000 sq. ft.?
+Answer: In 2005, there were 5525 housing approvals granted for properties over 2000 sq. ft.
+
+Question: What was the Housing Approval Index for properties between 1000-2000 sq. ft. in 2010?
+Answer: In 2010, the Housing Approval Index for properties between 1000-2000 sq. ft. was 95.04.
+
+Question: How many housing approvals were granted in 2014 for properties under 1000 sq. ft.?
+Answer: In 2014, there were 1101 housing approvals granted for properties under 1000 sq. ft.
+
+Question: What is the source of the data provided?
+Answer: The data is sourced from the Central Bank of Sri Lanka.
+
+Question: Which municipalities are included in the Greater Colombo Housing Approval Index?
+Answer: The municipalities included are Colombo, Dehiwala-Mount Lavinia, Sri Jayawardanapura, Moratuwa, and Kaduwela.
+
+Question: From which year is Mahara Pradeshiya Sabha included in the data?
+Answer: Mahara Pradeshiya Sabha is included in the data from the year 2005.
+
+Question: What change occurred in 2007 regarding data inclusion?
+Answer: In 2007, all data was included except for the Oyabadaperuwa sub-office.
+
+Question: What change occurred from the third quarter of 2011 regarding data categorization?
+Answer: From the third quarter of 2011, Kaduwela Pradesheeya Sabha was re-categorized as Kaduwela Municipal Council.
+
+Question: What was the number of housing approvals in 2022 for properties between 1000-2000 sq. ft.?
+Answer: In 2022, there were 2000 housing approvals granted for properties between 1000-2000 sq. ft.
+
+Question: What was the percentage increase in housing approvals for properties over 2000 sq. ft. from 1995 to 2000?
+Answer: The percentage increase in housing approvals for properties over 2000 sq. ft. from 1995 to 2000 was approximately 16.16%.
+
+Question: In which year did the Housing Approval Index reach its highest value for properties under 1000 sq. ft.?
+Answer: The Housing Approval Index reached its highest value for properties under 1000 sq. ft. in the year 2004.
+
+Question: What was the total number of housing approvals granted in 2017?
+Answer: In 2017, the total number of housing approvals granted was 11843.
+
+Question: How many Urban Councils are included in the Greater Colombo Housing Approval Index?
+Answer: There are 7 Urban Councils included in the index.
+
+Question: What was the percentage decrease in housing approvals for properties between 1000-2000 sq. ft. from 2000 to 2005?
+Answer: The percentage decrease in housing approvals for properties between 1000-2000 sq. ft. from 2000 to 2005 was approximately 5.92%.
+
+Question: What was the total number of housing approvals granted in 2019 for properties over 2000 sq. ft.?
+Answer: In 2019, the total number of housing approvals granted for properties over 2000 sq. ft. was 6543.
+
+Question: How many Pradesheeya Sabha are included in the Greater Colombo Housing Approval Index?
+Answer: There are 8 Pradesheeya Sabha included in the index.
+
+Question: What was the Housing Approval Index for all buildings in 2006?
+Answer: In 2006, the Housing Approval Index for all buildings was 142.65.
+
+Question: What was the percentage increase in housing approvals for properties under 1000 sq. ft. from 2014 to 2015?
+Answer: The percentage increase in housing approvals for properties under 1000 sq. ft. from 2014 to 2015 was approximately 11.39%.
+
+Question: Which year experienced the highest total number of housing approvals?
+Answer: The year that experienced the highest total number of housing approvals was 2006.
+
+Question: What was the percentage change in housing approvals for properties between 1000-2000 sq. ft. from 2010 to 2015?
+Answer: The percentage change in housing approvals for properties between 1000-2000 sq. ft. from 2010 to 2015 was approximately 22.69%.
+
+Question: How many Municipal Councils are included in the Greater Colombo Housing Approval Index?
+Answer: There are 5 Municipal Councils included in the index.
+
+Question: What was the Housing Approval Index for properties over 2000 sq. ft. in 2018?
+Answer: In 2018, the Housing Approval Index for properties over 2000 sq. ft. was 108.40.
+
+Question: What was the total number of housing approvals granted in 2003 for properties under 1000 sq. ft.?
+Answer: In 2003, the total number of housing approvals granted for properties under 1000 sq. ft. was 3772.
+
+Question: Which year experienced the lowest Housing Approval Index for properties between 1000-2000 sq. ft.?
+Answer: The lowest Housing Approval Index for properties between 1000-2000 sq. ft. was experienced in 1999.
+
+Question: What was the percentage decrease in housing approvals for properties over 2000 sq. ft. from 2019 to 2020?
+Answer: The percentage decrease in housing approvals for properties over 2000 sq. ft. from 2019 to 2020 was approximately 35.22%.
+
+Question: How many years experienced a Housing Approval Index above 100 for properties under 1000 sq. ft.?
+Answer: There were 19 years that experienced a Housing Approval Index above 100 for properties under 1000 sq. ft.
+
+Question: What was the total number of housing approvals granted in 2012 for properties over 2000 sq. ft.?
+Answer: In 2012, the total number of housing approvals granted for properties over 2000 sq. ft. was 5616.
+
+Question: What was the percentage change in housing approvals for properties between 1000-2000 sq. ft. from 2015 to 2020?
+Answer: The percentage change in housing approvals for properties between 1000-2000 sq. ft. from 2015 to 2020 was approximately 35.28%.
+
+Question: Which year experienced the highest Housing Approval Index for all buildings?
+Answer: The year that experienced the highest Housing Approval Index for all buildings was 2007.
+
+Question: What was the percentage increase in housing approvals for properties under 1000 sq. ft. from 2000 to 2001?
+Answer: The percentage increase in housing approvals for properties under 1000 sq. ft. from 2000 to 2001 was approximately 0.05%.
+
+Question: How many Urban Councils are included in the Greater Colombo Housing Approval Index?
+Answer: There are 7 Urban Councils included in the index.
+
+Question: What was the total number of housing approvals granted in 2006 for properties between 1000-2000 sq. ft.?
+Answer: In 2006, the total number of housing approvals granted for properties between 1000-2000 sq. ft. was 6702.
+
+Question: What was the Housing Approval Index for properties under 1000 sq. ft. in 2017?
+Answer: In 2017, the Housing Approval Index for properties under 1000 sq. ft. was 21.89.
+
+Question: Which year saw the highest number of housing approvals for properties over 2000 sq. ft.?
+Answer: The year that saw the highest number of housing approvals for properties over 2000 sq. ft. was 2016.
+
+Question: What was the percentage decrease in housing approvals for properties between 1000-2000 sq. ft. from 2019 to 2020?
+Answer: The percentage decrease in housing approvals for properties between 1000-2000 sq. ft. from 2019 to 2020 was approximately 29.24%.
+
+Question: How many Pradesheeya Sabha are included in the Greater Colombo Housing Approval Index?
+Answer: There are 8 Pradesheeya Sabha included in the index.
+
+Question: What was the total number of housing approvals granted in 2014 for properties between 1000-2000 sq. ft.?
+Answer: In 2014, the total number of housing approvals granted for properties between 1000-2000 sq. ft. was 4458.
+
+Question: What was the percentage change in housing approvals for properties over 2000 sq. ft. from 2008 to 2009?
+Answer: The percentage change in housing approvals for properties over 2000 sq. ft. from 2008 to 2009 was approximately 42.76%.
+
+Question: Which year experienced the lowest Housing Approval Index for all buildings?
+Answer: The year that experienced the lowest Housing Approval Index for all buildings was 2009.
+
+Question: What was the percentage change in housing approvals for properties under 1000 sq. ft. from 1995 to 2005?
+Answer: The percentage change in housing approvals for properties under 1000 sq. ft. from 1995 to 2005 was approximately 2.24%.
+
+Question: How many Municipal Councils are included in the Greater Colombo Housing Approval Index?
+Answer: There are 5 Municipal Councils included in the index.
+
+Question: What was the total number of housing approvals granted in 2012 for properties over 2000 sq. ft.?
+Answer: In 2012, the total number of housing approvals granted for properties over 2000 sq. ft. was 5616.
+
+Question: What was the Housing Approval Index for properties between 1000-2000 sq. ft. in 2003?
+Answer: In 2003, the Housing Approval Index for properties between 1000-2000 sq. ft. was 108.53.
+
+Question: Which year witnessed the highest percentage increase in housing approvals for properties between 1000-2000 sq. ft.?
+Answer: The year that witnessed the highest percentage increase in housing approvals for properties between 1000-2000 sq. ft. was 2006.
+
+Question: What was the percentage decrease in housing approvals for properties under 1000 sq. ft. from 2019 to 2020?
+Answer: The percentage decrease in housing approvals for properties under 1000 sq. ft. from 2019 to 2020 was approximately 27.02%.
+
+Question: How many Pradesheeya Sabha were included in the Greater Colombo Housing Approval Index in 2015?
+Answer: In 2015, a total of 8 Pradesheeya Sabha were included in the index.
+
+Question: What was the total number of housing approvals granted in 2007 for properties between 1000-2000 sq. ft.?
+Answer: In 2007, the total number of housing approvals granted for properties between 1000-2000 sq. ft. was 5757.
+
+Question: What was the percentage change in housing approvals for properties over 2000 sq. ft. from 2013 to 2014?
+Answer: The percentage change in housing approvals for properties over 2000 sq. ft. from 2013 to 2014 was approximately 11.33%.
+
+Question: Which year experienced the highest Housing Approval Index for all buildings?
+Answer: The year that experienced the highest Housing Approval Index for all buildings was 2006.
+
+
+========================================================================================= 50 =============================================================================

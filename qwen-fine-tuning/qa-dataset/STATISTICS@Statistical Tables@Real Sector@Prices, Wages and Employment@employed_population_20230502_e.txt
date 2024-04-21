@@ -1,0 +1,371 @@
+Question: How many persons were employed in the Public Sector in 2018 Annual?
+Answer: There were 1,158,473.68 persons employed in the Public Sector in 2018 Annual.
+
+Question: What was the number of Employers in 2019 Q3?
+Answer: The number of Employers in 2019 Q3 was 210,022.
+
+Question: How many persons were Contributing Family Workers in 2021 Annual?
+Answer: There were 440,000 persons Contributing Family Workers in 2021 Annual.
+
+Question: What was the number of Employers in 2020 Q2?
+Answer: The number of Employers in 2020 Q2 was 181,637.
+
+Question: How many persons were employed in the Private Sector in 2022 Q2 (b)?
+Answer: There were 3,491,636.36 persons employed in the Private Sector in 2022 Q2 (b).
+
+Question: What was the number of Own Account Workers in 2019 Q1?
+Answer: The number of Own Account Workers in 2019 Q1 was 2,658,082.04.
+
+Question: How many persons were employed in Agriculture in 2018 Annual?
+Answer: There were 2,043,697.84 persons employed in Agriculture in 2018 Annual.
+
+Question: What was the number of Employers in 2020 Annual?
+Answer: The number of Employers in 2020 Annual was 202,787.66.
+
+Question: How many persons were Employed in the Services sector in 2021 Q4?
+Answer: There were 3,791,011 persons Employed in the Services sector in 2021 Q4.
+
+Question: What was the number of Contributing Family Workers in 2021 Q1?
+Answer: The number of Contributing Family Workers in 2021 Q1 was 587,845.91.
+
+Question: How many persons were Employed in the Industry sector in 2019 Q4?
+Answer: There were 2,206,969 persons Employed in the Industry sector in 2019 Q4.
+
+Question: What was the number of Employers in 2021 Q3?
+Answer: The number of Employers in 2021 Q3 was 234,572.94.
+
+Question: How many persons were employed in the Public Sector in 2020 Q1?
+Answer: There were 1,198,722.07 persons employed in the Public Sector in 2020 Q1.
+
+Question: What was the number of Employers in 2021 Q1?
+Answer: The number of Employers in 2021 Q1 was 223,674.62.
+
+Question: How many persons were Contributing Family Workers in 2018 Annual?
+Answer: There were 574,814.41 persons Contributing Family Workers in 2018 Annual.
+
+Question: What was the number of Employers in 2020 Q4?
+Answer: The number of Employers in 2020 Q4 was 185,220.
+
+Question: How many persons were Employed in the Industry sector in 2020 Annual?
+Answer: There were 2,128,028.18 persons Employed in the Industry sector in 2020 Annual.
+
+Question: What was the number of Employers in 2018 Q2?
+Answer: The number of Employers in 2018 Q2 was 217,320.82.
+
+Question: How many persons were employed in the Private Sector in 2019 Q1?
+Answer: There were 3,511,849.09 persons employed in the Private Sector in 2019 Q1.
+
+Question: What was the number of Employers in 2022 Annual (b)?
+Answer: The number of Employers in 2022 Annual (b) was 2,274,435.42.
+
+Question: How many persons were Employed in the Services sector in 2020 Q2?
+Answer: There were 3,444,067 persons Employed in the Services sector in 2020 Q2.
+
+Question: What was the number of Own Account Workers in 2019 Annual?
+Answer: The number of Own Account Workers in 2019 Annual was 2,658,735.23.
+
+Question: How many persons were Contributing Family Workers in 2019 Q2?
+Answer: There were 540,744 persons Contributing Family Workers in 2019 Q2.
+
+Question: What was the number of Employers in 2021 Annual?
+Answer: The number of Employers in 2021 Annual was 227,435.42.
+
+Question: How many persons were Employed in the Industry sector in 2020 Q3?
+Answer: There were 2,188,330.04 persons Employed in the Industry sector in 2020 Q3.
+
+Question: What was the number of Employers in 2019 Q1?
+Answer: The number of Employers in 2019 Q1 was 221,194.07.
+
+Question: How many persons were Employed in the Services sector in 2022 Q1 (b)?
+Answer: There were 3,810,178.39 persons Employed in the Services sector in 2022 Q1 (b).
+
+Question: What was the number of Employers in 2019 Q4?
+Answer: The number of Employers in 2019 Q4 was 202,962.
+
+Question: How many persons were Employed in the Services sector in 2018 Annual?
+Answer: There were 3,732,205.67 persons Employed in the Services sector in 2018 Annual.
+
+Question: What was the number of Employers in 2019 Annual?
+Answer: The number of Employers in 2019 Annual was 209,159.27.
+
+Question: How many persons were Employed in the Private Sector in 2019 Annual?
+Answer: There were 3,526,894 persons Employed in the Private Sector in 2019 Annual.
+
+Question: What was the number of Employers in 2021 Q4?
+Answer: The number of Employers in 2021 Q4 was 253,639.
+
+Question: How many persons were Employed in Agriculture in 2019 Q3?
+Answer: There were 2,062,790 persons Employed in Agriculture in 2019 Q3.
+
+Question: What was the number of Own Account Workers in 2021 Q2?
+Answer: The number of Own Account Workers in 2021 Q2 was 2,675,164.78.
+
+Question: How many persons were Employed in the Services sector in 2021 Q1?
+Answer: There were 3,870,360.82 persons Employed in the Services sector in 2021 Q1.
+
+Question: What was the number of Employers in 2020 Q3?
+Answer: The number of Employers in 2020 Q3 was 241,361.
+
+Question: How many persons were Contributing Family Workers in 2020 Annual?
+Answer: There were 477,878.48 persons Contributing Family Workers in 2020 Annual.
+
+Question: What was the number of Employers in 2019 Q3?
+Answer: The number of Employers in 2019 Q3 was 206,332.
+
+Question: How many persons were Employed in the Public Sector in 2020 Q4?
+Answer: There were 1,202,137 persons Employed in the Public Sector in 2020 Q4.
+
+Question: What was the number of Employers in 2022 Q2 (b)?
+Answer: The number of Employers in 2022 Q2 (b) was 363,136.36.
+
+Question: How many persons were Employed in the Industry sector in 2022 Q1 (b)?
+Answer: There were 2,158,558.79 persons Employed in the Industry sector in 2022 Q1 (b).
+
+Question: What was the number of Employers in 2021 Q2?
+Answer: The number of Employers in 2021 Q2 was 215,256.88.
+
+Question: How many persons were Employed in the Industry sector in 2019 Q1?
+Answer: There were 2,212,194.07 persons Employed in the Industry sector in 2019 Q1.
+
+Question: What was the number of Employers in 2018 Q3?
+Answer: The number of Employers in 2018 Q3 was 206,332.
+
+Question: How many persons were Employed in the Private Sector in 2020 Q1?
+Answer: There were 3,423,602.21 persons Employed in the Private Sector in 2020 Q1.
+
+Question: What was the number of Employers in 2019 Q2?
+Answer: The number of Employers in 2019 Q2 was 217,320.82.
+
+Question: How many persons were Employed in the Private Sector in 2021 Q4?
+Answer: There were 3,374,982.46 persons Employed in the Private Sector in 2021 Q4.
+
+Question: What was the number of Employers in 2020 Q1?
+Answer: The number of Employers in 2020 Q1 was 202,932.62.
+
+Question: How many persons were Employed in the Services sector in 2020 Q4?
+Answer: There were 3,399,321.98 persons Employed in the Services sector in 2020 Q4.
+
+Question: What was the number of Employers in 2021 Annual?
+Answer: The number of Employers in 2021 Annual was 236,581.15.
+
+Question: How many persons were Employed in the Services sector in 2018 Annual?
+Answer: There were 3,850,331.56 persons Employed in the Services sector in 2018 Annual.
+
+Question: What was the number of Employers in 2022 Q3 (b)?
+Answer: The number of Employers in 2022 Q3 (b) was 419,000.
+
+Question: How many persons were Employed in the Public Sector in 2019 Q1?
+Answer: There were 1,228,972.97 persons Employed in the Public Sector in 2019 Q1.
+
+Question: What was the number of Employers in 2021 Q1?
+Answer: The number of Employers in 2021 Q1 was 223,674.62.
+
+Question: How many persons were Employed in the Services sector in 2021 Q2?
+Answer: There were 3,810,178.39 persons Employed in the Services sector in 2021 Q2.
+
+Question: What was the number of Employers in 2019 Q4?
+Answer: The number of Employers in 2019 Q4 was 202,962.
+
+Question: How many persons were Employed in Agriculture in 2020 Q3?
+Answer: There were 2,061,630.28 persons Employed in Agriculture in 2020 Q3.
+
+Question: What was the number of Employers in 2020 Annual?
+Answer: The number of Employers in 2020 Annual was 202,787.66.
+
+Question: How many persons were Employed in the Public Sector in 2022 Annual (b)?
+Answer: There were 1,223,788.17 persons Employed in the Public Sector in 2022 Annual (b).
+
+Question: What was the number of Employers in 2018 Q2?
+Answer: The number of Employers in 2018 Q2 was 217,320.82.
+
+Question: How many persons were Employed in the Industry sector in 2021 Q3?
+Answer: There were 1,969,427.38 persons Employed in the Industry sector in 2021 Q3.
+
+Question: What was the number of Employers in 2020 Q2?
+Answer: The number of Employers in 2020 Q2 was 181,637.
+
+Question: What was the number of Contributing Family Workers in 2019 Q3?
+Answer: The number of Contributing Family Workers in 2019 Q3 was 604,766.
+
+Question: How many persons were Employed in the Private Sector in 2021 Annual?
+Answer: There were 3,490,664.36 persons Employed in the Private Sector in 2021 Annual.
+
+Question: What was the number of Employers in 2019 Q1?
+Answer: The number of Employers in 2019 Q1 was 221,194.07.
+
+Question: How many persons were Employed in the Services sector in 2022 Q1 (b)?
+Answer: There were 3,830,973.10 persons Employed in the Services sector in 2022 Q1 (b).
+
+Question: What was the number of Employers in 2018 Q4?
+Answer: The number of Employers in 2018 Q4 was 202,962.
+
+Question: How many persons were Employed in Agriculture in 2018 Annual?
+Answer: There were 2,043,697.84 persons Employed in Agriculture in 2018 Annual.
+
+Question: What was the number of Employers in 2019 Annual?
+Answer: The number of Employers in 2019 Annual was 202,962.
+
+Question: How many persons were Employed in the Public Sector in 2022 Q2 (b)?
+Answer: There were 1,253,145 persons Employed in the Public Sector in 2022 Q2 (b).
+
+Question: What was the number of Employers in 2021 Q4?
+Answer: The number of Employers in 2021 Q4 was 392,228.
+
+Question: How many persons were Employed in the Public Sector in 2022 Q4 (b)?
+Answer: There were 1,213,037.15 persons Employed in the Public Sector in 2022 Q4 (b).
+
+Question: What was the number of Employers in 2021 Q1?
+Answer: The number of Employers in 2021 Q1 was 215,256.88.
+
+Question: How many persons were Employed in the Industry sector in 2022 Q2 (b)?
+Answer: There were 2,343,510.91 persons Employed in the Industry sector in 2022 Q2 (b).
+
+Question: What was the number of Employers in 2022 Annual (b)?
+Answer: The number of Employers in 2022 Annual (b) was 236,581.15.
+
+Question: How many persons were Employed in the Services sector in 2019 Annual?
+Answer: There were 3,850,331.56 persons Employed in the Services sector in 2019 Annual.
+
+Question: What was the number of Employers in 2021 Q2?
+Answer: The number of Employers in 2021 Q2 was 215,256.88.
+
+Question: How many persons were Employed in the Industry sector in 2019 Q2?
+Answer: There were 2,312,670.57 persons Employed in the Industry sector in 2019 Q2.
+
+Question: What was the number of Employers in 2022 Q1 (b)?
+Answer: The number of Employers in 2022 Q1 (b) was 253,639.
+
+Question: How many persons were Employed in the Private Sector in 2021 Q1?
+Answer: There were 3,439,602.21 persons Employed in the Private Sector in 2021 Q1.
+
+Question: What was the number of Employers in 2022 Q3 (b)?
+Answer: The number of Employers in 2022 Q3 (b) was 419,000.
+
+Question: How many persons were Employed in the Public Sector in 2021 Q3?
+Answer: There were 1,219,791 persons Employed in the Public Sector in 2021 Q3.
+
+Question: What was the number of Employers in 2022 Q4 (b)?
+Answer: The number of Employers in 2022 Q4 (b) was 406,000.
+
+Question: How many persons were Employed in the Industry sector in 2022 Annual (b)?
+Answer: There were 2,273,617.81 persons Employed in the Industry sector in 2022 Annual (b).
+
+Question: What was the number of Employers in 2019 Q4?
+Answer: The number of Employers in 2019 Q4 was 202,962.
+
+Question: How many persons were Employed in the Private Sector in 2021 Q3?
+Answer: There were 3,410,408 persons Employed in the Private Sector in 2021 Q3.
+
+Question: What was the number of Employers in 2021 Q3?
+Answer: The number of Employers in 2021 Q3 was 217,827.61.
+
+Question: How many persons were Employed in the Services sector in 2019 Q3?
+Answer: There were 3,889,307 persons Employed in the Services sector in 2019 Q3.
+
+Question: What was the number of Employers in 2020 Q4?
+Answer: The number of Employers in 2020 Q4 was 241,361.
+
+Question: How many persons were Employed in the Private Sector in 2020 Annual?
+Answer: There were 3,416,996.43 persons Employed in the Private Sector in 2020 Annual.
+
+Question: What was the number of Employers in 2020 Q2?
+Answer: The number of Employ
+
+Question: How many persons were Employed in the Public Sector in 2021 Q2?
+Answer: There were 8538 persons Employed in the Public Sector in 2021 Q2.
+
+Question: What was the number of Employers in 2019 Annual?
+Answer: The number of Employers in 2019 Annual was 227,435.
+
+Question: How many persons were Employed in the Private Sector in 2018 Annual?
+Answer: There were 3,511,849.09 persons Employed in the Private Sector in 2018 Annual.
+
+Question: What was the number of Employers in 2021 Q4?
+Answer: The number of Employers in 2021 Q4 was 392,228.
+
+Question: How many persons were Employed in the Public Sector in 2022 Q3 (b)?
+Answer: There were 1,213,037.15 persons Employed in the Public Sector in 2022 Q3 (b).
+
+Question: What was the number of Employers in 2021 Q1?
+Answer: The number of Employers in 2021 Q1 was 223,674.62.
+
+Question: How many persons were Employed in the Private Sector in 2018 Q3?
+Answer: There were 3,564,901 persons Employed in the Private Sector in 2018 Q3.
+
+Question: What was the number of Employers in 2019 Q3?
+Answer: The number of Employers in 2019 Q3 was 210,022.
+
+Question: How many persons were Employed in the Public Sector in 2020 Q2?
+Answer: There were 1,183,456 persons Employed in the Public Sector in 2020 Q2.
+
+Question: What was the number of Employers in 2021 Q2?
+Answer: The number of Employers in 2021 Q2 was 215,256.88.
+
+Question: How many persons were Employed in the Private Sector in 2022 Q4 (b)?
+Answer: There were 3,370,826.45 persons Employed in the Private Sector in 2022 Q4 (b).
+
+Question: What was the number of Employers in 2019 Q1?
+Answer: The number of Employers in 2019 Q1 was 221,194.07.
+
+Question: How many persons were Employed in the Public Sector in 2021 Q1?
+Answer: There were 2,236,584.64 persons Employed in the Public Sector in 2021 Q1.
+
+Question: What was the number of Employers in 2022 Q2 (b)?
+Answer: The number of Employers in 2022 Q2 (b) was 363,136.
+
+Question: How many persons were Employed in the Private Sector in 2019 Q4?
+Answer: There were 3,479,494 persons Employed in the Private Sector in 2019 Q4.
+
+Question: What was the number of Employers in 2020 Q3?
+Answer: The number of Employers in 2020 Q3 was 241,361.
+
+Question: How many persons were Employed in the Public Sector in 2021 Q3?
+Answer: There were 2,197,911 persons Employed in the Public Sector in 2021 Q3.
+
+Question: What was the number of Employers in 2020 Q4?
+Answer: The number of Employers in 2020 Q4 was 202,787.66.
+
+Question: How many persons were Employed in the Private Sector in 2021 Q3?
+Answer: There were 3,410,408 persons Employed in the Private Sector in 2021 Q3.
+
+Question: What was the number of Employers in 2018 Q4?
+Answer: The number of Employers in 2018 Q4 was 202,962.
+
+Question: How many persons were Employed in the Public Sector in 2021 Q4?
+Answer: There were 2,131,037.15 persons Employed in the Public Sector in 2021 Q4.
+
+Question: What was the number of Employers in 2022 Q1 (b)?
+Answer: The number of Employers in 2022 Q1 (b) was 253,639.
+
+Question: How many persons were Employed in the Private Sector in 2021 Q4?
+Answer: There were 3,374,982.46 persons Employed in the Private Sector in 2021 Q4.
+
+Question: What was the number of Employers in 2019 Q2?
+Answer: The number of Employers in 2019 Q2 was 217,320.82.
+
+Question: How many persons were Employed in the Public Sector in 2022 Q1 (b)?
+Answer: There were 2,217,911.15 persons Employed in the Public Sector in 2022 Q1 (b).
+
+Question: What was the number of Employers in 2021 Q3?
+Answer: The number of Employers in 2021 Q3 was 217,827.61.
+
+Question: How many persons were Employed in the Private Sector in 2022 Annual (b)?
+Answer: There were 3,496,636.36 persons Employed in the Private Sector in 2022 Annual (b).
+
+Question: What was the number of Employers in 2021 Q2?
+Answer: The number of Employers in 2021 Q2 was 215,256.88.
+
+Question: How many persons were Employed in the Public Sector in 2019 Q4?
+Answer: There were 2,019,062 persons Employed in the Public Sector in 2019 Q4.
+
+Question: What was the number of Employers in 2020 Q1?
+Answer: The number of Employers in 2020 Q1 was 202,932.62.
+
+Question: How many persons were Employed in the Private Sector in 2022 Q3 (b)?
+Answer: There were 3,370,826.45 persons Employed in the Private Sector in 2022 Q3 (b).
+
+Question: What was the number of Employers in 2018 Q3?
+Answer: The number of Employers in 2018 Q3 was 206,332.
+
+Question: How many persons were Employed in the Public Sector in 2021 Q1?
+Answer: There were 2,236,584.64 persons Employed in the Public Sector in 2021 Q1.

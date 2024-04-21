@@ -1,0 +1,339 @@
+Question: What was the Compensation of Employees in 2017?
+Answer: The Compensation of Employees in 2017 was Rs. 3,711,625.92 million.
+Keywords: Compensation of Employees, 2017
+
+Question: What was the Gross Operating Surplus in 2019?
+Answer: The Gross Operating Surplus in 2019 was Rs. 5,072,569.54 million.
+Keywords: Gross Operating Surplus, 2019
+
+Question: How much was the Gross Mixed Income in 2021?
+Answer: The Gross Mixed Income in 2021 was Rs. 5,751,672.90 million.
+Keywords: Gross Mixed Income, 2021
+
+Question: What was the Other taxes less subsidies on production in 2018?
+Answer: The Other taxes less subsidies on production in 2018 was Rs. 89,210.86 million.
+Keywords: Other taxes, subsidies, production, 2018
+
+Question: What was the Net Operating Surplus in 2020?
+Answer: The Net Operating Surplus in 2020 was Rs. 4,203,296.36 million.
+Keywords: Net Operating Surplus, 2020
+
+Question: How much was the Gross Value Added (GVA) at Basic Price in 2016?
+Answer: The Gross Value Added (GVA) at Basic Price in 2016 was Rs. 11,680,640.91 million.
+Keywords: Gross Value Added, GVA, Basic Price, 2016
+
+Question: What was the Net Mixed Income in 2019?
+Answer: The Net Mixed Income in 2019 was Rs. 4,865,483.98 million.
+Keywords: Net Mixed Income, 2019
+
+Question: How much was the Consumption of Fixed capital in 2017?
+Answer: The Consumption of Fixed capital in 2017 was Rs. 670,497.47 million.
+Keywords: Consumption of Fixed capital, 2017
+
+Question: What was the Gross Domestic Product (GDP) at Market Price in 2022?
+Answer: The Gross Domestic Product (GDP) at Market Price in 2022 was Rs. 24,147,726.16 million.
+Keywords: Gross Domestic Product, GDP, Market Price, 2022
+
+Question: How much were the Other taxes less subsidies on production in 2016?
+Answer: The Other taxes less subsidies on production in 2016 was Rs. 79,275.67 million.
+Keywords: Other taxes, subsidies, production, 2016
+
+Question: What was the Compensation of Employees in 2018?
+Answer: The Compensation of Employees in 2018 was Rs. 4,112,480.29 million.
+Keywords: Compensation of Employees, 2018
+
+Question: How much was the Net Operating Surplus in 2021?
+Answer: The Net Operating Surplus in 2021 was Rs. 4,985,109.44 million.
+Keywords: Net Operating Surplus, 2021
+
+Question: What was the Gross Mixed Income in 2016?
+Answer: The Gross Mixed Income in 2016 was Rs. 4,081,822.31 million.
+Keywords: Gross Mixed Income, 2016
+
+Question: How much was the Consumption of Fixed capital in 2018?
+Answer: The Consumption of Fixed capital in 2018 was Rs. 670,497.47 million.
+Keywords: Consumption of Fixed capital, 2018
+
+Question: What was the Gross Domestic Product (GDP) at Market Price in 2017?
+Answer: The Gross Domestic Product (GDP) at Market Price in 2017 was Rs. 14,387,319.01 million.
+Keywords: Gross Domestic Product, GDP, Market Price, 2017
+
+Question: How much were the Other taxes less subsidies on production in 2019?
+Answer: The Other taxes less subsidies on production in 2019 was Rs. 90,841.10 million.
+Keywords: Other taxes, subsidies, production, 2019
+
+Question: What was the Gross Value Added (GVA) at Basic Price in 2021?
+Answer: The Gross Value Added (GVA) at Basic Price in 2021 was Rs. 16,622,512.95 million.
+Keywords: Gross Value Added, GVA, Basic Price, 2021
+
+Question: How much was the Gross Operating Surplus in 2016?
+Answer: The Gross Operating Surplus in 2016 was Rs. 4,062,078.46 million.
+Keywords: Gross Operating Surplus, 2016
+
+Question: What was the Compensation of Employees in 2019?
+Answer: The Compensation of Employees in 2019 was Rs. 4,396,682.24 million.
+Keywords: Compensation of Employees, 2019
+
+Question: How much was the Net Mixed Income in 2018?
+Answer: The Net Mixed Income in 2018 was Rs. 4,570,318.81 million.
+Keywords: Net Mixed Income, 2018
+
+Question: What was the Consumption of Fixed capital in 2022?
+Answer: The Consumption of Fixed capital in 2022 was Rs. 1,043,235.74 million.
+Keywords: Consumption of Fixed capital, 2022
+
+Question: How much were the Other taxes less subsidies on production in 2020?
+Answer: The Other taxes less subsidies on production in 2020 was Rs. 41,113.36 million.
+Keywords: Other taxes, subsidies, production, 2020
+
+Question: What was the Gross Mixed Income in 2020?
+Answer: The Gross Mixed Income in 2020 was Rs. 5,171,092.52 million.
+Keywords: Gross Mixed Income, 2020
+
+Question: How much was the Net Operating Surplus in 2018?
+Answer: The Net Operating Surplus in 2018 was Rs. 4,336,965.83 million.
+Keywords: Net Operating Surplus, 2018
+
+Question: What was the Gross Domestic Product (GDP) at Market Price in 2016?
+Answer: The Gross Domestic Product (GDP) at Market Price in 2016 was Rs. 12,812,974.75 million.
+Keywords: Gross Domestic Product, GDP, Market Price, 2016
+
+Question: How much were the Other taxes less subsidies on production in 2017?
+Answer: The Other taxes less subsidies on production in 2017 was Rs. 82,489.38 million.
+Keywords: Other taxes, subsidies, production, 2017
+
+Question: What was the Gross Operating Surplus in 2021?
+Answer: The Gross Operating Surplus in 2021 was Rs. 5,780,049.72 million.
+Keywords: Gross Operating Surplus, 2021
+
+Question: How much was the Compensation of Employees in 2020?
+Answer: The Compensation of Employees in 2020 was Rs. 4,616,787.51 million.
+Keywords: Compensation of Employees, 2020
+
+Question: What was the Gross Value Added (GVA) at Basic Price in 2019?
+Answer: The Gross Value Added (GVA) at Basic Price in 2019 was Rs. 14,668,824.09 million.
+Keywords: Gross Value Added, GVA, Basic Price, 2019
+
+Question: How much was the Net Operating Surplus in 2017?
+Answer: The Net Operating Surplus in 2017 was Rs. 4,215,007.02 million.
+Keywords: Net Operating Surplus, 2017
+
+Question: What was the Consumption of Fixed capital in 2021?
+Answer: The Consumption of Fixed capital in 2021 was Rs. 1,043,235.74 million.
+Keywords: Consumption of Fixed capital, 2021
+
+Question: What was the Gross Domestic Product (GDP) at Market Price in 2018?
+Answer: The Gross Domestic Product (GDP) at Market Price in 2018 was Rs. 15,351,933.46 million.
+Keywords: Gross Domestic Product, GDP, Market Price, 2018
+
+Question: How much were the Other taxes less subsidies on production in 2016?
+Answer: The Other taxes less subsidies on production in 2016 was Rs. 79,275.67 million.
+Keywords: Other taxes, subsidies, production, 2016
+
+Question: What was the Gross Mixed Income in 2018?
+Answer: The Gross Mixed Income in 2018 was Rs. 4,802,042.67 million.
+Keywords: Gross Mixed Income, 2018
+
+Question: How much was the Compensation of Employees in 2016?
+Answer: The Compensation of Employees in 2016 was Rs. 3,457,464.47 million.
+Keywords: Compensation of Employees, 2016
+
+Question: What was the Net Mixed Income in 2021?
+Answer: The Net Mixed Income in 2021 was Rs. 5,486,754.99 million.
+Keywords: Net Mixed Income, 2021
+
+Question: What was the Gross Operating Surplus in 2019?
+Answer: The Gross Operating Surplus in 2019 was Rs. 5,072,569.54 million.
+Keywords: Gross Operating Surplus, 2019
+
+Question: How much was the Consumption of Fixed capital in 2018?
+Answer: The Consumption of Fixed capital in 2018 was Rs. 670,497.47 million.
+Keywords: Consumption of Fixed capital, 2018
+
+Question: What was the Gross Mixed Income in 2016?
+Answer: The Gross Mixed Income in 2016 was Rs. 4,081,822.31 million.
+Keywords: Gross Mixed Income, 2016
+
+Question: How much was the Gross Domestic Product (GDP) at Market Price in 2020?
+Answer: The Gross Domestic Product (GDP) at Market Price in 2020 was Rs. 15,671,535.55 million.
+Keywords: Gross Domestic Product, GDP, Market Price, 2020
+
+Question: What was the Net Operating Surplus in 2020?
+Answer: The Net Operating Surplus in 2020 was Rs. 4,203,296.36 million.
+Keywords: Net Operating Surplus, 2020
+
+Question: How much were the Other taxes less subsidies on production in 2018?
+Answer: The Other taxes less subsidies on production in 2018 was Rs. 89,210.86 million.
+Keywords: Other taxes, subsidies, production, 2018
+
+Question: What was the Gross Value Added (GVA) at Basic Price in 2021?
+Answer: The Gross Value Added (GVA) at Basic Price in 2021 was Rs. 16,622,512.95 million.
+Keywords: Gross Value Added, GVA, Basic Price, 2021
+
+Question: How much was the Gross Domestic Product (GDP) at Market Price in 2017?
+Answer: The Gross Domestic Product (GDP) at Market Price in 2017 was Rs. 14,387,319.01 million.
+Keywords: Gross Domestic Product, GDP, Market Price, 2017
+
+Question: What was the Consumption of Fixed capital in 2017?
+Answer: The Consumption of Fixed capital in 2017 was Rs. 670,497.47 million.
+Keywords: Consumption of Fixed capital, 2017
+
+Question: How much were the Other taxes less subsidies on production in 2019?
+Answer: The Other taxes less subsidies on production in 2019 was Rs. 90,841.10 million.
+Keywords: Other taxes, subsidies, production, 2019
+
+Question: What was the Gross Value Added (GVA) at Basic Price in 2018?
+Answer: The Gross Value Added (GVA) at Basic Price in 2018 was Rs. 14,014,197.13 million.
+Keywords: Gross Value Added, GVA, Basic Price, 2018
+
+Question: How much was the Gross Operating Surplus in 2016?
+Answer: The Gross Operating Surplus in 2016 was Rs. 4,062,078.46 million.
+Keywords: Gross Operating Surplus, 2016
+
+Question: What was the Compensation of Employees in 2019?
+Answer: The Compensation of Employees in 2019 was Rs. 4,396,682.24 million.
+Keywords: Compensation of Employees, 2019
+
+Question: How much was the Net Mixed Income in 2018?
+Answer: The Net Mixed Income in 2018 was Rs. 4,570,318.81 million.
+Keywords: Net Mixed Income, 2018
+
+Question: What was the Consumption of Fixed capital in 2022?
+Answer: The Consumption of Fixed capital in 2022 was Rs. 1,043,235.74 million.
+Keywords: Consumption of Fixed capital, 2022
+
+Question: What was the Gross Domestic Product (GDP) at Market Price in 2016?
+Answer: The Gross Domestic Product (GDP) at Market Price in 2016 was Rs. 12,812,974.75 million.
+Keywords: Gross Domestic Product, GDP, Market Price, 2016
+
+Question: How much were the Other taxes less subsidies on production in 2022?
+Answer: The Other taxes less subsidies on production in 2022 was Rs. 56,710.29 million.
+Keywords: Other taxes, subsidies, production, 2022
+
+Question: What was the Gross Value Added (GVA) at Basic Price in 2020?
+Answer: The Gross Value Added (GVA) at Basic Price in 2020 was Rs. 14,757,475.15 million.
+Keywords: Gross Value Added, GVA, Basic Price, 2020
+
+Question: How much was the Gross Mixed Income in 2017?
+Answer: The Gross Mixed Income in 2017 was Rs. 4,461,764.16 million.
+Keywords: Gross Mixed Income, 2017
+
+Question: What was the Net Operating Surplus in 2018?
+Answer: The Net Operating Surplus in 2018 was Rs. 4,335,965.83 million.
+Keywords: Net Operating Surplus, 2018
+
+Question: What was the Gross Operating Surplus in 2018?
+Answer: The Gross Operating Surplus in 2018 was Rs. 5,010,463.30 million.
+Keywords: Gross Operating Surplus, 2018
+
+Question: How much was the Compensation of Employees in 2021?
+Answer: The Compensation of Employees in 2021 was Rs. 5,047,287.72 million.
+Keywords: Compensation of Employees, 2021
+
+Question: What was the Net Mixed Income in 2020?
+Answer: The Net Mixed Income in 2020 was Rs. 4,928,667.01 million.
+Keywords: Net Mixed Income, 2020
+
+Question: How much were the Other taxes less subsidies on production in 2016?
+Answer: The Other taxes less subsidies on production in 2016 was Rs. 79,275.67 million.
+Keywords: Other taxes, subsidies, production, 2016
+
+Question: What was the Gross Domestic Product (GDP) at Market Price in 2021?
+Answer: The Gross Domestic Product (GDP) at Market Price in 2021 was Rs. 17,600,190.55 million.
+Keywords: Gross Domestic Product, GDP, Market Price, 2021
+
+Question: How much was the Gross Mixed Income in 2019?
+Answer: The Gross Mixed Income in 2019 was Rs. 5,101,731.21 million.
+Keywords: Gross Mixed Income, 2019
+
+Question: What was the Consumption of Fixed capital in 2019?
+Answer: The Consumption of Fixed capital in 2019 was Rs. 686,156.86 million.
+Keywords: Consumption of Fixed capital, 2019
+
+Question: How much were the Other taxes less subsidies on production in 2021?
+Answer: The Other taxes less subsidies on production in 2021 was Rs. 977,677.61 million.
+Keywords: Other taxes, subsidies, production, 2021
+
+Question: What was the Gross Operating Surplus in 2017?
+Answer: The Gross Operating Surplus in 2017 was Rs. 4,803,588.99 million.
+Keywords: Gross Operating Surplus, 2017
+
+Question: What was the Net Operating Surplus in 2021?
+Answer: The Net Operating Surplus in 2021 was Rs. 4,985,109.44 million.
+Keywords: Net Operating Surplus, 2021
+
+Question: How much was the Gross Domestic Product (GDP) at Market Price in 2016?
+Answer: The Gross Domestic Product (GDP) at Market Price in 2016 was Rs. 12,812,974.75 million.
+Keywords: Gross Domestic Product, GDP, Market Price, 2016
+
+Question: What was the Gross Operating Surplus in 2020?
+Answer: The Gross Operating Surplus in 2020 was Rs. 4,928,481.76 million.
+Keywords: Gross Operating Surplus, 2020
+
+Question: How much was the Net Operating Surplus in 2019?
+Answer: The Net Operating Surplus in 2019 was Rs. 4,386,412.68 million.
+Keywords: Net Operating Surplus, 2019
+
+Question: What was the Consumption of Fixed capital in 2018?
+Answer: The Consumption of Fixed capital in 2018 was Rs. 670,497.47 million.
+Keywords: Consumption of Fixed capital, 2018
+
+Question: How much were the Other taxes less subsidies on production in 2017?
+Answer: The Other taxes less subsidies on production in 2017 was Rs. 82,489.38 million.
+Keywords: Other taxes, subsidies, production, 2017
+
+Question: What was the Gross Value Added (GVA) at Basic Price in 2020?
+Answer: The Gross Value Added (GVA) at Basic Price in 2020 was Rs. 14,757,475.15 million.
+Keywords: Gross Value Added, GVA, Basic Price, 2020
+
+Question: How much was the Compensation of Employees in 2018?
+Answer: The Compensation of Employees in 2018 was Rs. 4,112,480.29 million.
+Keywords: Compensation of Employees, 2018
+
+Question: What was the Consumption of Fixed capital in 2020?
+Answer: The Consumption of Fixed capital in 2020 was Rs. 725,185.41 million.
+Keywords: Consumption of Fixed capital, 2020
+
+Question: How much were the Other taxes less subsidies on production in 2020?
+Answer: The Other taxes less subsidies on production in 2020 was Rs. 411,13.36 million.
+Keywords: Other taxes, subsidies, production, 2020
+
+Question: What was the Gross Mixed Income in 2016?
+Answer: The Gross Mixed Income in 2016 was Rs. 4,081,822.31 million.
+Keywords: Gross Mixed Income, 2016
+
+Question: How much was the Gross Value Added (GVA) at Basic Price in 2019?
+Answer: The Gross Value Added (GVA) at Basic Price in 2019 was Rs. 14,668,824.09 million.
+Keywords: Gross Value Added, GVA, Basic Price, 2019
+
+Question: What was the Gross Domestic Product (GDP) at Market Price in 2020?
+Answer: The Gross Domestic Product (GDP) at Market Price in 2020 was Rs. 15,671,535.55 million.
+Keywords: Gross Domestic Product, GDP, Market Price, 2020
+
+Question: How much was the Compensation of Employees in 2020?
+Answer: The Compensation of Employees in 2020 was Rs. 4,616,787.51 million.
+Keywords: Compensation of Employees, 2020
+
+Question: What was the Net Operating Surplus in 2020?
+Answer: The Net Operating Surplus in 2020 was Rs. 4,203,296.36 million.
+Keywords: Net Operating Surplus, 2020
+
+Question: What was the Gross Domestic Product (GDP) at Market Price in 2018?
+Answer: The Gross Domestic Product (GDP) at Market Price in 2018 was Rs. 15,351,933.46 million.
+Keywords: Gross Domestic Product, GDP, Market Price, 2018
+
+Question: How much was the Gross Operating Surplus in 2018?
+Answer: The Gross Operating Surplus in 2018 was Rs. 5,010,463.30 million.
+Keywords: Gross Operating Surplus, 2018
+
+Question: What was the Gross Mixed Income in 2018?
+Answer: The Gross Mixed Income in 2018 was Rs. 4,802,042.67 million.
+Keywords: Gross Mixed Income, 2018
+
+Question: How much were the Other taxes less subsidies on production in 2019?
+Answer: The Other taxes less subsidies on production in 2019 was Rs. 89,210.86 million.
+Keywords: Other taxes, subsidies, production, 2019
+
+Question: What was the Gross Mixed Income in 2022?
+Answer: The Gross Mixed Income in 2022 was Rs. 8,361,058.39 million.
+Keywords: Gross Mixed Income, 2022

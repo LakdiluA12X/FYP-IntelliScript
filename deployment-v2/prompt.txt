@@ -1,0 +1,191 @@
+Generate few different queries with responses from the given context. Use different prompt types. Variety is important. Generate response only considering the given context.
+
+give the output as a josn.
+[{
+    "path": ,
+    "query": ,
+    "response": 
+}]
+
+PATH: "D:\python-projects\llama-2\cbsl-data-collector\Extracted-text-data-v3\LAWS\Licensing, Registration, Appointment and Authorisation Procedures\Finance Company\snbfi_fba_formA2.txt"
+
+CONTEXT:<page number 2>
+
+
+            (i  has been determined by the Board –
+
+               (i)  as having carried on finance business -
+
+                      (a) in contravention of subsection (1) of section 2 of the Finance Business
+                          Act; or
+
+                      (b) in contravention of subsection (1) of section 2 of the Finance Companies
+                          Act, No.78 of 1988 (prior to its repeal); or
+
+   (ii)  as having accepted deposits in contravention of subsection (2) of section 2 of the Finance
+
+         Business Act; or
+
+           (i) has been a director, chief executive or held any other position of authority in any
+               body corporate or unincorporate body which the Board has determined as having
+               carried on finance business in contravention of subsection (1) of section 2 of this
+               Act or subsection (1) of section 2 of the Finance Companies Act, No.78 of 1988
+
+               (prior to its repeal) or having accepted deposits in contravention of subsection (2) of
+               section 2 of the Finance Business Act.
+
+           (j) has been declared an undischarged insolvent or a bankrupt, by any court in Sri
+               Lanka or abroad;
+
+           (k) has been declared by a court of competent jurisdiction to be of unsound mind;
+
+
+    2.   If the Monetary Board so determines, any person who has been a director, chief executive
+         officer or held any other position of authority in any bank, finance company or financial
+
+         institution whose licence or registration has been cancelled, shall be disqualified from
+         being appointed or elected as the case may be, as a director, chief executive officer,
+         secretary or key management personnel/officer performing executive functions of a
+         finance company or from holding such post.
+
+
+    3.   Any person, who acts as a director, chief executive officer, secretary or key management
+         personnel of a finance company while being under any disqualification set out in
+
+         subsection (1) of Section 21 of the Finance Business Act, shall be guilty of an offence
+         under the said Act.
+
+
+    4.   In addition to the above, criteria set out in Section 5 of the Directions No.3 of 2008 on
+         Corporate Governance for Finance Companies shall also be applicable to a director of a
+         finance company.
+
+
+<page number 2>
+
+
+  Form SNBFI/A2
+
+
+  Name of the Applicant Company:
+
+
+             Affidavit to be submitted by directors selected for appointment in a
+
+                                          Applicant Company
+
+                                                 Affidavit
+
+  I, ……………………………………………………………………………(full name) holder of
+  National      Identity     Card      No./Passport       No      ……………….………..………..……..
+  of………………….……………………………………………………………. (address) being a
+
+  Buddhist/Hindu/Christian/Cath1lic/Muslim do hereby solemnly, sincerely and truly declare and
+  affirm/ make oath and state    as follows:
+
+
+  1.       I am the affirmant/deponent above named and I have been selected for appointment as
+           a/the............................................(designation) ....of   ……………..................
+           ........................................................(name of the Applicant  company).
+
+
+  2.       I affirm/state that I possess the following academic and/or professional qualification/s:
+
+
+  3.       I affirm/state that the effective experience that I possess in banking, finance, business or
+           administration or of any other relevant discipline is as follows:
+
+
+  4.       I affirm/state that I am not subjected to any disqualifications given in Annex 1, annexed
+           hereto as part and parcel of this Affidavit.
+
+
+  The averments contained herein
+  were      read     over     to    the
+
+  [affirmant/deponent] who having
+
+  understood the contents hereof and
+  having accepted same as true,
+                                                                        Affix Stamps  s
+  affirmed/swore     to   and    placed                                    applicab e
+
+  his/her          signature          at
+  …….…………………… on this
+
+  ………day of ………
+
+                                                                        Before me
+
+
+                                                               JUSTICE OF THE PEACE/
+
+                                                              COMMISSIONER FOR OATH
+
+
+  1 Delete the inapplicable words
+  Buddhists, Hindus, Muslims and persons following any other religion must solemnly, sincerely and truly declare and
+  affirm, Christians and Catholics must make oath and state.
+
+
+<page number 2>
+
+
+Annex I
+
+Disqualifications under Section 21 of the Finance Business Act No. 42 of 2011 and Section
+2.1 of the Finance Companies (Assessment of Fitness and propriety of Directors and
+
+officers performing executive functions) Directions No. 3 of 2011
+    1.   A person shall be disqualified from being appointed or elected, as a director of a finance
+         company if such person-
+
+         (a)  does not possess academic or professional qualifications or effective experience in
+
+              banking, finance, business or administration or of any other relevant discipline;
+
+         (b)    (i)  is being subjected to any investigation or inquiry in respect of a fraud, deceit,
+                    dishonesty or other similar criminal activity, conducted by the police, any
+
+                    regulatory or supervisory authority, professional association, commission of
+                    inquiry, tribunal, or any other body, established by law, in Sri Lanka or abroad;
+
+               (ii) has been found guilty in respect of an act of fraud, deceit, dishonesty or other
+                   similar criminal activity, by any regulatory or supervisory authority, professional
+                   association, commission of inquiry, tribunal, or any other body established by
+
+                   law, in Sri Lanka or abroad, at any time during the period of fifteen years
+                   immediately prior to being so appointed or elected;
+
+               (iii)has been found by any regulatory or supervisory authority, professional
+                   association, commission of inquiry, tribunal, or any other body established by
+                   law, in Sri Lanka or abroad, that such person has committed or has been
+
+                   connected with the commission of any act which involves fraud, deceit,
+                   dishonesty, improper conduct or non-compliance with any Statute or rules,
+                   regulations, directions or determinations issued thereunder.
+
+         (c)   has failed to satisfy any judgment or order of any court or to repay a debt;
+
+         (d)   has been convicted in any court in Sri Lanka or abroad for an offence involving
+               moral turpitude;
+
+         (e)   has been convicted by any court for any offence under the Finance Business Act
+
+               No.42 of 2011 or the Companies Act          ,No.07 of 2007;
+
+         (f    is a person against whom action has been taken by the Board under section 51 of
+               the Finance Business Act No.42 of 2011;
+
+         (g)   (i)  is being subject to court proceedings for an offence involving an act of fraud,
+                    deceit, dishonesty or other similar criminal activity;
+
+               (ii) has been convicted by any court for an offence involving an act of fraud, deceit,
+                   dishonesty or other similar criminal activity at any time during the period of
+
+                   fifteen years immediately prior to being so appointed or elected;
+         (h)   has been removed or suspended by a regulatory or supervisory authority from
+
+               serving as a director, chief executive or other officer in any bank, finance company
+               or corporate body in Sri Lanka or abroad;
+

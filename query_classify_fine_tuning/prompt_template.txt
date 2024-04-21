@@ -1,0 +1,8 @@
+Convert 'Example #:' to 'Example:' 
+
+If there is a years range in the Query, include the list of year in the "years" key. Take 2024 as the current year.
+
+ex:
+
+last five years - "years": [2023, 2022, 2021, 2020, 2019]
+since 2018 - "years": [2018, 2019, 2020, 2021, 2022, 2023]

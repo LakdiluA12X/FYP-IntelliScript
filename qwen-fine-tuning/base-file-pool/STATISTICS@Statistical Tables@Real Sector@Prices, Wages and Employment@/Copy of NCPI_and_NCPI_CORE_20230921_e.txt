@@ -1,0 +1,36 @@
+<new sheet>
+sheet_name: NCPI
+
+,Period,Index,,Monthly % Change,,Year-on-Year % Change,,Annual Average % Change,
+
+,,NCPI,NCPI Core,NCPI,NCPI Core,NCPI,NCPI Core,NCPI,NCPI Core
+
+,2022 September,201.9,185.9,2.1,2.6,-,-,-,-
+
+,2022 October,201.6,188,-0.1,1.1,-,-,-,-
+
+,2022 November,200.3,187.8,-0.6,-0.1,-,-,-,-
+
+,2022 December,200.4,188,0,0.1,-,-,-,-
+
+,2023 January,201.8,189.8,0.7,1,53.2,52,-,-
+
+,2023 February,204.1,189.4,1.1,-0.2,53.6,50.1,-,-
+
+,2023 March,204.8,188.1,0.3,-0.7,49.2,44.2,-,-
+
+,2023 April,202.7,188.2,-1,0.1,33.6,31.8,-,-
+
+,2023 May,203.1,187.8,0.2,-0.2,22.1,21.6,-,-
+
+,2023 June,203.3,186.5,0.1,-0.7,10.8,11.3,-,-
+
+,2023 July,201.9,188,-0.7,0.8,4.6,6.3,-,-
+
+,2023 August,201.9,188.7,0,0.4,2.1,4.1,-,-
+
+,,,,,,,,,Source: Department of Census and Statistics
+
+,"Note: NCPI Core (2021=100) - Excluding Volatile Food, Energy and Transport ",,,,,,,,
+
+

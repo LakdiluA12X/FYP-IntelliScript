@@ -1,0 +1,179 @@
+Question: What is the trend in Reserve Money from 1990 to 2022?
+Answer: Reserve Money shows an increasing trend from 1990 to 2022.
+Keywords: Reserve Money, trend, 1990-2022.
+
+Question: How does the Money Multiplier change over the years?
+Answer: The Money Multiplier fluctuates over the years but generally shows a varied trend.
+Keywords: Money Multiplier, change, fluctuates.
+
+Question: What is the Velocity of Money in 2005?
+Answer: The Velocity of Money in 2005 is 3.25.
+Keywords: Velocity of Money, 2005.
+
+Question: What is the Velocity of Money in 2018?
+Answer: The Velocity of Money in 2018 is 2.50.
+Keywords: Velocity of Money, 2018.
+
+Question: What is the Velocity of Money in 2021?
+Answer: The Velocity of Money in 2021 is 1.92.
+Keywords: Velocity of Money, 2021.
+
+Question: How does the Velocity of Money change over the years?
+Answer: The Velocity of Money varies over the years showing fluctuations.
+Keywords: Velocity of Money, change, fluctuations.
+
+Question: What is the total Reserve Money in 2000?
+Answer: The total Reserve Money in 2000 is 105,163 million Rupees.
+Keywords: total Reserve Money, 2000.
+
+Question: What is the total Reserve Money in 2015?
+Answer: The total Reserve Money in 2015 is 673,431.82 million Rupees.
+Keywords: total Reserve Money, 2015.
+
+Question: What is the total Reserve Money in 2022?
+Answer: The total Reserve Money in 2022 is 1,349,388.58 million Rupees.
+Keywords: total Reserve Money, 2022.
+
+Question: How does the total Reserve Money change over the years?
+Answer: The total Reserve Money exhibits an increasing trend over the years.
+Keywords: total Reserve Money, change, increasing trend.
+
+Question: What are the components of Reserve Money in 1994?
+Answer: The components of Reserve Money in 1994 are Currency Issues of the CBSL, Government Agencies Deposit with CBSL, and Commercial Bank Deposit with CBSL.
+Keywords: components, Reserve Money, 1994.
+
+Question: What are the components of Reserve Money in 2006?
+Answer: The components of Reserve Money in 2006 are Currency Issues of the CBSL, Government Agencies Deposit with CBSL, and Commercial Bank Deposit with CBSL.
+Keywords: components, Reserve Money, 2006.
+
+Question: What are the components of Reserve Money in 2018?
+Answer: The components of Reserve Money in 2018 are Currency Issues of the CBSL, Government Agencies Deposit with CBSL, and Commercial Bank Deposit with CBSL.
+Keywords: components, Reserve Money, 2018.
+
+Question: What is the M1 Money Multiplier in 2002?
+Answer: The M1 Money Multiplier in 2002 is 1.1.
+Keywords: M1 Money Multiplier, 2002.
+
+Question: What is the M1 Money Multiplier in 2010?
+Answer: The M1 Money Multiplier in 2010 is 1.13.
+Keywords: M1 Money Multiplier, 2010.
+
+Question: What is the M1 Money Multiplier in 2020?
+Answer: The M1 Money Multiplier in 2020 is 1.22.
+Keywords: M1 Money Multiplier, 2020.
+
+Question: How does the M1 Money Multiplier change over the years?
+Answer: The M1 Money Multiplier demonstrates fluctuations over the years.
+Keywords: M1 Money Multiplier, change, fluctuations.
+
+Question: What is the M2 Money Multiplier in 1995?
+Answer: The M2 Money Multiplier in 1995 is 2.91.
+Keywords: M2 Money Multiplier, 1995.
+
+Question: What is the M2 Money Multiplier in 2003?
+Answer: The M2 Money Multiplier in 2003 is 4.11.
+Keywords: M2 Money Multiplier, 2003.
+
+Question: What is the M2 Money Multiplier in 2015?
+Answer: The M2 Money Multiplier in 2015 is 6.02.
+Keywords: M2 Money Multiplier, 2015.
+
+Question: How does the M2 Money Multiplier change over the years?
+Answer: The M2 Money Multiplier displays variations over the years.
+Keywords: M2 Money Multiplier, change, variations.
+
+Question: What is the M2b Money Multiplier in 1998?
+Answer: The M2b Money Multiplier in 1998 is 3.15.
+Keywords: M2b Money Multiplier, 1998.
+
+Question: What is the M2b Money Multiplier in 2006?
+Answer: The M2b Money Multiplier in 2006 is 5.02.
+Keywords: M2b Money Multiplier, 2006.
+
+Question: What is the M2b Money Multiplier in 2014?
+Answer: The M2b Money Multiplier in 2014 is 6.71.
+Keywords: M2b Money Multiplier, 2014.
+
+Question: How does the M2b Money Multiplier change over the years?
+Answer: The M2b Money Multiplier demonstrates fluctuations and increases over the years.
+Keywords: M2b Money Multiplier, change, fluctuations, increases.
+
+Question: What is the GDP base year used for the data from 2010 onwards?
+Answer: The GDP base year used for the data from 2010 onwards is 2015.
+Keywords: GDP, base year, 2010 onwards.
+
+Question: What does the (a) note indicate?
+Answer: Note (a) indicates that data from 2010 onwards are based on rebased GDP estimates with the base year 2015 by the Department of Census and Statistics.
+Keywords: note (a), rebased GDP estimates, Department of Census and Statistics.
+
+Question: How does the Reserve Money change from 2000 to 2010?
+Answer: Reserve Money shows an increasing trend from 2000 to 2010.
+Keywords: Reserve Money, change, 2000-2010.
+
+Question: What is the trend in the Velocity of Money from 1990 to 2000?
+Answer: The Velocity of Money exhibits a fluctuating trend from 1990 to 2000.
+Keywords: Velocity of Money, trend, 1990-2000.
+
+Question: How do the components of Reserve Money vary in 2016?
+Answer: In 2016, the components of Reserve Money consist of Currency Issues of the CBSL, Government Agencies Deposit with CBSL, and Commercial Bank Deposit with CBSL.
+Keywords: components, Reserve Money, 2016.
+
+Question: What is the M1 Money Multiplier in 2013?
+Answer: The M1 Money Multiplier in 2013 is 6.26.
+Keywords: M1 Money Multiplier, 2013.
+
+Question: How does the M2 Money Multiplier fluctuate over the years?
+Answer: The M2 Money Multiplier demonstrates fluctuations and increases over the years.
+Keywords: M2 Money Multiplier, fluctuate, increases.
+
+Question: What is the M2b Money Multiplier in 2019?
+Answer: The M2b Money Multiplier in 2019 is 8.18.
+Keywords: M2b Money Multiplier, 2019.
+
+Question: What is the GDP base year for the data before 2010?
+Answer: The GDP base year for the data before 2010 is not specified in the provided information.
+Keywords: GDP, base year, before 2010.
+
+Question: How does the Reserve Money change over the years according to note (b)?
+Answer: Note (b) does not provide information specifically about the change in Reserve Money over the years.
+Keywords: Reserve Money, change, note (b).
+
+Question: What is the trend in the Velocity of Money from 2000 to 2010?
+Answer: The Velocity of Money shows a fluctuating trend from 2000 to 2010.
+Keywords: Velocity of Money, trend, 2000-2010.
+
+Question: What are the components of Reserve Money in 2017?
+Answer: The components of Reserve Money in 2017 are Currency Issues of the CBSL, Government Agencies Deposit with CBSL, and Commercial Bank Deposit with CBSL.
+Keywords: components, Reserve Money, 2017.
+
+Question: How does the M1 Money Multiplier change from 2010 to 2020?
+Answer: The M1 Money Multiplier exhibits an increasing trend from 2010 to 2020.
+Keywords: M1 Money Multiplier, change, 2010-2020.
+
+Question: What is the M2 Money Multiplier in 2007?
+Answer: The M2 Money Multiplier in 2007 is 4.34.
+Keywords: M2 Money Multiplier, 2007.
+
+Question: What is the M2b Money Multiplier in 2011?
+Answer: The M2b Money Multiplier in 2011 is 5.67.
+Keywords: M2b Money Multiplier, 2011.
+
+Question: How does the Velocity of Money change over the years according to note (a)?
+Answer: Note (a) does not provide specific information about the change in the Velocity of Money over the years.
+Keywords: Velocity of Money, change, note (a).
+
+Question: What is the GDP base year used for the data from 2020 onwards?
+Answer: The GDP base year used for the data from 2020 onwards is 2015.
+Keywords: GDP, base year, 2020 onwards.
+
+Question: What does note (a) indicate about the data?
+Answer: Note (a) indicates that the data from 2010 onwards are based on rebased GDP estimates with the base year 2015 by the Department of Census and Statistics.
+Keywords: note (a), rebased GDP estimates, Department of Census and Statistics.
+
+Question: What does note (b) indicate about the data?
+Answer: Note (b) indicates that the data are based on revised GDP estimates with the base year 2015 by the Department of Census and Statistics.
+Keywords: note (b), revised GDP estimates, Department of Census and Statistics.
+
+Question: What does the (b) note indicate?
+Answer: Note (b) indicates that the data are based on revised GDP estimates with the base year 2015 by the Department of Census and Statistics.
+Keywords: note (b), revised GDP estimates, Department of Census and Statistics.

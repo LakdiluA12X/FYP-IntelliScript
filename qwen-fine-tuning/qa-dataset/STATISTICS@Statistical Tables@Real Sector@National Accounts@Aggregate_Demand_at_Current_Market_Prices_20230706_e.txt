@@ -1,0 +1,803 @@
+Question: What is the Gross Domestic Capital Formation in the third quarter of 2022?
+Answer: The Gross Domestic Capital Formation in the third quarter of 2022 is Rs. 1,860,041.76 million.
+Keywords: Gross Domestic Capital Formation, third quarter, 2022
+
+Question: How much was the Private Consumption in the first quarter of 2021?
+Answer: The Private Consumption in the first quarter of 2021 is Rs. 2,908,408.43 million.
+Keywords: Private Consumption, first quarter, 2021
+
+Question: What is the Net External Demand in the fourth quarter of 2021?
+Answer: The Net External Demand in the fourth quarter of 2021 is -Rs. 271,031.70 million.
+Keywords: Net External Demand, fourth quarter, 2021
+
+Question: How much was the Total Domestic Demand in the second quarter of 2022?
+Answer: The Total Domestic Demand in the second quarter of 2022 is Rs. 5,662,741.58 million.
+Keywords: Total Domestic Demand, second quarter, 2022
+
+Question: What is the Government Consumption in the annual report of 2020?
+Answer: The Government Consumption in the annual report of 2020 is Rs. 1,626,883.13 million.
+Keywords: Government Consumption, annual report, 2020
+
+Question: How much was the Exports of goods and services in the third quarter of 2022?
+Answer: The Exports of goods and services in the third quarter of 2022 is Rs. 760,403.16 million.
+Keywords: Exports of goods and services, third quarter, 2022
+
+Question: What is the Total Demand in the first quarter of 2023?
+Answer: The Total Demand in the first quarter of 2023 is Rs. 6,576,456.11 million.
+Keywords: Total Demand, first quarter, 2023
+
+Question: How much was the Gross Fixed Capital Formation in the fourth quarter of 2020?
+Answer: The Gross Fixed Capital Formation in the fourth quarter of 2020 is Rs. 1,253,501.98 million.
+Keywords: Gross Fixed Capital Formation, fourth quarter, 2020
+
+Question: What is the Imports of goods and services in the second quarter of 2021?
+Answer: The Imports of goods and services in the second quarter of 2021 is Rs. 1,027,707.20 million.
+Keywords: Imports of goods and services, second quarter, 2021
+
+Question: How much was the Consumption in the fourth quarter of 2022?
+Answer: The Consumption in the fourth quarter of 2022 is Rs. 4,447,491.57 million.
+Keywords: Consumption, fourth quarter, 2022
+
+Question: What is the Total Demand in the third quarter of 2021?
+Answer: The Total Demand in the third quarter of 2021 is Rs. 4,395,879.76 million.
+Keywords: Total Demand, third quarter, 2021
+
+Question: How much was the Changes in Inventories and Acquisitions less disposals of valuables in the first quarter of 2022?
+Answer: The Changes in Inventories and Acquisitions less disposals of valuables in the first quarter of 2022 is Rs. 798,129.62 million.
+Keywords: Changes in Inventories, first quarter, 2022
+
+Question: What is the Gross Domestic Capital Formation in the second quarter of 2020?
+Answer: The Gross Domestic Capital Formation in the second quarter of 2020 is Rs. 977,873.87 million.
+Keywords: Gross Domestic Capital Formation, second quarter, 2020
+
+Question: How much was the Government Consumption in the fourth quarter of 2021?
+Answer: The Government Consumption in the fourth quarter of 2021 is Rs. 402,708.04 million.
+Keywords: Government Consumption, fourth quarter, 2021
+
+Question: What is the Net External Demand in the first quarter of 2020?
+Answer: The Net External Demand in the first quarter of 2020 is -Rs. 215,874.91 million.
+Keywords: Net External Demand, first quarter, 2020
+
+Question: How much was the Total Demand in the second quarter of 2020?
+Answer: The Total Demand in the second quarter of 2020 is Rs. 4,592,330.12 million.
+Keywords: Total Demand, second quarter, 2020
+
+Question: What is the Exports of goods and services in the annual report of 2021?
+Answer: The Exports of goods and services in the annual report of 2021 is Rs. 1,409,489.85 million.
+Keywords: Exports of goods and services, annual report, 2021
+
+Question: How much was the Private Consumption in the third quarter of 2021?
+Answer: The Private Consumption in the third quarter of 2021 is Rs. 2,878,827.11 million.
+Keywords: Private Consumption, third quarter, 2021
+
+Question: What is the Total Domestic Demand in the fourth quarter of 2020?
+Answer: The Total Domestic Demand in the fourth quarter of 2020 is Rs. 6,644,685.27 million.
+Keywords: Total Domestic Demand, fourth quarter, 2020
+
+Question: How much was the Gross Fixed Capital Formation in the second quarter of 2022?
+Answer: The Gross Fixed Capital Formation in the second quarter of 2022 is Rs. 1,867,741.76 million.
+Keywords: Gross Fixed Capital Formation, second quarter, 2022
+
+Question: What is the Imports of goods and services in the third quarter of 2021?
+Answer: The Imports of goods and services in the third quarter of 2021 is Rs. 1,036,707.20 million.
+Keywords: Imports of goods and services, third quarter, 2021
+
+Question: How much was the Consumption in the second quarter of 2021?
+Answer: The Consumption in the second quarter of 2021 is Rs. 3,110,685.83 million.
+Keywords: Consumption, second quarter, 2021
+
+Question: What is the Total Demand in the second quarter of 2023?
+Answer: The Total Demand in the second quarter of 2023 is Rs. 6,579,476.42 million.
+Keywords: Total Demand, second quarter, 2023
+
+Question: How much was the Gross Domestic Capital Formation in the fourth quarter of 2021?
+Answer: The Gross Domestic Capital Formation in the fourth quarter of 2021 is Rs. 2,327,268.75 million.
+Keywords: Gross Domestic Capital Formation, fourth quarter, 2021
+
+Question: What is the Government Consumption in the third quarter of 2022?
+Answer: The Government Consumption in the third quarter of 2022 is Rs. 430,647.82 million.
+Keywords: Government Consumption, third quarter, 2022
+
+Question: How much was the Net External Demand in the fourth quarter of 2020?
+Answer: The Net External Demand in the fourth quarter of 2020 is -Rs. 304,386.53 million.
+Keywords: Net External Demand, fourth quarter, 2020
+
+Question: What is the Total Demand in the annual report of 2022?
+Answer: The Total Demand in the annual report of 2022 is Rs. 24,147,726.16 million.
+Keywords: Total Demand, annual report, 2022
+
+Question: How much was the Gross Fixed Capital Formation in the first quarter of 2021?
+Answer: The Gross Fixed Capital Formation in the first quarter of 2021 is Rs. 1,128,102.76 million.
+Keywords: Gross Fixed Capital Formation, first quarter, 2021
+
+Question: What is the Exports of goods and services in the second quarter of 2021?
+Answer: The Exports of goods and services in the second quarter of 2021 is Rs. 639,207.38 million.
+Keywords: Exports of goods and services, second quarter, 2021
+
+Question: How much was the Private Consumption in the third quarter of 2020?
+Answer: The Private Consumption in the third quarter of 2020 is Rs. 2,627,536.16 million.
+Keywords: Private Consumption, third quarter, 2020
+
+Question: What is the Gross Fixed Capital Formation in the third quarter of 2021?
+Answer: The Gross Fixed Capital Formation in the third quarter of 2021 is Rs. 1,588,376.31 million.
+Keywords: Gross Fixed Capital Formation, third quarter, 2021
+
+Question: How much was the Total Domestic Demand in the first quarter of 2021?
+Answer: The Total Domestic Demand in the first quarter of 2021 is Rs. 4,934,953.51 million.
+Keywords: Total Domestic Demand, first quarter, 2021
+
+Question: What is the Government Consumption in the second quarter of 2022?
+Answer: The Government Consumption in the second quarter of 2022 is Rs. 428,994.08 million.
+Keywords: Government Consumption, second quarter, 2022
+
+Question: How much was the Gross Fixed Capital Formation in the third quarter of 2020?
+Answer: The Gross Fixed Capital Formation in the third quarter of 2020 is Rs. 1,381,595.35 million.
+Keywords: Gross Fixed Capital Formation, third quarter, 2020
+
+Question: What is the Exports of goods and services in the fourth quarter of 2021?
+Answer: The Exports of goods and services in the fourth quarter of 2021 is Rs. 1,409,639.58 million.
+Keywords: Exports of goods and services, fourth quarter, 2021
+
+Question: How much was the Total Domestic Demand in the second quarter of 2021?
+Answer: The Total Domestic Demand in the second quarter of 2021 is Rs. 4,274,979.51 million.
+Keywords: Total Domestic Demand, second quarter, 2021
+
+Question: What is the Net External Demand in the third quarter of 2021?
+Answer: The Net External Demand in the third quarter of 2021 is -Rs. 298,894.55 million.
+Keywords: Net External Demand, third quarter, 2021
+
+Question: How much was the Changes in Inventories and Acquisitions less disposals of valuables in the fourth quarter of 2020?
+Answer: The Changes in Inventories and Acquisitions less disposals of valuables in the fourth quarter of 2020 is Rs. 513,019.02 million.
+Keywords: Changes in Inventories, fourth quarter, 2020
+
+Question: What is the Total Demand in the first quarter of 2022?
+Answer: The Total Demand in the first quarter of 2022 is Rs. 18,901,239.62 million.
+Keywords: Total Demand, first quarter, 2022
+
+Question: How much was the Consumption in the second quarter of 2022?
+Answer: The Consumption in the second quarter of 2022 is Rs. 3,794,999.82 million.
+Keywords: Consumption, second quarter, 2022
+
+Question: What is the Gross Fixed Capital Formation in the fourth quarter of 2022?
+Answer: The Gross Fixed Capital Formation in the fourth quarter of 2022 is Rs. 2,246,793.69 million.
+Keywords: Gross Fixed Capital Formation, fourth quarter, 2022
+
+Question: How much was the Exports of goods and services in the first quarter of 2021?
+Answer: The Exports of goods and services in the first quarter of 2021 is Rs. 652,880.35 million.
+Keywords: Exports of goods and services, first quarter, 2021
+
+Question: What is the Total Demand in the third quarter of 2022?
+Answer: The Total Demand in the third quarter of 2022 is Rs. 6,664,685.27 million.
+Keywords: Total Demand, third quarter, 2022
+
+Question: How much was the Private Consumption in the fourth quarter of 2022?
+Answer: The Private Consumption in the fourth quarter of 2022 is Rs. 4,447,491.57 million.
+Keywords: Private Consumption, fourth quarter, 2022
+
+Question: What is the Government Consumption in the first quarter of 2020?
+Answer: The Government Consumption in the first quarter of 2020 is Rs. 370,864.42 million.
+Keywords: Government Consumption, first quarter, 2020
+
+Question: How much was the Net External Demand in the third quarter of 2020?
+Answer: The Net External Demand in the third quarter of 2020 is -Rs. 187,869.08 million.
+Keywords: Net External Demand, third quarter, 2020
+
+Question: What is the Gross Fixed Capital Formation in the first quarter of 2020?
+Answer: The Gross Fixed Capital Formation in the first quarter of 2020 is Rs. 1,268,662.70 million.
+Keywords: Gross Fixed Capital Formation, first quarter, 2020
+
+Question: How much was the Changes in Inventories and Acquisitions less disposals of valuables in the third quarter of 2022?
+Answer: The Changes in Inventories and Acquisitions less disposals of valuables in the third quarter of 2022 is Rs. 798,129.62 million.
+Keywords: Changes in Inventories, third quarter, 2022
+
+Question: What is the Total Demand in the fourth quarter of 2021?
+Answer: The Total Demand in the fourth quarter of 2021 is Rs. 17,600,190.55 million.
+Keywords: Total Demand, fourth quarter, 2021
+
+Question: How much was the Exports of goods and services in the second quarter of 2022?
+Answer: The Exports of goods and services in the second quarter of 2022 is Rs. 639,207.38 million.
+Keywords: Exports of goods and services, second quarter, 2022
+
+Question: What is the Gross Domestic Capital Formation in the first quarter of 2022?
+Answer: The Gross Domestic Capital Formation in the first quarter of 2022 is Rs. 3,986,857.43 million.
+Keywords: Gross Domestic Capital Formation, first quarter, 2022
+
+Question: How much was the Consumption in the first quarter of 2020?
+Answer: The Consumption in the first quarter of 2020 is Rs. 3,112,879.09 million.
+Keywords: Consumption, first quarter, 2020
+
+Question: What is the Total Demand in the fourth quarter of 2020?
+Answer: The Total Demand in the fourth quarter of 2020 is Rs. 16,637,509.79 million.
+Keywords: Total Demand, fourth quarter, 2020
+
+Question: How much was the Private Consumption in the second quarter of 2020?
+Answer: The Private Consumption in the second quarter of 2020 is Rs. 2,440,991.72 million.
+Keywords: Private Consumption, second quarter, 2020
+
+Question: What is the Government Consumption in the annual report of 2022?
+Answer: The Government Consumption in the annual report of 2022 is Rs. 1,727,261.22 million.
+Keywords: Government Consumption, annual report, 2022
+
+Question: How much was the Gross Domestic Capital Formation in the second quarter of 2021?
+Answer: The Gross Domestic Capital Formation in the second quarter of 2021 is Rs. 1,405,250.53 million.
+Keywords: Gross Domestic Capital Formation, second quarter, 2021
+
+Question: What is the Net External Demand in the second quarter of 2020?
+Answer: The Net External Demand in the second quarter of 2020 is -Rs. 257,844.01 million.
+Keywords: Net External Demand, second quarter, 2020
+
+Question: What is the Gross Fixed Capital Formation in the annual report of 2021?
+Answer: The Gross Fixed Capital Formation in the annual report of 2021 is Rs. 6,466,956.80 million.
+Keywords: Gross Fixed Capital Formation, annual report, 2021
+
+Question: How much was the Total Domestic Demand in the second quarter of 2020?
+Answer: The Total Domestic Demand in the second quarter of 2020 is Rs. 3,418,865.59 million.
+Keywords: Total Domestic Demand, second quarter, 2020
+
+Question: What is the Exports of goods and services in the third quarter of 2020?
+Answer: The Exports of goods and services in the third quarter of 2020 is Rs. 652,880.35 million.
+Keywords: Exports of goods and services, third quarter, 2020
+
+Question: How much was the Consumption in the third quarter of 2021?
+Answer: The Consumption in the third quarter of 2021 is Rs. 3,083,535.15 million.
+Keywords: Consumption, third quarter, 2021
+
+Question: What is the Total Demand in the third quarter of 2020?
+Answer: The Total Demand in the third quarter of 2020 is Rs. 4,227,546.72 million.
+Keywords: Total Demand, third quarter, 2020
+
+Question: How much was the Government Consumption in the fourth quarter of 2021?
+Answer: The Government Consumption in the fourth quarter of 2021 is Rs. 430,647.82 million.
+Keywords: Government Consumption, fourth quarter, 2021
+
+Question: What is the Net External Demand in the first quarter of 2022?
+Answer: The Net External Demand in the first quarter of 2022 is -Rs. 354,974.35 million.
+Keywords: Net External Demand, first quarter, 2022
+
+Question: How much was the Gross Domestic Capital Formation in the fourth quarter of 2020?
+Answer: The Gross Domestic Capital Formation in the fourth quarter of 2020 is Rs. 1,540,248.49 million.
+Keywords: Gross Domestic Capital Formation, fourth quarter, 2020
+
+Question: What is the Private Consumption in the annual report of 2020?
+Answer: The Private Consumption in the annual report of 2020 is Rs. 9,842,245.83 million.
+Keywords: Private Consumption, annual report, 2020
+
+Question: How much was the Changes in Inventories and Acquisitions less disposals of valuables in the first quarter of 2020?
+Answer: The Changes in Inventories and Acquisitions less disposals of valuables in the first quarter of 2020 is Rs. 218,315.17 million.
+Keywords: Changes in Inventories, first quarter, 2020
+
+Question: What is the Total Demand in the second quarter of 2022?
+Answer: The Total Demand in the second quarter of 2022 is Rs. 5,892,280.40 million.
+Keywords: Total Demand, second quarter, 2022
+
+Question: How much was the Exports of goods and services in the annual report of 2020?
+Answer: The Exports of goods and services in the annual report of 2020 is Rs. 2,418,541.57 million.
+Keywords: Exports of goods and services, annual report, 2020
+
+Question: What is the Gross Domestic Capital Formation in the third quarter of 2022?
+Answer: The Gross Domestic Capital Formation in the third quarter of 2022 is Rs. 2,197,193.69 million.
+Keywords: Gross Domestic Capital Formation, third quarter, 2022
+
+Question: How much was the Consumption in the fourth quarter of 2020?
+Answer: The Consumption in the fourth quarter of 2020 is Rs. 2,881,437.70 million.
+Keywords: Consumption, fourth quarter, 2020
+
+Question: What is the Government Consumption in the third quarter of 2021?
+Answer: The Government Consumption in the third quarter of 2021 is Rs. 402,708.04 million.
+Keywords: Government Consumption, third quarter, 2021
+
+Question: How much was the Net External Demand in the fourth quarter of 2021?
+Answer: The Net External Demand in the fourth quarter of 2021 is -Rs. 595,702.84 million.
+Keywords: Net External Demand, fourth quarter, 2021
+
+Question: What is the Gross Fixed Capital Formation in the second quarter of 2021?
+Answer: The Gross Fixed Capital Formation in the second quarter of 2021 is Rs. 1,408,766.48 million.
+Keywords: Gross Fixed Capital Formation, second quarter, 2021
+
+Question: How much was the Changes in Inventories and Acquisitions less disposals of valuables in the third quarter of 2020?
+Answer: The Changes in Inventories and Acquisitions less disposals of valuables in the third quarter of 2020 is Rs. 323,039.63 million.
+Keywords: Changes in Inventories, third quarter, 2020
+
+Question: What is the Total Domestic Demand in the first quarter of 2020?
+Answer: The Total Domestic Demand in the first quarter of 2020 is Rs. 4,381,541.79 million.
+Keywords: Total Domestic Demand, first quarter, 2020
+
+Question: How much was the Private Consumption in the second quarter of 2022?
+Answer: The Private Consumption in the second quarter of 2022 is Rs. 3,814,999.82 million.
+Keywords: Private Consumption, second quarter, 2022
+
+Question: What is the Gross Fixed Capital Formation in the fourth quarter of 2021?
+Answer: The Gross Fixed Capital Formation in the fourth quarter of 2021 is Rs. 2,328,268.75 million.
+Keywords: Gross Fixed Capital Formation, fourth quarter, 2021
+
+Question: How much was the Total Demand in the fourth quarter of 2022?
+Answer: The Total Demand in the fourth quarter of 2022 is Rs. 6,799,476.42 million.
+Keywords: Total Demand, fourth quarter, 2022
+
+Question: What is the Government Consumption in the second quarter of 2021?
+Answer: The Government Consumption in the second quarter of 2021 is Rs. 428,994.08 million.
+Keywords: Government Consumption, second quarter, 2021
+
+Question: How much was the Net External Demand in the second quarter of 2022?
+Answer: The Net External Demand in the second quarter of 2022 is -Rs. 387,499.81 million.
+Keywords: Net External Demand, second quarter, 2022
+
+Question: What is the Gross Fixed Capital Formation in the third quarter of 2021?
+Answer: The Gross Fixed Capital Formation in the third quarter of 2021 is Rs. 1,585,376.31 million.
+Keywords: Gross Fixed Capital Formation, third quarter, 2021
+
+Question: How much was the Consumption in the first quarter of 2021?
+Answer: The Consumption in the first quarter of 2021 is Rs. 3,310,685.83 million.
+Keywords: Consumption, first quarter, 2021
+
+Question: What is the Total Demand in the annual report of 2020?
+Answer: The Total Demand in the annual report of 2020 is Rs. 16,715,535.27 million.
+Keywords: Total Demand, annual report, 2020
+
+Question: How much was the Exports of goods and services in the fourth quarter of 2022?
+Answer: The Exports of goods and services in the fourth quarter of 2022 is Rs. 1,419,489.85 million.
+Keywords: Exports of goods and services, fourth quarter, 2022
+
+Question: What is the Gross Fixed Capital Formation in the third quarter of 2020?
+Answer: The Gross Fixed Capital Formation in the third quarter of 2020 is Rs. 1,381,595.35 million.
+Keywords: Gross Fixed Capital Formation, third quarter, 2020
+
+Question: How much was the Total Domestic Demand in the fourth quarter of 2021?
+Answer: The Total Domestic Demand in the fourth quarter of 2021 is Rs. 7,388,144.28 million.
+Keywords: Total Domestic Demand, fourth quarter, 2021
+
+Question: What is the Government Consumption in the first quarter of 2022?
+Answer: The Government Consumption in the first quarter of 2022 is Rs. 435,438.98 million.
+Keywords: Government Consumption, first quarter, 2022
+
+Question: How much was the Changes in Inventories and Acquisitions less disposals of valuables in the second quarter of 2021?
+Answer: The Changes in Inventories and Acquisitions less disposals of valuables in the second quarter of 2021 is Rs. 344,106.56 million.
+Keywords: Changes in Inventories, second quarter, 2021
+
+Question: What is the Total Demand in the third quarter of 2021?
+Answer: The Total Demand in the third quarter of 2021 is Rs. 4,395,879.76 million.
+Keywords: Total Demand, third quarter, 2021
+
+Question: How much was the Net External Demand in the third quarter of 2022?
+Answer: The Net External Demand in the third quarter of 2022 is -Rs. 271,031.70 million.
+Keywords: Net External Demand, third quarter, 2022
+
+Question: What is the Gross Domestic Capital Formation in the first quarter of 2021?
+Answer: The Gross Domestic Capital Formation in the first quarter of 2021 is Rs. 1,625,267.29 million.
+Keywords: Gross Domestic Capital Formation, first quarter, 2021
+
+Question: How much was the Consumption in the annual report of 2022?
+Answer: The Consumption in the annual report of 2022 is Rs. 12,434,282.82 million.
+Keywords: Consumption, annual report, 2022
+
+Question: What is the Total Demand in the first quarter of 2022?
+Answer: The Total Demand in the first quarter of 2022 is Rs. 5,892,280.40 million.
+Keywords: Total Demand, first quarter, 2022
+
+Question: How much was the Exports of goods and services in the second quarter of 2021?
+Answer: The Exports of goods and services in the second quarter of 2021 is Rs. 639,207.38 million.
+Keywords: Exports of goods and services, second quarter, 2021
+
+Question: What is the Gross Domestic Capital Formation in the second quarter of 2020?
+Answer: The Gross Domestic Capital Formation in the second quarter of 2020 is Rs. 977,873.87 million.
+Keywords: Gross Domestic Capital Formation, second quarter, 2020
+
+Question: How much was the Consumption in the fourth quarter of 2022?
+Answer: The Consumption in the fourth quarter of 2022 is Rs. 5,141,604.57 million.
+Keywords: Consumption, fourth quarter, 2022
+
+Question: What is the Net External Demand in the fourth quarter of 2020?
+Answer: The Net External Demand in the fourth quarter of 2020 is -Rs. 304,386.53 million.
+Keywords: Net External Demand, fourth quarter, 2020
+
+Question: How much was the Government Consumption in the third quarter of 2020?
+Answer: The Government Consumption in the third quarter of 2020 is Rs. 406,284.29 million.
+Keywords: Government Consumption, third quarter, 2020
+
+Question: What is the Gross Fixed Capital Formation in the annual report of 2022?
+Answer: The Gross Fixed Capital Formation in the annual report of 2022 is Rs. 8,304,627.24 million.
+Keywords: Gross Fixed Capital Formation, annual report, 2022
+
+Question: How much was the Private Consumption in the third quarter of 2020?
+Answer: The Private Consumption in the third quarter of 2020 is Rs. 2,627,536.16 million.
+Keywords: Private Consumption, third quarter, 2020
+
+Question: What is the Exports of goods and services in the first quarter of 2020?
+Answer: The Exports of goods and services in the first quarter of 2020 is Rs. 768,810.09 million.
+Keywords: Exports of goods and services, first quarter, 2020
+
+Question: How much was the Changes in Inventories and Acquisitions less disposals of valuables in the fourth quarter of 2021?
+Answer: The Changes in Inventories and Acquisitions less disposals of valuables in the fourth quarter of 2021 is Rs. 1,074,766.77 million.
+Keywords: Changes in Inventories, fourth quarter, 2021
+
+Question: What is the Total Domestic Demand in the first quarter of 2021?
+Answer: The Total Domestic Demand in the first quarter of 2021 is Rs. 4,935,953.13 million.
+Keywords: Total Domestic Demand, first quarter, 2021
+
+Question: How much was the Gross Domestic Capital Formation in the fourth quarter of 2022?
+Answer: The Gross Domestic Capital Formation in the fourth quarter of 2022 is Rs. 2,246,539.72 million.
+Keywords: Gross Domestic Capital Formation, fourth quarter, 2022
+
+Question: What is the Government Consumption in the fourth quarter of 2020?
+Answer: The Government Consumption in the fourth quarter of 2020 is Rs. 431,350.10 million.
+Keywords: Government Consumption, fourth quarter, 2020
+
+Question: How much was the Net External Demand in the second quarter of 2021?
+Answer: The Net External Demand in the second quarter of 2021 is -Rs. 387,499.81 million.
+Keywords: Net External Demand, second quarter, 2021
+
+Question: What is the Gross Fixed Capital Formation in the fourth quarter of 2020?
+Answer: The Gross Fixed Capital Formation in the fourth quarter of 2020 is Rs. 1,540,248.49 million.
+Keywords: Gross Fixed Capital Formation, fourth quarter, 2020
+
+Question: How much was the Consumption in the second quarter of 2020?
+Answer: The Consumption in the second quarter of 2020 is Rs. 2,440,991.72 million.
+Keywords: Consumption, second quarter, 2020
+
+Question: What is the Total Demand in the second quarter of 2020?
+Answer: The Total Demand in the second quarter of 2020 is Rs. 3,418,865.59 million.
+Keywords: Total Demand, second quarter, 2020
+
+Question: How much was the Private Consumption in the third quarter of 2021?
+Answer: The Private Consumption in the third quarter of 2021 is Rs. 2,748,200.98 million.
+Keywords: Private Consumption, third quarter, 2021
+
+Question: What is the Exports of goods and services in the third quarter of 2022?
+Answer: The Exports of goods and services in the third quarter of 2022 is Rs. 1,419,489.85 million.
+Keywords: Exports of goods and services, third quarter, 2022
+
+Question: How much was the Changes in Inventories and Acquisitions less disposals of valuables in the first quarter of 2022?
+Answer: The Changes in Inventories and Acquisitions less disposals of valuables in the first quarter of 2022 is Rs. 443,603.72 million.
+Keywords: Changes in Inventories, first quarter, 2022
+
+Question: What is the Total Demand in the fourth quarter of 2020?
+Answer: The Total Demand in the fourth quarter of 2020 is Rs. 4,421,686.19 million.
+Keywords: Total Demand, fourth quarter, 2020
+
+Question: How much was the Gross Fixed Capital Formation in the first quarter of 2020?
+Answer: The Gross Fixed Capital Formation in the first quarter of 2020 was Rs. 1,268,662.70 million.
+Keywords: Gross Fixed Capital Formation, first quarter, 2020
+
+Question: What is the Private Consumption in the first quarter of 2022?
+Answer: The Private Consumption in the first quarter of 2022 is Rs. 3,986,857.43 million.
+Keywords: Private Consumption, first quarter, 2022
+
+Question: How much was the Government Consumption in the second quarter of 2021?
+Answer: The Government Consumption in the second quarter of 2021 was Rs. 428,994.08 million.
+Keywords: Government Consumption, second quarter, 2021
+
+Question: What is the Gross Domestic Capital Formation in the third quarter of 2021?
+Answer: The Gross Domestic Capital Formation in the third quarter of 2021 is Rs. 1,585,376.31 million.
+Keywords: Gross Domestic Capital Formation, third quarter, 2021
+
+Question: How much was the Total Domestic Demand in the third quarter of 2020?
+Answer: The Total Domestic Demand in the third quarter of 2020 was Rs. 4,415,415.80 million.
+Keywords: Total Domestic Demand, third quarter, 2020
+
+Question: What is the Net External Demand in the first quarter of 2021?
+Answer: The Net External Demand in the first quarter of 2021 is -Rs. 343,623.01 million.
+Keywords: Net External Demand, first quarter, 2021
+
+Question: How much was the Exports of goods and services in the fourth quarter of 2021?
+Answer: The Exports of goods and services in the fourth quarter of 2021 was Rs. 1,409,639.58 million.
+Keywords: Exports of goods and services, fourth quarter, 2021
+
+Question: What is the Imports of goods and services in the third quarter of 2020?
+Answer: The Imports of goods and services in the third quarter of 2020 is Rs. 984,685.00 million.
+Keywords: Imports of goods and services, third quarter, 2020
+
+Question: How much was the Consumption in the second quarter of 2022?
+Answer: The Consumption in the second quarter of 2022 is Rs. 3,794,999.82 million.
+Keywords: Consumption, second quarter, 2022
+
+Question: What is the Total Demand in the second quarter of 2021?
+Answer: The Total Demand in the second quarter of 2021 is Rs. 4,272,979.51 million.
+Keywords: Total Demand, second quarter, 2021
+
+Question: How much was the Gross Fixed Capital Formation in the fourth quarter of 2021?
+Answer: The Gross Fixed Capital Formation in the fourth quarter of 2021 was Rs. 2,327,268.75 million.
+Keywords: Gross Fixed Capital Formation, fourth quarter, 2021
+
+Question: What is the Consumption in the annual report of 2021?
+Answer: The Consumption in the annual report of 2021 is Rs. 11,469,128.96 million.
+Keywords: Consumption, annual report, 2021
+
+Question: How much was the Net External Demand in the third quarter of 2021?
+Answer: The Net External Demand in the third quarter of 2021 was -Rs. 271,031.70 million.
+Keywords: Net External Demand, third quarter, 2021
+
+Question: What is the Gross Domestic Capital Formation in the fourth quarter of 2020?
+Answer: The Gross Domestic Capital Formation in the fourth quarter of 2020 is Rs. 1,540,248.49 million.
+Keywords: Gross Domestic Capital Formation, fourth quarter, 2020
+
+Question: How much was the Private Consumption in the fourth quarter of 2021?
+Answer: The Private Consumption in the fourth quarter of 2021 was Rs. 4,011,436.83 million.
+Keywords: Private Consumption, fourth quarter, 2021
+
+Question: What is the Government Consumption in the third quarter of 2022?
+Answer: The Government Consumption in the third quarter of 2022 is Rs. 459,770.85 million.
+Keywords: Government Consumption, third quarter, 2022
+
+Question: How much was the Gross Fixed Capital Formation in the third quarter of 2021?
+Answer: The Gross Fixed Capital Formation in the third quarter of 2021 was Rs. 1,887,741.76 million.
+Keywords: Gross Fixed Capital Formation, third quarter, 2021
+
+Question: What is the Changes in Inventories and Acquisitions less disposals of valuables in the fourth quarter of 2022?
+Answer: The Changes in Inventories and Acquisitions less disposals of valuables in the fourth quarter of 2022 is Rs. 930,620.13 million.
+Keywords: Changes in Inventories, fourth quarter, 2022
+
+Question: How much was the Total Demand in the annual report of 2023?
+Answer: The Total Demand in the annual report of 2023 is Rs. 7,328,574.00 million.
+Keywords: Total Demand, annual report, 2023
+
+Question: What is the Net External Demand in the second quarter of 2022?
+Answer: The Net External Demand in the second quarter of 2022 is -Rs. 387,499.81 million.
+Keywords: Net External Demand, second quarter, 2022
+
+Question: How much was the Exports of goods and services in the second quarter of 2020?
+Answer: The Exports of goods and services in the second quarter of 2020 was Rs. 419,705.62 million.
+Keywords: Exports of goods and services, second quarter, 2020
+
+Question: What is the Imports of goods and services in the fourth quarter of 2020?
+Answer: The Imports of goods and services in the fourth quarter of 2020 is Rs. 881,532.04 million.
+Keywords: Imports of goods and services, fourth quarter, 2020
+
+Question: How much was the Consumption in the third quarter of 2021?
+Answer: The Consumption in the third quarter of 2021 was Rs. 3,033,820.45 million.
+Keywords: Consumption, third quarter, 2021
+
+Question: What is the Total Domestic Demand in the second quarter of 2022?
+Answer: The Total Domestic Demand in the second quarter of 2022 is Rs. 5,662,741.58 million.
+Keywords: Total Domestic Demand, second quarter, 2022
+
+Question: How much was the Gross Domestic Capital Formation in the second quarter of 2021?
+Answer: The Gross Domestic Capital Formation in the second quarter of 2021 was Rs. 1,408,766.48 million.
+Keywords: Gross Domestic Capital Formation, second quarter, 2021
+
+Question: What is the Government Consumption in the first quarter of 2021?
+Answer: The Government Consumption in the first quarter of 2021 is Rs. 402,708.04 million.
+Keywords: Government Consumption, first quarter, 2021
+
+Question: How much was the Gross Fixed Capital Formation in the second quarter of 2022?
+Answer: The Gross Fixed Capital Formation in the second quarter of 2022 was Rs. 1,867,741.76 million.
+Keywords: Gross Fixed Capital Formation, second quarter, 2022
+
+Question: What is the Changes in Inventories and Acquisitions less disposals of valuables in the annual report of 2022?
+Answer: The Changes in Inventories and Acquisitions less disposals of valuables in the annual report of 2022 is Rs. 2,240,209.37 million.
+Keywords: Changes in Inventories, annual report, 2022
+
+Question: How much was the Total Demand in the first quarter of 2022?
+Answer: The Total Demand in the first quarter of 2022 is Rs. 4,935,953.13 million.
+Keywords: Total Demand, first quarter, 2022
+
+Question: What is the Gross Domestic Capital Formation in the first quarter of 2023?
+Answer: The Gross Domestic Capital Formation in the first quarter of 2023 is Rs. 2,246,539.72 million.
+Keywords: Gross Domestic Capital Formation, first quarter, 2023
+
+Question: How much was the Private Consumption in the third quarter of 2022?
+Answer: The Private Consumption in the third quarter of 2022 is Rs. 4,447,491.57 million.
+Keywords: Private Consumption, third quarter, 2022
+
+Question: What is the Government Consumption in the fourth quarter of 2020?
+Answer: The Government Consumption in the fourth quarter of 2020 is Rs. 431,350.10 million.
+Keywords: Government Consumption, fourth quarter, 2020
+
+Question: How much was the Gross Fixed Capital Formation in the third quarter of 2020?
+Answer: The Gross Fixed Capital Formation in the third quarter of 2020 was Rs. 1,381,595.35 million.
+Keywords: Gross Fixed Capital Formation, third quarter, 2020
+
+Question: What is the Total Domestic Demand in the annual report of 2022?
+Answer: The Total Domestic Demand in the annual report of 2022 is Rs. 18,901,239.62 million.
+Keywords: Total Domestic Demand, annual report, 2022
+
+Question: How much was the Net External Demand in the second quarter of 2021?
+Answer: The Net External Demand in the second quarter of 2021 was -Rs. 387,499.81 million.
+Keywords: Net External Demand, second quarter, 2021
+
+Question: What is the Exports of goods and services in the first quarter of 2022?
+Answer: The Exports of goods and services in the first quarter of 2022 is Rs. 934,696.55 million.
+Keywords: Exports of goods and services, first quarter, 2022
+
+Question: How much was the Imports of goods and services in the third quarter of 2021?
+Answer: The Imports of goods and services in the third quarter of 2021 is Rs. 1,016,707.20 million.
+Keywords: Imports of goods and services, third quarter, 2021
+
+Question: What is the Consumption in the fourth quarter of 2022?
+Answer: The Consumption in the fourth quarter of 2022 is Rs. 4,471,207.68 million.
+Keywords: Consumption, fourth quarter, 2022
+
+Question: How much was the Total Demand in the second quarter of 2020?
+Answer: The Total Demand in the second quarter of 2020 was Rs. 4,592,330.12 million.
+Keywords: Total Demand, second quarter, 2020
+
+Question: What is the Net External Demand in the fourth quarter of 2021?
+Answer: The Net External Demand in the fourth quarter of 2021 was -Rs. 595,70.28 million.
+Keywords: Net External Demand, fourth quarter, 2021
+
+Question: How much was the Gross Domestic Capital Formation in the fourth quarter of 2021?
+Answer: The Gross Domestic Capital Formation in the fourth quarter of 2021 was Rs. 2,328,268.75 million.
+Keywords: Gross Domestic Capital Formation, fourth quarter, 2021
+
+Question: What is the Consumption in the annual report of 2021?
+Answer: The Consumption in the annual report of 2021 is Rs. 11,469,128.96 million.
+Keywords: Consumption, annual report, 2021
+
+Question: How much was the Net External Demand in the third quarter of 2021?
+Answer: The Net External Demand in the third quarter of 2021 was -Rs. 271,031.70 million.
+Keywords: Net External Demand, third quarter, 2021
+
+Question: What is the Gross Domestic Capital Formation in the second quarter of 2021?
+Answer: The Gross Domestic Capital Formation in the second quarter of 2021 was Rs. 1,408,766.48 million.
+Keywords: Gross Domestic Capital Formation, second quarter, 2021
+
+Question: How much was the Consumption in the third quarter of 2021?
+Answer: The Consumption in the third quarter of 2021 was Rs. 3,033,820.45 million.
+Keywords: Consumption, third quarter, 2021
+
+Question: What is the Total Domestic Demand in the second quarter of 2022?
+Answer: The Total Domestic Demand in the second quarter of 2022 is Rs. 5,662,741.58 million.
+Keywords: Total Domestic Demand, second quarter, 2022
+
+Question: How much was the Gross Fixed Capital Formation in the third quarter of 2021?
+Answer: The Gross Fixed Capital Formation in the third quarter of 2021 was Rs. 1,887,741.76 million.
+Keywords: Gross Fixed Capital Formation, third quarter, 2021
+
+Question: What is the Changes in Inventories and Acquisitions less disposals of valuables in the fourth quarter of 2022?
+Answer: The Changes in Inventories and Acquisitions less disposals of valuables in the fourth quarter of 2022 is Rs. 930,620.13 million.
+Keywords: Changes in Inventories, fourth quarter, 2022
+
+Question: How much was the Total Demand in the annual report of 2023?
+Answer: The Total Demand in the annual report of 2023 is Rs. 7,328,574.00 million.
+Keywords: Total Demand, annual report, 2023
+
+Question: What is the Net External Demand in the second quarter of 2022?
+Answer: The Net External Demand in the second quarter of 2022 is -Rs. 387,499.81 million.
+Keywords: Net External Demand, second quarter, 2022
+
+Question: How much was the Exports of goods and services in the second quarter of 2020?
+Answer: The Exports of goods and services in the second quarter of 2020 was Rs. 419,705.62 million.
+Keywords: Exports of goods and services, second quarter, 2020
+
+Question: What is the Imports of goods and services in the fourth quarter of 2020?
+Answer: The Imports of goods and services in the fourth quarter of 2020 is Rs. 881,532.04 million.
+Keywords: Imports of goods and services, fourth quarter, 2020
+
+Question: How much was the Consumption in the third quarter of 2021?
+Answer: The Consumption in the third quarter of 2021 was Rs. 3,033,820.45 million.
+Keywords: Consumption, third quarter, 2021
+
+Question: What is the Total Domestic Demand in the second quarter of 2022?
+Answer: The Total Domestic Demand in the second quarter of 2022 is Rs. 5,662,741.58 million.
+Keywords: Total Domestic Demand, second quarter, 2022
+
+Question: How much was the Gross Domestic Capital Formation in the second quarter of 2021?
+Answer: The Gross Domestic Capital Formation in the second quarter of 2021 was Rs. 1,408,766.48 million.
+Keywords: Gross Domestic Capital Formation, second quarter, 2021
+
+Question: What is the Government Consumption in the first quarter of 2021?
+Answer: The Government Consumption in the first quarter of 2021 is Rs. 402,277.40 million.
+Keywords: Government Consumption, first quarter, 2021
+
+Question: How much was the Net External Demand in the fourth quarter of 2021?
+Answer: The Net External Demand in the fourth quarter of 2021 was -Rs. 595,70.28 million.
+Keywords: Net External Demand, fourth quarter, 2021
+
+Question: What is the Gross Domestic Capital Formation in the fourth quarter of 2021?
+Answer: The Gross Domestic Capital Formation in the fourth quarter of 2021 was Rs. 2,328,268.75 million.
+Keywords: Gross Domestic Capital Formation, fourth quarter, 2021
+
+Question: What is the Gross Fixed Capital Formation in the first quarter of 2022?
+Answer: The Gross Fixed Capital Formation in the first quarter of 2022 is Rs. 1,917,422.97 million.
+Keywords: Gross Fixed Capital Formation, first quarter, 2022
+
+Question: How much was the Private Consumption in the fourth quarter of 2021?
+Answer: The Private Consumption in the fourth quarter of 2021 is Rs. 4,011,436.83 million.
+Keywords: Private Consumption, fourth quarter, 2021
+
+Question: What is the Government Consumption in the third quarter of 2022?
+Answer: The Government Consumption in the third quarter of 2022 is Rs. 402,708.04 million.
+Keywords: Government Consumption, third quarter, 2022
+
+Question: How much was the Gross Domestic Capital Formation in the second quarter of 2020?
+Answer: The Gross Domestic Capital Formation in the second quarter of 2020 was Rs. 1,625,267.29 million.
+Keywords: Gross Domestic Capital Formation, second quarter, 2020
+
+Question: What is the Total Domestic Demand in the annual report of 2023?
+Answer: The Total Domestic Demand in the annual report of 2023 is Rs. 24,147,726.16 million.
+Keywords: Total Domestic Demand, annual report, 2023
+
+Question: How much was the Net External Demand in the third quarter of 2021?
+Answer: The Net External Demand in the third quarter of 2021 was -Rs. 271,031.70 million.
+Keywords: Net External Demand, third quarter, 2021
+
+Question: What is the Exports of goods and services in the second quarter of 2023?
+Answer: The Exports of goods and services in the second quarter of 2023 is Rs. 1,385,092.99 million.
+Keywords: Exports of goods and services, second quarter, 2023
+
+Question: How much was the Imports of goods and services in the fourth quarter of 2022?
+Answer: The Imports of goods and services in the fourth quarter of 2022 is Rs. 6,045,399.06 million.
+Keywords: Imports of goods and services, fourth quarter, 2022
+
+Question: What is the Consumption in the third quarter of 2023?
+Answer: The Consumption in the third quarter of 2023 is Rs. 4,471,207.68 million.
+Keywords: Consumption, third quarter, 2023
+
+Question: How much was the Total Demand in the second quarter of 2021?
+Answer: The Total Demand in the second quarter of 2021 was Rs. 5,543,306.04 million.
+Keywords: Total Demand, second quarter, 2021
+
+Question: What is the Net External Demand in the first quarter of 2022?
+Answer: The Net External Demand in the first quarter of 2022 is -Rs. 343,623.01 million.
+Keywords: Net External Demand, first quarter, 2022
+
+Question: How much was the Gross Domestic Capital Formation in the third quarter of 2021?
+Answer: The Gross Domestic Capital Formation in the third quarter of 2021 was Rs. 1,887,741.76 million.
+Keywords: Gross Domestic Capital Formation, third quarter, 2021
+
+Question: What is the Consumption in the annual report of 2022?
+Answer: The Consumption in the annual report of 2022 is Rs. 12,434,282.82 million.
+Keywords: Consumption, annual report, 2022
+
+Question: How much was the Net External Demand in the second quarter of 2021?
+Answer: The Net External Demand in the second quarter of 2021 was -Rs. 387,499.81 million.
+Keywords: Net External Demand, second quarter, 2021
+
+Question: What is the Gross Domestic Capital Formation in the second quarter of 2021?
+Answer: The Gross Domestic Capital Formation in the second quarter of 2021 was Rs. 1,408,766.48 million.
+Keywords: Gross Domestic Capital Formation, second quarter, 2021
+
+Question: How much was the Consumption in the third quarter of 2021?
+Answer: The Consumption in the third quarter of 2021 was Rs. 3,033,820.45 million.
+Keywords: Consumption, third quarter, 2021
+
+Question: What is the Total Domestic Demand in the second quarter of 2022?
+Answer: The Total Domestic Demand in the second quarter of 2022 is Rs. 5,662,741.58 million.
+Keywords: Total Domestic Demand, second quarter, 2022
+
+Question: How much was the Gross Fixed Capital Formation in the third quarter of 2021?
+Answer: The Gross Fixed Capital Formation in the third quarter of 2021 was Rs. 1,887,741.76 million.
+Keywords: Gross Fixed Capital Formation, third quarter, 2021
+
+Question: What is the Changes in Inventories and Acquisitions less disposals of valuables in the fourth quarter of 2022?
+Answer: The Changes in Inventories and Acquisitions less disposals of valuables in the fourth quarter of 2022 is Rs. 930,620.13 million.
+Keywords: Changes in Inventories, fourth quarter, 2022
+
+Question: How much was the Total Demand in the annual report of 2023?
+Answer: The Total Demand in the annual report of 2023 is Rs. 7,328,574.00 million.
+Keywords: Total Demand, annual report, 2023
+
+Question: What is the Net External Demand in the second quarter of 2022?
+Answer: The Net External Demand in the second quarter of 2022 is -Rs. 387,499.81 million.
+Keywords: Net External Demand, second quarter, 2022
+
+Question: How much was the Exports of goods and services in the second quarter of 2020?
+Answer: The Exports of goods and services in the second quarter of 2020 was Rs. 419,705.62 million.
+Keywords: Exports of goods and services, second quarter, 2020
+
+Question: What is the Imports of goods and services in the fourth quarter of 2020?
+Answer: The Imports of goods and services in the fourth quarter of 2020 is Rs. 881,532.04 million.
+Keywords: Imports of goods and services, fourth quarter, 2020
+
+Question: How much was the Consumption in the third quarter of 2021?
+Answer: The Consumption in the third quarter of 2021 was Rs. 3,033,820.45 million.
+Keywords: Consumption, third quarter, 2021
+
+Question: What is the Total Domestic Demand in the second quarter of 2022?
+Answer: The Total Domestic Demand in the second quarter of 2022 is Rs. 5,662,741.58 million.
+Keywords: Total Domestic Demand, second quarter, 2022
+
+Question: How much was the Gross Domestic Capital Formation in the second quarter of 2021?
+Answer: The Gross Domestic Capital Formation in the second quarter of 2021 was Rs. 1,408,766.48 million.
+Keywords: Gross Domestic Capital Formation, second quarter, 2021
+
+Question: What is the Government Consumption in the first quarter of 2021?
+Answer: The Government Consumption in the first quarter of 2021 is Rs. 370,864.42 million.
+Keywords: Government Consumption, first quarter, 2021
+
+Question: How much was the Total Demand in the annual report of 2022?
+Answer: The Total Demand in the annual report of 2022 is Rs. 18,901,239.62 million.
+Keywords: Total Demand, annual report, 2022
+
+Question: What is the Net External Demand in the third quarter of 2021?
+Answer: The Net External Demand in the third quarter of 2021 was -Rs. 271,031.70 million.
+Keywords: Net External Demand, third quarter, 2021

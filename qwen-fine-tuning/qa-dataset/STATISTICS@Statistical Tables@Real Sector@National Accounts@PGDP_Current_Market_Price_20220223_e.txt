@@ -1,0 +1,461 @@
+Question: What was the Gross Domestic Product (GDP) at Current Market Prices in 2016?
+Answer: The Gross Domestic Product (GDP) at Current Market Prices in 2016 was 11,996,083.30.
+Keywords: GDP, Current Market Prices, 2016
+
+Question: How much was the GDP in the Western province in 2014?
+Answer: The GDP in the Western province in 2014 was 4,295,228.
+Keywords: GDP, Western province, 2014
+
+Question: What was the GDP of the Northern province in 2018?
+Answer: The GDP of the Northern province in 2018 was 598,909.01.
+Keywords: GDP, Northern province, 2018
+
+Question: How did the GDP in the North Western province change from 2013 to 2015?
+Answer: The GDP in the North Western province increased from 1,045,953 in 2013 to 1,161,474.80 in 2015.
+Keywords: GDP, North Western province, change, 2013, 2015
+
+Question: What was the GDP of the Central province in 2017?
+Answer: The GDP of the Central province in 2017 was 1,613,127.85.
+Keywords: GDP, Central province, 2017
+
+Question: How much was the GDP in the Uva province in 2019?
+Answer: The GDP in the Uva province in 2019 was 1,131,095.26.
+Keywords: GDP, Uva province, 2019
+
+Question: What was the GDP of the Sabaragamuwa province in 2020?
+Answer: The GDP of the Sabaragamuwa province in 2020 was 1,181,153.92.
+Keywords: GDP, Sabaragamuwa province, 2020
+
+Question: How did the GDP of the Southern province change from 2014 to 2016?
+Answer: The GDP of the Southern province increased from 967,872 in 2014 to 1,203,325.06 in 2016.
+Keywords: GDP, Southern province, change, 2014, 2016
+
+Question: What was the GDP of the Eastern province in 2018?
+Answer: The GDP of the Eastern province in 2018 was 797,215.06.
+Keywords: GDP, Eastern province, 2018
+
+Question: How much was the GDP in the North Central province in 2013?
+Answer: The GDP in the North Central province in 2013 was 489,622.
+Keywords: GDP, North Central province, 2013
+
+Question: What was the GDP of the Northern province in 2019?
+Answer: The GDP of the Northern province in 2019 was 717,619.82.
+Keywords: GDP, Northern province, 2019
+
+Question: How did the GDP in the Western province change from 2016 to 2017?
+Answer: The GDP in the Western province increased from 5,584,493.04 in 2016 to 5,061,327.49 in 2017.
+Keywords: GDP, Western province, change, 2016, 2017
+
+Question: What was the GDP of the Central province in 2015?
+Answer: The GDP of the Central province in 2015 was 1,676,158.81.
+Keywords: GDP, Central province, 2015
+
+Question: How much was the GDP in the Uva province in 2014?
+Answer: The GDP in the Uva province in 2014 was 1,131,095.26.
+Keywords: GDP, Uva province, 2014
+
+Question: What was the GDP of the Sabaragamuwa province in 2013?
+Answer: The GDP of the Sabaragamuwa province in 2013 was 667,140.
+Keywords: GDP, Sabaragamuwa province, 2013
+
+Question: How did the GDP of the North Western province change from 2015 to 2017?
+Answer: The GDP of the North Western province increased from 1,161,474.80 in 2015 to 1,455,090.89 in 2017.
+Keywords: GDP, North Western province, change, 2015, 2017
+
+Question: What was the GDP of the Northern province in 2016?
+Answer: The GDP of the Northern province in 2016 was 747,652.14.
+Keywords: GDP, Northern province, 2016
+
+Question: How much was the GDP in the Southern province in 2018?
+Answer: The GDP in the Southern province in 2018 was 854,069.17.
+Keywords: GDP, Southern province, 2018
+
+Question: What was the GDP of the Eastern province in 2020?
+Answer: The GDP of the Eastern province in 2020 was 1,653,135.00.
+Keywords: GDP, Eastern province, 2020
+
+Question: How did the GDP in the North Central province change from 2014 to 2016?
+Answer: The GDP in the North Central province increased from 499,534 in 2014 to 617,032.80 in 2016.
+Keywords: GDP, North Central province, change, 2014, 2016
+
+Question: What was the GDP of the Central province in 2019?
+Answer: The GDP of the Central province in 2019 was 1,614,551.00.
+Keywords: GDP, Central province, 2019
+
+Question: How much was the GDP in the Eastern province in 2017?
+Answer: The GDP in the Eastern province in 2017 was 1,457,090.89.
+Keywords: GDP, Eastern province, 2017
+
+Question: What was the GDP of the North Western province in 2016?
+Answer: The GDP of the North Western province in 2016 was 1,297,333.95.
+Keywords: GDP, North Western province, 2016
+
+Question: How did the GDP of the Sabaragamuwa province change from 2017 to 2019?
+Answer: The GDP of the Sabaragamuwa province increased from 1,049,496.42 in 2017 to 1,131,095.26 in 2019.
+Keywords: GDP, Sabaragamuwa province, change, 2017, 2019
+
+Question: What was the GDP of the Northern province in 2015?
+Answer: The GDP of the Northern province in 2015 was 624,801.00.
+Keywords: GDP, Northern province, 2015
+
+Question: How much was the GDP in the Western province in 2013?
+Answer: The GDP in the Western province in 2013 was 4,049,310.
+Keywords: GDP, Western province, 2013
+
+Question: What was the GDP of the Central province in 2018?
+Answer: The GDP of the Central province in 2018 was 1,613,127.85.
+Keywords: GDP, Central province, 2018
+
+Question: How did the GDP in the North Western province change from 2018 to 2020?
+Answer: The GDP in the North Western province increased from 1,455,090.89 in 2018 to 1,
+
+883,717.14 in 2020.
+Keywords: GDP, North Western province, change, 2018, 2020
+
+Question: What was the GDP of the Eastern province in 2014?
+Answer: The GDP of the Eastern province in 2014 was 1,112,474.49.
+Keywords: GDP, Eastern province, 2014
+
+Question: How much was the GDP in the North Central province in 2016?
+Answer: The GDP in the North Central province in 2016 was 617,032.80.
+Keywords: GDP, North Central province, 2016
+
+Question: What was the GDP of the Sabaragamuwa province in 2018?
+Answer: The GDP of the Sabaragamuwa province in 2018 was 1,049,496.42.
+Keywords: GDP, Sabaragamuwa province, 2018
+
+Question: How did the GDP of the Northern province change from 2016 to 2018?
+Answer: The GDP of the Northern province increased from 747,652.14 in 2016 to 798,204.67 in 2018.
+Keywords: GDP, Northern province, change, 2016, 2018
+
+Question: What was the GDP of the Western province in 2015?
+Answer: The GDP of the Western province in 2015 was 4,364,660.
+Keywords: GDP, Western province, 2015
+
+Question: How much was the GDP in the Northern province in 2013?
+Answer: The GDP in the Northern province in 2013 was 479,918.
+Keywords: GDP, Northern province, 2013
+
+Question: What was the GDP of the Uva province in 2017?
+Answer: The GDP of the Uva province in 2017 was 623,251.95.
+Keywords: GDP, Uva province, 2017
+
+Question: How did the GDP in the North Western province change from 2013 to 2015?
+Answer: The GDP in the North Western province increased from 1,135,266 to 1,306,018 in 2015.
+Keywords: GDP, North Western province, change, 2013, 2015
+
+Question: What was the GDP of the Central province in 2016?
+Answer: The GDP of the Central province in 2016 was 1,676,158.81.
+Keywords: GDP, Central province, 2016
+
+Question: How much was the GDP in the Sabaragamuwa province in 2020?
+Answer: The GDP in the Sabaragamuwa province in 2020 was 1,181,153.92.
+Keywords: GDP, Sabaragamuwa province, 2020
+
+Question: What was the GDP of the Northern province in 2019?
+Answer: The GDP of the Northern province in 2019 was 717,619.82.
+Keywords: GDP, Northern province, 2019
+
+Question: How did the GDP of the Western province change from 2016 to 2017?
+Answer: The GDP of the Western province increased from 5,584,493.04 in 2016 to 5,061,327.49 in 2017.
+Keywords: GDP, Western province, change, 2016, 2017
+
+Question: What was the GDP of the Central province in 2015?
+Answer: The GDP of the Central province in 2015 was 1,613,127.85.
+Keywords: GDP, Central province, 2015
+
+Question: How much was the GDP in the Uva province in 2014?
+Answer: The GDP in the Uva province in 2014 was 1,131,095.26.
+Keywords: GDP, Uva province, 2014
+
+Question: What was the GDP of the Sabaragamuwa province in 2013?
+Answer: The GDP of the Sabaragamuwa province in 2013 was 667,140.
+Keywords: GDP, Sabaragamuwa province, 2013
+
+Question: How did the GDP of the North Western province change from 2015 to 2017?
+Answer: The GDP of the North Western province increased from 1,161,474.80 in 2015 to 1,455,090.89 in 2017.
+Keywords: GDP, North Western province, change, 2015, 2017
+
+Question: What was the GDP of the Northern province in 2016?
+Answer: The GDP of the Northern province in 2016 was 747,652.14.
+Keywords: GDP, Northern province, 2016
+
+Question: How much was the GDP in the Southern province in 2018?
+Answer: The GDP in the Southern province in 2018 was 854,069.17.
+Keywords: GDP, Southern province, 2018
+
+Question: What was the GDP of the Eastern province in 2020?
+Answer: The GDP of the Eastern province in 2020 was 1,653,135.00.
+Keywords: GDP, Eastern province, 2020
+
+Question: How did the GDP in the North Central province change from 2014 to 2016?
+Answer: The GDP in the North Central province increased from 499,534 in 2014 to 617,032.80 in 2016.
+Keywords: GDP, North Central province, change, 2014, 2016
+
+Question: What was the GDP of the Central province in 2019?
+Answer: The GDP of the Central province in 2019 was 1,614,551.00.
+Keywords: GDP, Central province, 2019
+
+Question: How much was the GDP in the Eastern province in 2017?
+Answer: The GDP in the Eastern province in 2017 was 1,457,090.89.
+Keywords: GDP, Eastern province, 2017
+
+Question: What was the GDP of the North Western province in 2016?
+Answer: The GDP of the North Western province in 2016 was 1,297,333.95.
+Keywords: GDP, North Western province, 2016
+
+Question: How did the GDP of the Sabaragamuwa province change from 2017 to 2019?
+Answer: The GDP of the Sabaragamuwa province increased from 1,049,496.42 in 2017 to 1,131,095.26 in 2019.
+Keywords: GDP, Sabaragamuwa province, change, 2017, 2019
+
+Question: What was the GDP of the Northern province in 2015?
+Answer: The GDP of the Northern province in 2015 was 624,801.00.
+Keywords: GDP, Northern province, 2015
+
+Question: How much was the GDP in the Western province in 2013?
+Answer: The GDP in the Western province in 2013 was 4,049,310.
+Keywords: GDP, Western province, 2013
+
+Question: What was the GDP of the Central province in 2018?
+Answer: The GDP of the Central province in 2018 was 1,613,127.85.
+Keywords: GDP, Central province, 2018
+
+Question: How did the GDP in the North Western province change from 2018 to 2020?
+Answer: The GDP in the North Western province increased from 1,455,090.89 in 2018 to 1,883,717.14 in 2020.
+Keywords: GDP, North Western province, change, 2018, 2020
+
+Question: What was the GDP of the Eastern province in 2014?
+Answer: The GDP of the Eastern province in 2014 was 1,112,474.49.
+Keywords: GDP, Eastern province, 2014
+
+Question: How much was the GDP in the North Central province in 2016?
+Answer: The GDP in the North Central province in 2016 was 617,032.80.
+Keywords: GDP, North Central province, 2016
+
+Question: What was the GDP of the Sabaragamuwa province in 2018?
+Answer: The GDP of the Sabaragamuwa province in 2018 was 1,049,496.42.
+Keywords: GDP, Sabaragamuwa province, 2018
+
+Question: How did the GDP of the Northern province change from 2016 to 2018?
+Answer: The GDP of the Northern province increased from 747,652.14 in 2016 to 798,204.67 in 2018.
+Keywords: GDP, Northern province, change, 2016, 2018
+
+Question: What was the GDP of the Western province in 2015?
+Answer: The GDP of the Western province in 2015 was 4,364,660.
+Keywords: GDP, Western province, 2015
+
+Question: What was the GDP of the Uva province in 2017?
+Answer: The GDP of the Uva province in 2017 was 961,097.91.
+Keywords: GDP, Uva province, 2017
+
+Question: How much was the GDP in the Northern province in 2013?
+Answer: The GDP in the Northern province in 2013 was 479,918.
+Keywords: GDP, Northern province, 2013
+
+Question: What was the GDP of the North Western province in 2018?
+Answer: The GDP of the North Western province in 2018 was 1,297,333.95.
+Keywords: GDP, North Western province, 2018
+
+Question: How did the GDP of the Western province change from 2016 to 2018?
+Answer: The GDP of the Western province increased from 5,584,493.04 in 2016 to 5,882,172.53 in 2018.
+Keywords: GDP, Western province, change, 2016, 2018
+
+Question: What was the GDP of the Eastern province in 2014?
+Answer: The GDP of the Eastern province in 2014 was 1,112,474.49.
+Keywords: GDP, Eastern province, 2014
+
+Question: How much was the GDP in the North Central province in 2016?
+Answer: The GDP in the North Central province in 2016 was 617,032.80.
+Keywords: GDP, North Central province, 2016
+
+Question: What was the GDP of the Central province in 2019?
+Answer: The GDP of the Central province in 2019 was 1,614,551.00.
+Keywords: GDP, Central province, 2019
+
+Question: How did the GDP of the North Western province change from 2015 to 2017?
+Answer: The GDP of the North Western province increased from 1,161,474.80 in 2015 to 1,455,090.89 in 2017.
+Keywords: GDP, North Western province, change, 2015, 2017
+
+Question: What was the GDP of the Sabaragamuwa province in 2018?
+Answer: The GDP of the Sabaragamuwa province in 2018 was 1,049,496.42.
+Keywords: GDP, Sabaragamuwa province, 2018
+
+Question: How much was the GDP in the Eastern province in 2017?
+Answer: The GDP in the Eastern province in 2017 was 1,457,090.89.
+Keywords: GDP, Eastern province, 2017
+
+Question: What was the GDP of the North Western province in 2016?
+Answer: The GDP of the North Western province in 2016 was 1,297,333.95.
+Keywords: GDP, North Western province, 2016
+
+Question: How did the GDP of the Sabaragamuwa province change from 2017 to 2019?
+Answer: The GDP of the Sabaragamuwa province increased from 1,049,496.42 in 2017 to 1,131,095.26 in 2019.
+Keywords: GDP, Sabaragamuwa province, change, 2017, 2019
+
+Question: What was the GDP of the Northern province in 2016?
+Answer: The GDP of the Northern province in 2016 was 747,652.14.
+Keywords: GDP, Northern province, 2016
+
+Question: How much was the GDP in the Southern province in 2018?
+Answer: The GDP in the Southern province in 2018 was 854,069.17.
+Keywords: GDP, Southern province, 2018
+
+Question: What was the GDP of the Central province in 2018?
+Answer: The GDP of the Central province in 2018 was 1,613,127.85.
+Keywords: GDP, Central province, 2018
+
+Question: How did the GDP of the North Western province change from 2018 to 2020?
+Answer: The GDP of the North Western province increased from 1,455,090.89 in 2018 to 1,883,717.14 in 2020.
+Keywords: GDP, North Western province, change, 2018, 2020
+
+Question: What was the GDP of the Eastern province in 2015?
+Answer: The GDP of the Eastern province in 2015 was 624,801.00.
+Keywords: GDP, Eastern province, 2015
+
+Question: How much was the GDP in the Western province in 2013?
+Answer: The GDP in the Western province in 2013 was 4,049,310.
+Keywords: GDP, Western province, 2013
+
+Question: What was the GDP of the Central province in 2017?
+Answer: The GDP of the Central province in 2017 was 1,276,322.46.
+Keywords: GDP, Central province, 2017
+
+Question: How did the GDP in the North Central province change from 2014 to 2016?
+Answer: The GDP in the North Central province increased from 499,534 in 2014 to 617,032.80 in 2016.
+Keywords: GDP, North Central province, change, 2014, 2016
+
+Question: What was the GDP of the Sabaragamuwa province in 2013?
+Answer: The GDP of the Sabaragamuwa province in 2013 was 667,140.
+Keywords: GDP, Sabaragamuwa province, 2013
+
+Question: How much was the GDP in the Northern province in 2015?
+Answer: The GDP in the Northern province in 2015 was 624,801.00.
+Keywords: GDP, Northern province, 2015
+
+Question: What was the GDP of the Western province in 2015?
+Answer: The GDP of the Western province in 2015 was 4,364,660.
+Keywords: GDP, Western province, 2015
+
+Question: How did the GDP of the Northern province change from 2016 to 2018?
+Answer: The GDP of the Northern province increased from 747,652.14 in 2016 to 798,204.67 in 2018.
+Keywords: GDP, Northern province, change, 2016, 2018
+
+Question: What was the GDP of the Eastern province in 2020?
+Answer: The GDP of the Eastern province in 2020 was 1,653,135.00.
+Keywords: GDP, Eastern province, 2020
+
+Question: How much was the GDP in the North Central province in 2013?
+Answer: The GDP in the North Central province in 2013 was 499,534.
+Keywords: GDP, North Central province, 2013
+
+Question: What was the GDP of the Sabaragamuwa province in 2019?
+Answer: The GDP of the Sabaragamuwa province in 2019 was 1,131,095.26.
+Keywords: GDP, Sabaragamuwa province, 2019
+
+Question: How did the GDP of the Western province change from 2015 to 2017?
+Answer: The GDP of the Western province increased from 4,364,660 in 2015 to 4,983,651.22 in 2017.
+Keywords: GDP, Western province, change, 2015, 2017
+
+Question: What was the GDP of the Central province in 2016?
+Answer: The GDP of the Central province in 2016 was 1,218,926.15.
+Keywords: GDP, Central province, 2016
+
+Question: What was the GDP of the Northern province in 2017?
+Answer: The GDP of the Northern province in 2017 was 1,043,994.20.
+Keywords: GDP, Northern province, 2017
+
+Question: How much was the GDP in the Western province in 2013?
+Answer: The GDP in the Western province in 2013 was 4,049,310.
+Keywords: GDP, Western province, 2013
+
+Question: What was the GDP of the North Western province in 2018?
+Answer: The GDP of the North Western province in 2018 was 1,297,333.95.
+Keywords: GDP, North Western province, 2018
+
+Question: How did the GDP of the Western province change from 2016 to 2018?
+Answer: The GDP of the Western province increased from 5,584,493.04 in 2016 to 5,882,172.53 in 2018.
+Keywords: GDP, Western province, change, 2016, 2018
+
+Question: What was the GDP of the Eastern province in 2014?
+Answer: The GDP of the Eastern province in 2014 was 1,112,474.49.
+Keywords: GDP, Eastern province, 2014
+
+Question: How much was the GDP in the North Central province in 2016?
+Answer: The GDP in the North Central province in 2016 was 617,032.80.
+Keywords: GDP, North Central province, 2016
+
+Question: What was the GDP of the Sabaragamuwa province in 2018?
+Answer: The GDP of the Sabaragamuwa province in 2018 was 1,049,496.42.
+Keywords: GDP, Sabaragamuwa province, 2018
+
+Question: How did the GDP of the North Western province change from 2017 to 2019?
+Answer: The GDP of the North Western province increased from 1,161,474.80 in 2017 to 1,455,090.89 in 2019.
+Keywords: GDP, North Western province, change, 2017, 2019
+
+Question: What was the GDP of the Northern province in 2016?
+Answer: The GDP of the Northern province in 2016 was 747,652.14.
+Keywords: GDP, Northern province, 2016
+
+Question: How much was the GDP in the Southern province in 2018?
+Answer: The GDP in the Southern province in 2018 was 854,069.17.
+Keywords: GDP, Southern province, 2018
+
+Question: What was the GDP of the Central province in 2018?
+Answer: The GDP of the Central province in 2018 was 1,613,127.85.
+Keywords: GDP, Central province, 2018
+
+Question: How did the GDP of the North Western province change from 2018 to 2020?
+Answer: The GDP of the North Western province increased from 1,455,090.89 in 2018 to 1,883,717.14 in 2020.
+Keywords: GDP, North Western province, change, 2018, 2020
+
+Question: What was the GDP of the Eastern province in 2015?
+Answer: The GDP of the Eastern province in 2015 was 624,801.00.
+Keywords: GDP, Eastern province, 2015
+
+Question: How much was the GDP in the Western province in 2013?
+Answer: The GDP in the Western province in 2013 was 4,049,310.
+Keywords: GDP, Western province, 2013
+
+Question: What was the GDP of the Central province in 2017?
+Answer: The GDP of the Central province in 2017 was 1,276,322.46.
+Keywords: GDP, Central province, 2017
+
+Question: How did the GDP in the North Central province change from 2014 to 2016?
+Answer: The GDP in the North Central province increased from 499,534 in 2014 to 617,032.80 in 2016.
+Keywords: GDP, North Central province, change, 2014, 2016
+
+Question: What was the GDP of the Sabaragamuwa province in 2013?
+Answer: The GDP of the Sabaragamuwa province in 2013 was 667,140.
+Keywords: GDP, Sabaragamuwa province, 2013
+
+Question: How much was the GDP in the Northern province in 2015?
+Answer: The GDP in the Northern province in 2015 was 624,801.00.
+Keywords: GDP, Northern province, 2015
+
+Question: What was the GDP of the Western province in 2015?
+Answer: The GDP of the Western province in 2015 was 4,364,660.
+Keywords: GDP, Western province, 2015
+
+Question: How did the GDP of the Northern province change from 2016 to 2018?
+Answer: The GDP of the Northern province increased from 747,652.14 in 2016 to 798,204.67 in 2018.
+Keywords: GDP, Northern province, change, 2016, 2018
+
+Question: What was the GDP of the Eastern province in 2020?
+Answer: The GDP of the Eastern province in 2020 was 1,653,135.00.
+Keywords: GDP, Eastern province, 2020
+
+Question: How much was the GDP in the North Central province in 2013?
+Answer: The GDP in the North Central province in 2013 was 499,534.
+Keywords: GDP, North Central province, 2013
+
+Question: What was the GDP of the Sabaragamuwa province in 2019?
+Answer: The GDP of the Sabaragamuwa province in 2019 was 1,131,095.26.
+Keywords: GDP, Sabaragamuwa province, 2019
+
+Question: How did the GDP of the Western province change from 2015 to 2017?
+Answer: The GDP of the Western province increased from 4,364,660 in 2015 to 4,983,651.22 in 2017.
+Keywords: GDP, Western province, change, 2015, 2017
+
+Question: What was the GDP of the Central province in 2016?
+Answer: The GDP of the Central province in 2016 was 1,218,926.15.
+Keywords: GDP, Central province, 2016

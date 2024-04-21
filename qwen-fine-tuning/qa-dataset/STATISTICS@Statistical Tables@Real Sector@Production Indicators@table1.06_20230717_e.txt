@@ -1,0 +1,181 @@
+Question: What is the base period for the Greater Colombo Housing Approval Index?
+Answer: The base period is 1995 Q1 = 100.
+
+Question: What are the types of building approvals included in the data?
+Answer: The types of building approvals include housing approvals and other building approvals.
+
+Question: How many Municipal Councils are included in the data?
+Answer: There are 5 Municipal Councils included.
+
+Question: Which source provided the data?
+Answer: The data source is the Central Bank of Sri Lanka.
+
+Question: What is the period covered by the Housing Approval Index data?
+Answer: The period covered is from 2003 to 2022.
+
+Question: Which size categories are considered for housing approvals?
+Answer: Housing approvals are categorized based on sizes: <1000 sq. ft., 1000-2000 sq.ft, and >2000 sq. ft.
+
+Question: How many Urban Councils are included in the data?
+Answer: There are 7 Urban Councils included.
+
+Question: What is the total number of buildings included in the "All Buildings" category for 2003 Q1?
+Answer: The total number of buildings is 2837.
+
+Question: Which Pradeshiya Sabha was re-categorized as Kaduwela Municipal Council from the 3rd quarter of 2011?
+Answer: Kaduwela Pradeshiya Sabha was re-categorized.
+
+Question: When did the inclusion of Mahara Pradeshiya Sabha start?
+Answer: Mahara Pradeshiya Sabha was included from 2005.
+
+Question: What is the index value for housing approvals in 2018 Q2 for the category of >2000 sq. ft.?
+Answer: The index value is 208.5447.
+
+Question: Which year saw the highest number of housing approvals in the dataset?
+Answer: The year with the highest number of housing approvals was 2006.
+
+Question: Which quarter of 2012 saw the highest number of Other Building Approvals?
+Answer: The highest number of Other Building Approvals was in Q3 2012.
+
+Question: What is the total number of buildings in 2019 Q4?
+Answer: The total number of buildings is 3258.
+
+Question: When was the Oyabadaperuwa sub office excluded from the data?
+Answer: The Oyabadaperuwa sub office was excluded in 2007.
+
+Question: What is the format of the Greater Colombo Housing Approval Index data?
+Answer: The format is presented quarterly from 2003 to 2022.
+
+Question: Which size category had the highest number of housing approvals in 2005 Q3?
+Answer: The size category >2000 sq. ft. had the highest number of approvals.
+
+Question: What is the index value for housing approvals in 2016 Q4 for the category of 1000-2000 sq.ft.?
+Answer: The index value is 100.
+
+Question: How many Urban Councils are included in the data from 2007 onwards?
+Answer: There are 7 Urban Councils included.
+
+Question: In which quarter of 2014 did the housing approval index reach its highest value?
+Answer: The housing approval index reached its highest value in Q3 2014.
+
+Question: Which Pradeshiya Sabha was excluded from the data in 2007?
+Answer: Oyabadaperuwa sub office was excluded from the data in 2007.
+
+Question: What is the trend of housing approvals from 2003 to 2022?
+Answer: The trend generally shows fluctuations with periods of increases and decreases.
+
+Question: What is the significance of the base period in the Housing Approval Index?
+Answer: The base period serves as a reference point for comparison to assess changes over time.
+
+Question: Which year had the highest total number of housing approvals?
+Answer: The year with the highest total number of housing approvals was 2007.
+
+Question: What is the source of the Greater Colombo Housing Approval Index data?
+Answer: The source is the Central Bank of Sri Lanka.
+
+Question: What is the index value for Other Building Approvals in 2017 Q2?
+Answer: The index value is 226.1682.
+
+Question: How many sheets are included in the dataset?
+Answer: The dataset contains one sheet named "1.06".
+
+Question: Which quarter of 2011 saw the re-categorization of Kaduwela Pradeshiya Sabha?
+Answer: The re-categorization occurred in the 3rd quarter of 2011.
+
+Question: What is the total number of buildings in 2012 Q3?
+Answer: The total number of buildings is 3595.
+
+Question: What is the significance of the Other Building Approvals category in the dataset?
+Answer: It provides information about building approvals other than housing, contributing to a comprehensive understanding of construction activity.
+
+Question: What is the period covered by the Greater Colombo Housing Approval Index data?
+Answer: The period covered is from 2003 to 2022.
+
+Question: Which size category had the lowest number of housing approvals in 2006 Q1?
+Answer: The size category <1000 sq. ft. had the lowest number of approvals.
+
+Question: What is the total number of housing approvals in 2019 Q2?
+Answer: The total number of housing approvals is 2491.
+
+Question: How many Municipal Councils are included in the dataset?
+Answer: There are 5 Municipal Councils included.
+
+Question: In which quarter of 2010 did the housing approval index experience a decline from the previous quarter?
+Answer: The housing approval index experienced a decline in Q2 2010.
+
+Question: Which sub office was excluded from the data in 2012?
+Answer: The Oyabadaperuwa sub office was excluded from the data in 2012.
+
+Question: What is the index value for housing approvals in 2018 Q4 for the category of >2000 sq.ft.?
+Answer: The index value is 244.0587.
+
+Question: How many Pradeshiya Sabha are included in the dataset from 2005 onwards?
+Answer: There are 8 Pradeshiya Sabha included.
+
+Question: What is the trend of Other Building Approvals from 2003 to 2022?
+Answer: The trend shows fluctuations with periods of increase and decrease similar to housing approvals.
+
+Question: Which quarter of 2013 saw the highest number of housing approvals?
+Answer: The highest number of housing approvals was in Q4 2013.
+
+Question: What is the index value for housing approvals in 2017 Q3 for the category of 1000-2000 sq.ft.?
+Answer: The index value is 262.3498.
+
+Question: How many Urban Councils are included in the dataset from 2015 onwards?
+Answer: There are 8 Urban Councils included.
+
+Question: In which year did the dataset begin to include the Mahara Pradeshiya Sabha?
+Answer: The Mahara Pradeshiya Sabha was included from 2005 onwards.
+
+Question: What is the significance of the "All Buildings" category in the dataset?
+Answer: It represents the total number of building approvals, providing an overview of construction activity in the Greater Colombo area.
+
+Question: What is the index value for housing approvals in 2022 Q2 for the category of <1000 sq.ft.?
+Answer: The index value is 72.3361.
+
+Question: Which quarter of 2016 witnessed the highest number of housing approvals?
+Answer: The highest number of housing approvals was in Q2 2016.
+
+Question: What is the Base Period for the Greater Colombo Housing Approval Index?
+Answer: The Base Period is 1995 Q1 = 100.
+
+Question: How many Urban Councils are included in the dataset from 2003 to 2010?
+Answer: There are 7 Urban Councils included during that period.
+
+Question: In which year did the dataset start including the Kaduwela Municipal Council?
+Answer: From the 3rd quarter of 2011 onwards, Kaduwela Pradeshiya Sabha is re-categorized as Kaduwela Municipal Council.
+
+Question: What is the trend of the Housing Approval Index from 2003 to 2022?
+Answer: The trend generally shows fluctuations, indicating variations in housing approval activity over the years.
+
+Question: What is the total number of building approvals in 2004 Q3?
+Answer: The total number of building approvals is 3643.
+
+Question: Which size category had the highest number of housing approvals in 2015 Q4?
+Answer: The size category >2000 sq. ft. had the highest number of approvals.
+
+Question: What is the index value for Other Building Approvals in 2019 Q3?
+Answer: The index value is 101.6032.
+
+Question: What is the source of the Greater Colombo Housing Approval Index data?
+Answer: The source is the Central Bank of Sri Lanka.
+
+Question: How many Municipal Councils are included in the dataset from 2010 onwards?
+Answer: There are 5 Municipal Councils included.
+
+Question: Which quarter of 2005 saw the highest index value for housing approvals?
+Answer: The highest index value was in Q2 2005.
+
+Question: What was the total number of building approvals in 2017 Q2?
+Answer: The total number of building approvals is 2964.
+
+Question: What is the index value for housing approvals in 2012 Q3 for the category of 1000-2000 sq.ft.?
+Answer: The index value is 94.3648.
+
+Question: How many Pradeshiya Sabha are included in the dataset in 2009 Q4?
+Answer: There are 8 Pradeshiya Sabha included.
+
+Question: What is the index value for housing approvals in 2021 Q4 for the category of >2000 sq.ft.?
+Answer: The index value is 121.6906.
+
+=================================================================================== 60 =====================================================================================
